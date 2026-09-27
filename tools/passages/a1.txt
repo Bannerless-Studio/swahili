@@ -1,0 +1,344 @@
+# A1 passages: 60-90 words, A1 lemmas plus at most 3 A2 lemmas, no B1.
+
+@ A1 | Familia ya Juma | names: Juma, Arusha
+S Jina langu ni Juma na ninaishi Arusha. | My name is Juma and I live in Arusha.
+S Nina familia kubwa. | I have a big family.
+S Baba yangu ni mwalimu katika shule ya kijiji. | My father is a teacher at the village school.
+S Mama yangu anafanya kazi katika hospitali. | My mother works in a hospital.
+S Nina dada wawili na kaka mmoja. | I have two sisters and one brother.
+S Kaka yangu ni mdogo na anapenda kucheza na mbwa wetu. | My brother is small and likes to play with our dog.
+S Jioni tunakula chakula pamoja. | In the evening we eat together.
+S Siku ya Jumapili tunakwenda sokoni na mama. | On Sunday we go to the market with mother.
+S Asubuhi baba na mama wanakwenda kazini mapema. | In the morning father and mother go to work early.
+S Mimi na kaka yangu tunakwenda shule pamoja. | My brother and I go to school together.
+S Ninaipenda familia yangu sana. | I love my family very much.
+Q mc | 2 | baba,mwalimu | Baba wa Juma anafanya kazi gani? | What work does Juma's father do? | Anafundisha watoto ;; Ni daktari ;; Anafanya kazi sokoni ;; Ni polisi
+Q tf | F | 3 | mama,hospitali | Mama wa Juma anafanya kazi katika duka. | Juma's mother works in a shop.
+Q mc | 4 | dada | Juma ana dada wangapi? | How many sisters does Juma have? | Wawili ;; Mmoja ;; Watatu ;; Hana dada
+Q tf | T | 6 | la,chakula | Jioni familia inakula pamoja. | In the evening the family eats together.
+Q tf | F | 7 | enda,soko | Siku ya Jumamosi wanakwenda sokoni. | On Saturday they go to the market.
+
+@ A1 | Siku yangu | names: Amina
+S Mimi ni Amina. | I am Amina.
+S Kila siku ninaamka saa moja asubuhi. | Every day I wake up at seven in the morning.
+S Ninaoga, kisha ninakunywa chai na kula mkate. | I wash, then I drink tea and eat bread.
+S Saa mbili ninaenda kazini kwa miguu. | At eight I go to work on foot.
+S Ninafanya kazi katika ofisi ndogo mjini. | I work in a small office in town.
+S Mchana ninakula wali na samaki pamoja na rafiki yangu. | At midday I eat rice and fish with my friend.
+S Saa kumi na moja jioni ninarudi nyumbani. | At five in the evening I return home.
+S Usiku ninasoma kitabu kidogo, kisha ninalala. | At night I read a little book, then I sleep.
+S Kazi yangu ni kuandika barua na kupokea simu. | My work is writing letters and taking phone calls.
+S Siku ya Jumapili ninakaa nyumbani na familia yangu. | On Sunday I stay at home with my family.
+Q mc | 1 | amka | Amina anaamka saa ngapi? | What time does Amina wake up? | Saa moja asubuhi ;; Saa mbili asubuhi ;; Saa sita mchana ;; Saa tatu usiku
+Q tf | F | 3 | enda,kazi | Amina anaenda kazini kwa gari. | Amina goes to work by car.
+Q tf | T | 4 | ofisi | Ofisi ya Amina iko mjini. | Amina's office is in town.
+Q mc | 5 | la,wali | Amina anakula nini mchana? | What does Amina eat at midday? | Samaki na wali ;; Mkate na chai ;; Nyama na mboga ;; Ndizi tu
+Q tf | T | 7 | soma,kitabu | Kabla ya kulala, Amina anasoma. | Before sleeping, Amina reads.
+
+@ A1 | Sokoni | names: Neema | oop: shilingi=currency unit of Tanzania and Kenya, no pack word
+S Leo ni Jumamosi na Neema anakwenda sokoni. | Today is Saturday and Neema is going to the market.
+S Soko liko karibu na nyumba yake. | The market is near her house.
+S Anataka kununua mboga, matunda na samaki. | She wants to buy vegetables, fruit and fish.
+S Ndizi ni bei rahisi leo. | Bananas are cheap today.
+S Neema ananunua ndizi kumi na embe tano. | Neema buys ten bananas and five mangoes.
+S Leo hakuna samaki, kwa hiyo ananunua kuku mmoja. | There is no fish today, so she buys one chicken.
+S Analipa shilingi elfu tatu. | She pays three thousand shillings.
+S Kisha anarudi nyumbani kupika chakula cha mchana. | Then she goes back home to cook lunch.
+S Sokoni kuna watu wengi sana kila Jumamosi. | There are very many people at the market every Saturday.
+S Neema anazungumza na mama mmoja anayeuza matunda. | Neema talks with a woman who sells fruit.
+Q tf | T | 1 | soko,karibu | Soko haliko mbali na nyumba ya Neema. | The market is not far from Neema's house.
+Q mc | 4 | nunua,ndizi | Neema ananunua ndizi ngapi? | How many bananas does Neema buy? | Kumi ;; Tano ;; Tatu ;; Mbili
+Q tf | F | 5 | nunua,kuku | Neema ananunua kuku wawili. | Neema buys two chickens.
+Q mc | 7 | pika,chakula | Neema atafanya nini nyumbani? | What will Neema do at home? | Kuandaa chakula ;; Kulala ;; Kusoma kitabu kipya ;; Kuoga
+Q tf | T | 6 | lipa,elfu | Neema analipa shilingi elfu tatu. | Neema pays three thousand shillings.
+
+@ A1 | Nyumba yetu | names: Baraka
+S Mimi ni Baraka na hii ni nyumba yetu. | I am Baraka and this is our house.
+S Nyumba yetu si kubwa, lakini ni nzuri. | Our house is not big, but it is nice.
+S Ina vyumba vitatu, jiko na choo. | It has three rooms, a kitchen and a toilet.
+S Katika chumba changu kuna kitanda, meza na kiti. | In my room there is a bed, a table and a chair.
+S Dirisha langu ni kubwa na ninaona mti mzuri nje. | My window is big and I see a beautiful tree outside.
+S Mama anapika jikoni kila asubuhi. | Mother cooks in the kitchen every morning.
+S Nyuma ya nyumba kuna maua mengi. | Behind the house there are many flowers.
+S Ninapenda kukaa nje jioni. | I like to sit outside in the evening.
+S Baba yangu anapenda kusoma gazeti katika chumba kikubwa. | My father likes to read the newspaper in the big room.
+S Kaka yangu analala katika chumba kingine. | My brother sleeps in the other room.
+Q mc | 2 | chumba | Nyumba ya Baraka ina vyumba vingapi? | How many rooms does Baraka's house have? | Vitatu ;; Viwili ;; Vinne ;; Kimoja
+Q tf | F | 1 | nyumba,kubwa | Nyumba ya Baraka ni kubwa sana. | Baraka's house is very big.
+Q tf | T | 3 | kitanda,meza | Kuna meza katika chumba cha Baraka. | There is a table in Baraka's room.
+Q mc | 4 | ona,mti | Baraka anaona nini kupitia dirisha? | What does Baraka see through the window? | Mti ;; Mto ;; Gari ;; Soko
+Q tf | T | 6 | ua | Kuna maua nyuma ya nyumba. | There are flowers behind the house.
+
+@ A1 | Shuleni | names: Rehema, Zawadi
+S Rehema ni mwanafunzi na ana miaka kumi. | Rehema is a pupil and she is ten years old.
+S Shule yake iko karibu na nyumbani. | Her school is near home.
+S Kila asubuhi anatembea shuleni pamoja na rafiki zake. | Every morning she walks to school with her friends.
+S Darasa lake lina wanafunzi thelathini. | Her class has thirty pupils.
+S Mwalimu wao ni mwanamke mzuri na anaitwa Zawadi. | Their teacher is a nice woman and she is called Zawadi.
+S Rehema anapenda kusoma na kuandika. | Rehema likes reading and writing.
+S Saa sita mchana wanafunzi wanakula na kucheza nje. | At noon the pupils eat and play outside.
+S Rehema anarudi nyumbani saa tisa. | Rehema returns home at three.
+S Darasani wanajifunza Kiswahili na Kiingereza. | In class they learn Swahili and English.
+S Jioni anafanya kazi ya shule na kumsaidia mama. | In the evening she does schoolwork and helps her mother.
+Q mc | 0 | mwaka | Rehema ana umri gani? | How old is Rehema? | Miaka kumi ;; Miaka mitano ;; Miaka ishirini ;; Miaka mitatu
+Q tf | F | 2 | tembea,shule | Rehema anakwenda shuleni kwa gari. | Rehema goes to school by car.
+Q mc | 3 | darasa | Kuna wanafunzi wangapi darasani? | How many pupils are in the class? | Thelathini ;; Ishirini ;; Kumi ;; Hamsini
+Q tf | T | 4 | mwalimu,mwanamke | Mwalimu wa Rehema ni mwanamke. | Rehema's teacher is a woman.
+Q tf | T | 6 | cheza,nje | Mchana wanafunzi wanacheza nje. | At midday the pupils play outside.
+
+@ A1 | Rafiki yangu Amina | names: Amina, Tanga, Mombasa, Arusha
+S Rafiki yangu anaitwa Amina. | My friend is called Amina.
+S Yeye ni mrefu na ana nywele ndefu. | She is tall and has long hair.
+S Amina anatoka Tanga lakini sasa anaishi Mombasa. | Amina comes from Tanga but now lives in Mombasa.
+S Anafanya kazi katika duka la nguo. | She works in a clothes shop.
+S Kila wiki tunaongea kwa simu. | Every week we talk on the phone.
+S Tunapenda kutembea karibu na bahari na kunywa kahawa. | We like to walk near the sea and drink coffee.
+S Amina ana paka mweupe na mbwa mdogo. | Amina has a white cat and a small dog.
+S Yeye ni rafiki mzuri kwa sababu ananisaidia sana. | She is a good friend because she helps me a lot.
+S Siku ya Jumamosi tunakwenda sokoni kununua matunda. | On Saturday we go to the market to buy fruit.
+S Mimi na Amina tumekuwa marafiki kwa miaka kumi. | Amina and I have been friends for ten years.
+Q tf | T | 1 | refu | Amina ni mrefu. | Amina is tall.
+Q mc | 2 | ishi | Amina anaishi wapi sasa? | Where does Amina live now? | Mombasa ;; Tanga ;; Arusha ;; Kijijini
+Q mc | 3 | duka,nguo | Amina anafanya kazi wapi? | Where does Amina work? | Dukani ;; Shuleni ;; Hospitali ;; Ofisini
+Q tf | F | 4 | ongea,simu | Wanaongea kwa simu kila siku. | They talk on the phone every day.
+Q tf | T | 7 | saidia | Amina anamsaidia rafiki yake. | Amina helps her friend.
+
+@ A1 | Mvua na jua | names: Moshi
+S Moshi ni mji mdogo karibu na mlima. | Moshi is a small town near a mountain.
+S Mwezi wa Aprili kuna mvua nyingi sana. | In April there is a lot of rain.
+S Watu wanakaa nyumbani na kunywa chai ya moto. | People stay at home and drink hot tea.
+S Watoto hawaendi nje kucheza. | The children do not go outside to play.
+S Mwezi wa Julai kuna baridi kidogo asubuhi. | In July it is a little cold in the morning.
+S Lakini mwezi wa Desemba kuna jua kali na joto. | But in December there is strong sun and heat.
+S Watu wanavaa nguo fupi na kunywa maji mengi. | People wear short clothes and drink a lot of water.
+S Wakati wa mvua barabara ni chafu sana. | In the rainy season the roads are very dirty.
+S Mimi ninapenda Desemba kwa sababu ninaweza kwenda baharini. | I like December because I can go to the sea.
+Q mc | 1 | mvua | Kuna mvua nyingi mwezi gani? | Which month has a lot of rain? | Aprili ;; Julai ;; Desemba ;; Machi
+Q tf | T | 2 | kaa,nyumba | Wakati wa mvua watu wanakaa nyumbani. | During the rain people stay at home.
+Q tf | F | 4 | baridi | Mwezi wa Julai kuna baridi sana usiku. | In July it is very cold at night.
+Q mc | 6 | vaa,nguo | Watu wanafanya nini wakati wa joto? | What do people do when it is hot? | Wanakunywa maji mengi ;; Wanakaa nyumbani ;; Wanakunywa chai ya moto ;; Wanavaa nguo nyingi
+Q tf | T | 5 | jua,kali | Mwezi wa Desemba jua ni kali. | In December the sun is strong.
+
+@ A1 | Chakula cha asubuhi | names: Salim
+S Salim anaamka mapema kila siku. | Salim wakes up early every day.
+S Yeye ni baba wa watoto watatu. | He is the father of three children.
+S Kwanza anaoga na kuvaa nguo safi. | First he washes and puts on clean clothes.
+S Kisha anakwenda jikoni kupika chakula cha asubuhi. | Then he goes to the kitchen to cook breakfast.
+S Anapika mayai mawili na mkate. | He cooks two eggs and bread.
+S Anakunywa chai yenye maziwa na sukari kidogo. | He drinks tea with milk and a little sugar.
+S Watoto wake wanakula ndizi na kunywa maziwa. | His children eat bananas and drink milk.
+S Mke wake hapendi chai, anapenda kahawa. | His wife does not like tea, she likes coffee.
+S Baada ya chakula, wote wanaondoka pamoja saa mbili. | After the meal, they all leave together at eight.
+S Watoto wanakwenda shule na Salim anakwenda kazini. | The children go to school and Salim goes to work.
+Q tf | T | 0 | amka,mapema | Salim anaamka mapema. | Salim wakes up early.
+Q mc | 4 | pika,yai | Salim anapika nini? | What does Salim cook? | Mayai ;; Samaki ;; Wali ;; Nyama
+Q tf | F | 5 | chai,sukari | Salim anakunywa chai bila maziwa. | Salim drinks tea without milk.
+Q mc | 7 | mke,kahawa | Mke wa Salim anapenda kunywa nini? | What does Salim's wife like to drink? | Kahawa ;; Chai ;; Maziwa ;; Maji
+Q tf | T | 8 | ondoka | Familia inaondoka pamoja. | The family leaves together.
+
+@ A1 | Barua kwa rafiki | names: Zawadi, Dodoma, Halima
+S Habari yako, Zawadi? | How are you, Zawadi?
+S Mimi ni mzima na ninaishi vizuri hapa Dodoma. | I am well and I live well here in Dodoma.
+S Nina kazi mpya katika ofisi ya serikali. | I have a new job in a government office.
+S Dodoma ni mji mzuri na watu ni wazuri. | Dodoma is a nice town and the people are nice.
+S Kazi ni nzuri lakini ni ngumu kidogo. | The work is good but a little hard.
+S Nyumba yangu mpya iko karibu na hospitali kubwa. | My new house is near the big hospital.
+S Mwezi ujao nitakuja kukuona. | Next month I will come to see you.
+S Nitaleta zawadi kwa watoto wako. | I will bring a present for your children.
+S Tafadhali niandikie barua na unieleze habari za familia yako. | Please write me a letter and tell me the news of your family.
+S Kwaheri, rafiki yako Halima. | Goodbye, your friend Halima.
+Q tf | T | 2 | kazi,pya | Halima ana kazi mpya. | Halima has a new job.
+Q mc | 4 | kazi,gumu | Halima anasema nini kuhusu kazi yake? | What does Halima say about her job? | Ni nzuri lakini ngumu kidogo ;; Ni rahisi sana ;; Ni mbaya sana ;; Haipendi kabisa
+Q tf | F | 5 | nyumba,hospitali | Nyumba ya Halima iko mbali na hospitali. | Halima's house is far from the hospital.
+Q mc | 6 | ja,ona | Halima atafanya nini mwezi ujao? | What will Halima do next month? | Atamtembelea Zawadi ;; Ataanza kazi mpya ;; Atanunua nyumba ;; Atarudi Dodoma
+Q tf | T | 8 | andika,barua | Halima anataka Zawadi amwandikie. | Halima wants Zawadi to write to her.
+
+@ A1 | Paka wetu | names: Simba
+S Tuna paka mmoja anayeitwa Simba. | We have one cat called Simba.
+S Simba ni paka mweusi na ana macho makubwa. | Simba is a black cat and has big eyes.
+S Anapenda kulala juu ya kitanda changu. | He likes to sleep on my bed.
+S Asubuhi anakula samaki na kunywa maziwa. | In the morning he eats fish and drinks milk.
+S Mchana analala chini ya mti nje. | At midday he sleeps under the tree outside.
+S Jioni anacheza na watoto katika chumba. | In the evening he plays with the children in the room.
+S Simba ana miaka mitatu tu. | Simba is only three years old.
+S Wakati wa baridi analala karibu na moto. | When it is cold he sleeps near the fire.
+S Watoto wanapenda kumpa chakula kila jioni. | The children like to give him food every evening.
+S Usiku Simba anatembea nje na kurudi asubuhi. | At night Simba walks outside and comes back in the morning.
+S Sisi wote tunampenda sana. | We all love him very much.
+Q mc | 1 | jicho | Simba ana macho ya aina gani? | What kind of eyes does Simba have? | Makubwa ;; Madogo ;; Mazuri ;; Mabaya
+Q tf | T | 2 | lala,kitanda | Simba analala juu ya kitanda. | Simba sleeps on the bed.
+Q mc | 3 | la,samaki | Simba anakula nini asubuhi? | What does Simba eat in the morning? | Samaki ;; Mkate ;; Nyama ;; Wali
+Q tf | F | 4 | mti | Mchana Simba analala ndani ya nyumba. | At midday Simba sleeps inside the house.
+Q tf | T | 5 | cheza,mtoto | Simba anacheza na watoto jioni. | Simba plays with the children in the evening.
+
+@ A1 | Safari ya Mombasa | names: Hassani, Nairobi, Mombasa
+S Jina langu ni Hassani na ninaishi Nairobi. | My name is Hassani and I live in Nairobi.
+S Wiki iliyopita nilisafiri kwenda Mombasa kwa treni. | Last week I travelled to Mombasa by train.
+S Safari ilianza saa mbili asubuhi. | The journey began at eight in the morning.
+S Tulifika Mombasa saa nane mchana. | We arrived in Mombasa at two in the afternoon.
+S Mombasa kuna joto kuliko Nairobi. | It is hotter in Mombasa than in Nairobi.
+S Nilikaa kwa rafiki yangu karibu na bahari. | I stayed with my friend near the sea.
+S Kila asubuhi tulitembea karibu na bahari na kula samaki. | Every morning we walked near the sea and ate fish.
+S Rafiki yangu ana nyumba ndogo lakini nzuri. | My friend has a small but nice house.
+S Jioni tulikunywa chai na kuzungumza hadi usiku. | In the evening we drank tea and talked until night.
+S Nilikaa Mombasa kwa siku tano. | I stayed in Mombasa for five days.
+S Nilirudi Nairobi siku ya Jumamosi. | I returned to Nairobi on Saturday.
+Q mc | 1 | safiri | Hassani alisafiri vipi? | How did Hassani travel? | Kwa treni ;; Kwa gari ;; Kwa ndege ;; Kwa baiskeli
+Q tf | F | 3 | fika | Hassani alifika Mombasa usiku. | Hassani arrived in Mombasa at night.
+Q tf | T | 4 | joto | Mombasa ni joto zaidi kuliko Nairobi. | Mombasa is hotter than Nairobi.
+Q mc | 9 | kaa,siku | Hassani alikaa Mombasa muda gani? | How long did Hassani stay in Mombasa? | Siku tano ;; Siku mbili ;; Wiki tatu ;; Mwezi mmoja
+Q tf | T | 5 | rafiki,bahari | Hassani alikaa kwa rafiki yake. | Hassani stayed with his friend.
+
+@ A1 | Siku ya Jumapili | names: Musa
+S Leo ni Jumapili na sifanyi kazi. | Today is Sunday and I am not working.
+S Ninaamka saa tatu asubuhi kwa sababu sitaki kuamka mapema. | I get up at nine in the morning because I do not want to get up early.
+S Mke wangu anapika chai na mayai. | My wife makes tea and eggs.
+S Baada ya chakula tunakwenda kwa rafiki yetu Musa. | After the meal we go to our friend Musa.
+S Musa anaishi katika kijiji kidogo karibu na mto. | Musa lives in a small village near a river.
+S Watoto wetu wanacheza na watoto wake chini ya miti. | Our children play with his children under the trees.
+S Sisi watu wazima tunakaa pamoja na kuzungumza. | We adults sit together and talk.
+S Mchana tunakula wali na nyama ya kuku. | At midday we eat rice and chicken.
+S Jioni tunarudi nyumbani kwa gari. | In the evening we go back home by car.
+S Usiku tunalala mapema kwa sababu kesho ni Jumatatu. | At night we go to sleep early because tomorrow is Monday.
+Q tf | F | 1 | amka,mapema | Leo anaamka mapema sana. | Today he gets up very early.
+Q mc | 4 | ishi,kijiji | Musa anaishi wapi? | Where does Musa live? | Kijijini ;; Katika mji mkubwa ;; Karibu na bahari ;; Nairobi
+Q tf | T | 5 | cheza,mtoto | Watoto wanacheza pamoja nje. | The children play together outside.
+Q mc | 7 | la,nyama | Wanakula nini mchana? | What do they eat at midday? | Wali na kuku ;; Samaki na mkate ;; Ndizi tu ;; Mayai na chai
+Q tf | T | 9 | lala,kesho | Wanalala mapema kwa sababu ya kazi ya kesho. | They sleep early because of tomorrow's work.
+
+@ A1 | Duka la Ali | names: Ali
+S Ali ana duka dogo katika mtaa wetu. | Ali has a small shop in our street.
+S Duka lake linafunguliwa saa moja asubuhi. | His shop opens at seven in the morning.
+S Anauza mkate, sukari, chumvi, maziwa na chai. | He sells bread, sugar, salt, milk and tea.
+S Pia anauza kalamu na vitabu vya shule. | He also sells pens and school books.
+S Watu wengi wanapenda duka lake kwa sababu bei ni nzuri. | Many people like his shop because the prices are good.
+S Ali ni mtu mzuri na anazungumza na kila mtu. | Ali is a good person and talks with everyone.
+S Mke wake anamsaidia dukani mchana. | His wife helps him in the shop at midday.
+S Jioni watoto wanakuja kununua maziwa na mkate. | In the evening children come to buy milk and bread.
+S Duka linafungwa saa tatu usiku. | The shop closes at nine at night.
+S Siku ya Ijumaa Ali hafungui duka. | On Friday Ali does not open the shop.
+Q mc | 2 | uza | Ali anauza nini? | What does Ali sell? | Chakula na vitu vya shule ;; Nguo na viatu ;; Magari ;; Simu tu
+Q tf | T | 4 | penda,bei | Watu wanapenda bei za Ali. | People like Ali's prices.
+Q tf | F | 6 | mke,saidia | Mke wa Ali hamsaidii kamwe. | Ali's wife never helps him.
+Q mc | 8 | funga | Duka linafungwa saa ngapi? | What time does the shop close? | Saa tatu usiku ;; Saa moja asubuhi ;; Saa sita mchana ;; Saa kumi jioni
+Q tf | F | 9 | fungua,ijumaa | Duka liko wazi siku ya Ijumaa. | The shop is open on Friday.
+
+@ A1 | Kwa daktari | names: Pendo
+S Jana kichwa cha Pendo kilimuuma sana. | Yesterday Pendo's head hurt a lot.
+S Pia alikuwa na joto kali. | She also had a high temperature.
+S Asubuhi mama yake alimpeleka hospitali. | In the morning her mother took her to the hospital.
+S Hospitali ilikuwa na watu wengi, kwa hiyo walingoja saa moja. | The hospital had many people, so they waited an hour.
+S Daktari alikuwa mwanamume mzuri. | The doctor was a nice man.
+S Alimwuliza Pendo maswali mengi. | He asked Pendo many questions.
+S Daktari alimpa dawa na kusema anapaswa kulala sana. | The doctor gave her medicine and said she should sleep a lot.
+S Pia alisema anapaswa kunywa maji mengi. | He also said she should drink a lot of water.
+S Pendo hakwenda shule kwa siku mbili. | Pendo did not go to school for two days.
+S Sasa yeye ni mzima tena na anakwenda shule. | Now she is well again and goes to school.
+Q tf | F | 0 | jana,kichwa | Jana Pendo alikuwa mzima kabisa. | Yesterday Pendo was completely well.
+Q mc | 2 | peleka,hospitali | Nani alimpeleka Pendo hospitali? | Who took Pendo to the hospital? | Mama wa Pendo ;; Baba wa Pendo ;; Rafiki wa Pendo ;; Mwalimu wa Pendo
+Q tf | F | 3 | ngoja | Hawakungoja hospitali. | They did not wait at the hospital.
+Q mc | 7 | nywa,maji | Daktari alisema Pendo anywe nini? | What did the doctor say Pendo should drink? | Maji mengi ;; Chai ya moto ;; Kahawa ;; Maziwa
+Q tf | T | 9 | sasa,zima | Sasa Pendo yuko vizuri. | Now Pendo is fine.
+
+@ A1 | Simu kutoka kwa mama | names: Upendo
+S Jana usiku mama yangu alinipigia simu. | Last night my mother phoned me.
+S Yeye anaishi kijijini na mimi ninaishi mjini. | She lives in the village and I live in town.
+S Aliuliza habari za kazi yangu na afya yangu. | She asked about my work and my health.
+S Nilimwambia kwamba kazi ni nzuri na mimi ni mzima. | I told her that work is good and I am well.
+S Mama alisema baba ana tatizo la mguu. | Mother said father has a problem with his leg.
+S Pia alisema dada yangu Upendo amepata mtoto. | She also said my sister Upendo has had a baby.
+S Nilifurahi sana kusikia habari hiyo. | I was very happy to hear that news.
+S Mama anataka nije kijijini mwezi ujao. | Mother wants me to come to the village next month.
+S Nilimwambia nitakuja siku ya Ijumaa. | I told her I will come on Friday.
+S Nitaleta dawa kwa baba na nguo kwa mtoto. | I will bring medicine for father and clothes for the baby.
+Q mc | 1 | ishi,kijiji | Mama anaishi wapi? | Where does the mother live? | Mbali na mji ;; Mjini ;; Karibu na bahari ;; Hospitali
+Q tf | F | 4 | baba | Baba ni mzima kabisa. | Father is completely well.
+Q mc | 5 | dada,mtoto | Upendo amepata nini? | What has Upendo had? | Mtoto ;; Kazi mpya ;; Nyumba ;; Gari
+Q tf | T | 8 | ja,ijumaa | Atakwenda kijijini siku ya Ijumaa. | He will go to the village on Friday.
+Q tf | T | 9 | leta,dawa | Ataleta dawa kwa baba. | He will bring medicine for father.
+
+@ A1 | Kujifunza Kiswahili | names: Anna, Ujerumani, Dodoma, Tanzania, Kenya, Uganda
+S Anna anatoka Ujerumani. | Anna comes from Germany.
+S Sasa anaishi Dodoma kwa sababu ya kazi. | Now she lives in Dodoma because of work.
+S Anajifunza Kiswahili kila siku. | She learns Swahili every day.
+S Mwalimu wake anakuja nyumbani kwake mara mbili kwa wiki. | Her teacher comes to her home twice a week.
+S Kiswahili si rahisi, lakini Anna anapenda lugha hii sana. | Swahili is not easy, but Anna likes this language very much.
+S Anasoma magazeti na kusikiliza redio kwa Kiswahili. | She reads newspapers and listens to the radio in Swahili.
+S Sokoni anazungumza Kiswahili na watu. | At the market she speaks Swahili with people.
+S Watu wanamsaidia wakati anakosa neno. | People help her when she lacks a word.
+S Sasa anaweza kuandika barua fupi kwa Kiswahili. | Now she can write a short letter in Swahili.
+S Anataka kukaa Tanzania kwa miaka mingi. | She wants to stay in Tanzania for many years.
+Q mc | 0 | toka | Anna anatoka nchi gani? | Which country does Anna come from? | Ujerumani ;; Tanzania ;; Kenya ;; Uganda
+Q tf | T | 2 | jifunza | Anna anajifunza Kiswahili kila siku. | Anna learns Swahili every day.
+Q mc | 3 | mwalimu | Mwalimu anakuja mara ngapi kwa wiki? | How many times a week does the teacher come? | Mara mbili ;; Mara moja ;; Mara tatu ;; Kila siku
+Q tf | F | 4 | rahisi | Anna anasema Kiswahili ni rahisi sana. | Anna says Swahili is very easy.
+Q tf | T | 8 | andika,barua | Anna anaweza kuandika barua fupi. | Anna can write a short letter.
+
+@ A1 | Mwalimu mpya | names: Omari, Zanzibar
+S Leo tuna mwalimu mpya darasani. | Today we have a new teacher in class.
+S Jina lake ni Omari na anatoka Zanzibar. | His name is Omari and he comes from Zanzibar.
+S Yeye ni mrefu na ana sauti kubwa. | He is tall and has a loud voice.
+S Anafundisha Kiingereza na historia. | He teaches English and history.
+S Mwalimu Omari alituuliza majina yetu. | Teacher Omari asked us our names.
+S Pia alituambia kuhusu Zanzibar na familia yake. | He also told us about Zanzibar and his family.
+S Ana mke na watoto wawili wadogo. | He has a wife and two small children.
+S Wanafunzi wote walipenda darasa lake. | All the pupils liked his class.
+S Mwisho wa darasa alisema tuna kazi ya nyumbani. | At the end of the class he said we have homework.
+S Anapenda kucheza mpira na wanafunzi baada ya shule. | He likes to play football with the pupils after school.
+S Tunapaswa kuandika maneno kumi kwa Kiingereza. | We must write ten words in English.
+S Ninampenda mwalimu huyu mpya. | I like this new teacher.
+Q tf | T | 0 | mwalimu,pya | Darasa lina mwalimu mpya leo. | The class has a new teacher today.
+Q mc | 2 | sauti | Sauti ya mwalimu ni ya aina gani? | What is the teacher's voice like? | Ina nguvu ;; Ni ndogo sana ;; Ni mbaya ;; Ni kali
+Q tf | F | 3 | Kiingereza | Omari anafundisha Kiswahili. | Omari teaches Swahili.
+Q mc | 10 | andika,neno | Wanafunzi wanapaswa kuandika nini? | What must the pupils write? | Maneno kumi ;; Barua ndefu ;; Hadithi ;; Majina yao
+Q tf | T | 8 | mwisho | Mwalimu alisema wanafunzi wana kazi ya nyumbani. | The teacher said the pupils have homework.
+
+@ A1 | Kazi yangu | names: Yusufu
+S Mimi ni Yusufu na ninafanya kazi katika benki. | I am Yusufu and I work in a bank.
+S Ofisi yangu iko mjini karibu na soko. | My office is in town near the market.
+S Ninaanza kazi saa mbili asubuhi. | I start work at eight in the morning.
+S Kila siku ninapokea watu wengi. | Every day I receive many people.
+S Wanakuja kuweka pesa au kuchukua pesa. | They come to put in money or take out money.
+S Wakati mwingine wanauliza maswali mengi. | Sometimes they ask many questions.
+S Mchana ninakula chakula na wafanyakazi wenzangu. | At midday I eat with my co-workers.
+S Kazi yangu inaisha saa kumi jioni. | My work ends at four in the evening.
+S Ninapenda kazi hii kwa sababu ninakutana na watu wapya. | I like this job because I meet new people.
+S Lakini siku nyingine ninachoka sana. | But on some days I get very tired.
+Q mc | 1 | ofisi | Ofisi ya Yusufu iko wapi? | Where is Yusufu's office? | Mjini ;; Kijijini ;; Karibu na bahari ;; Nyumbani kwake
+Q tf | F | 2 | anza | Yusufu anaanza kazi saa tatu. | Yusufu starts work at nine.
+Q tf | T | 4 | pesa | Watu wanakuja benki kwa sababu ya pesa. | People come to the bank because of money.
+Q mc | 8 | kutana | Kwa nini Yusufu anapenda kazi yake? | Why does Yusufu like his job? | Anakutana na watu ;; Kazi ni rahisi ;; Anapata pesa nyingi ;; Ofisi ni kubwa
+Q tf | T | 6 | la,mfanyakazi | Yusufu anakula na wafanyakazi wenzake. | Yusufu eats with his co-workers.
+
+@ A1 | Kijiji cha babu | names: Fatuma
+S Babu yangu anaishi katika kijiji kidogo. | My grandfather lives in a small village.
+S Kila mwezi wa Agosti ninakwenda kumwona. | Every August I go to see him.
+S Nyumba yake iko karibu na mto mkubwa. | His house is near a big river.
+S Babu ana ng'ombe watano na kuku wengi. | Grandfather has five cows and many chickens.
+S Asubuhi ninamsaidia kuwapa ng'ombe maji. | In the morning I help him give the cows water.
+S Mke wa babu anaitwa Fatuma na anapika chakula kizuri sana. | Grandfather's wife is called Fatuma and she cooks very good food.
+S Anapika ugali, mboga na maziwa. | She cooks ugali, vegetables and milk.
+S Usiku tunakaa nje na babu anatuambia hadithi. | At night we sit outside and grandfather tells us stories.
+S Kijijini hakuna magari mengi na ni kimya. | In the village there are not many cars and it is quiet.
+S Ninapenda sana kijiji cha babu. | I really like grandfather's village.
+Q mc | 1 | enda,agosti | Anakwenda kijijini mwezi gani? | In which month does he go to the village? | Agosti ;; Julai ;; Desemba ;; Aprili
+Q tf | T | 2 | nyumba,mto | Nyumba ya babu iko karibu na mto. | Grandfather's house is near a river.
+Q mc | 3 | ng'ombe | Babu ana ng'ombe wangapi? | How many cows does grandfather have? | Watano ;; Watatu ;; Kumi ;; Wawili
+Q tf | F | 6 | pika,ugali | Fatuma anapika wali na samaki. | Fatuma cooks rice and fish.
+Q tf | T | 7 | kaa,nje | Usiku wanakaa nje. | At night they sit outside.
+
+@ A1 | Wiki yangu | names: Maria, Rose
+S Maria ni mwanafunzi na ana wiki yenye shughuli nyingi. | Maria is a student and has a busy week.
+S Jumatatu na Jumatano anakwenda shule mpaka saa nane. | On Monday and Wednesday she goes to school until two.
+S Jumanne anasaidia mama yake sokoni. | On Tuesday she helps her mother at the market.
+S Alhamisi jioni anacheza mpira na marafiki zake. | On Thursday evening she plays football with her friends.
+S Ijumaa anakwenda kwa rafiki yake Rose na kula chakula naye. | On Friday she goes to her friend Rose and eats with her.
+S Jumamosi anasafisha chumba chake na kupika pamoja na mama. | On Saturday she cleans her room and cooks with her mother.
+S Jumapili hafanyi kazi yoyote. | On Sunday she does no work at all.
+S Maria analala sana na kusoma vitabu. | Maria sleeps a lot and reads books.
+S Anapenda Jumapili kuliko siku nyingine. | She likes Sunday more than the other days.
+Q tf | F | 2 | saidia,soko | Jumanne Maria anakwenda shule. | On Tuesday Maria goes to school.
+Q mc | 3 | cheza | Maria anacheza mpira siku gani? | On which day does Maria play football? | Alhamisi ;; Jumatatu ;; Ijumaa ;; Jumamosi
+Q tf | T | 4 | rafiki | Ijumaa Maria anakula na rafiki yake. | On Friday Maria eats with her friend.
+Q mc | 8 | penda,siku | Maria anapenda siku gani zaidi? | Which day does Maria like most? | Jumapili ;; Jumatatu ;; Jumamosi ;; Alhamisi
+Q tf | T | 7 | lala,soma | Jumapili Maria analala na kusoma. | On Sunday Maria sleeps and reads.

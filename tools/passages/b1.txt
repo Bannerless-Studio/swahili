@@ -1,0 +1,98 @@
+# B1 passages: 110-150 words, any pack lemma; coverage >= 0.93.
+
+@ B1 | Uamuzi mgumu | names: Salma, Mombasa, Dubai
+S Salma amefanya kazi kama muuguzi katika hospitali ya Mombasa kwa miaka minane. | Salma has worked as a nurse in a Mombasa hospital for eight years.
+S Mwezi uliopita alipata barua kutoka kwa hospitali moja kubwa ya Dubai. | Last month she received a letter from a big hospital in Dubai.
+S Wanampa kazi yenye mshahara mara tatu zaidi ya anaopata sasa. | They are offering her a job with a salary three times more than she gets now.
+S Mwanzoni alifurahi sana, lakini baadaye alianza kufikiri kwa makini. | At first she was very happy, but later she began to think carefully.
+S Mama yake ni mzee na anaishi peke yake karibu na Salma. | Her mother is old and lives alone near Salma.
+S Kila jioni Salma humpikia chakula na kumsaidia kazi za nyumbani. | Every evening Salma cooks for her and helps her with housework.
+S Kaka zake wanaishi mbali na hawawezi kumtunza mama yao kila siku. | Her brothers live far away and cannot look after their mother every day.
+S Kwa upande mwingine, pesa za ziada zingemsaidia kulipa ada ya shule ya watoto wake. | On the other hand, the extra money would help her pay her children's school fees.
+S Pia angepata uzoefu mpya ambao ungemsaidia kupata cheo cha juu baadaye. | She would also gain new experience that would help her get a higher position later.
+S Salma alizungumza na mama yake kuhusu jambo hilo. | Salma talked with her mother about the matter.
+S Mama alimwambia asikatae nafasi hiyo kwa sababu yake. | Her mother told her not to refuse the opportunity because of her.
+S Hata hivyo, Salma bado hajaamua. | Even so, Salma has not yet decided.
+S Anapaswa kutoa jibu kabla ya mwisho wa mwezi huu. | She must give an answer before the end of this month.
+Q tf | T | 0 | fanya,kazi | Salma amekuwa muuguzi kwa zaidi ya miaka mitano. | Salma has been a nurse for more than five years.
+Q mc | 2 | mshahara | Mshahara wa kazi mpya ungekuwa vipi? | What would the new job's salary be like? | Mara tatu ya sasa ;; Sawa na sasa ;; Nusu ya sasa ;; Mara mbili ya sasa
+Q tf | F | 6 | kaka | Kaka wa Salma wanamtunza mama yao kila siku. | Salma's brothers look after their mother every day.
+Q mc | 7 | ada | Pesa za ziada zingemsaidia Salma kufanya nini? | What would the extra money help Salma do? | Kulipia elimu ya watoto ;; Kununua nyumba ;; Kumtunza mama ;; Kusafiri mara nyingi
+Q tf | T | 10 | kataa,nafasi | Mama anataka Salma afikirie kazi hiyo bila kujali hali yake. | The mother wants Salma to consider the job without worrying about her.
+
+@ B1 | Malalamiko kwa hoteli | names: Jamila, Bagamoyo
+S Kwa meneja wa hoteli, | To the hotel manager,
+S Naandika kueleza masikitiko yangu kuhusu huduma niliyopata katika hoteli yenu wiki iliyopita. | I am writing to express my disappointment about the service I received at your hotel last week.
+S Nilikaa hapo kwa usiku tatu pamoja na mume wangu na watoto wawili. | I stayed there for three nights with my husband and two children.
+S Kwenye tovuti yenu mliandika kwamba vyumba vyote vina kiyoyozi na maji ya moto. | On your website you wrote that all rooms have air conditioning and hot water.
+S Hata hivyo, katika chumba chetu maji ya moto hayakupatikana hata siku moja. | However, in our room there was no hot water on a single day.
+S Tulimweleza mhudumu mara mbili, lakini hakuna aliyekuja kurekebisha tatizo. | We told the attendant twice, but nobody came to fix the problem.
+S Pia chakula cha asubuhi kilikuwa baridi na kilichelewa kila siku. | Also breakfast was cold and was late every day.
+S Siku ya mwisho tuliambiwa kulipa gharama ya ziada ambayo hatukuelezwa mwanzoni. | On the last day we were told to pay an extra charge that had not been explained to us at the start.
+S Nilipouliza, meneja msaidizi alinijibu kwa ukali mbele ya watoto wangu. | When I asked, the assistant manager answered me rudely in front of my children.
+S Kwa kawaida napenda kutembelea Bagamoyo na nilitarajia likizo nzuri. | Usually I like visiting Bagamoyo and I expected a good holiday.
+S Naomba mrudishe gharama ya ziada tuliyolipa. | I request that you refund the extra charge we paid.
+S Pia natumaini mtawafundisha wafanyakazi wenu kuwaheshimu wateja. | I also hope you will teach your staff to respect customers.
+S Wako, Jamila. | Yours, Jamila.
+Q tf | F | 2 | kaa | Jamila alikaa hotelini peke yake. | Jamila stayed at the hotel alone.
+Q mc | 4 | maji,moto | Tatizo la kwanza la chumba lilikuwa nini? | What was the room's first problem? | Hakukuwa na maji ya moto ;; Kitanda kilikuwa kibovu ;; Chumba kilikuwa kidogo ;; Dirisha lilivunjika
+Q tf | T | 6 | chakula,chelewa | Chakula cha asubuhi hakikuja kwa wakati. | Breakfast did not come on time.
+Q mc | 8 | meneja,jibu | Meneja msaidizi alifanyaje Jamila alipouliza? | How did the assistant manager act when Jamila asked? | Alijibu vibaya ;; Aliomba radhi ;; Alirudisha pesa ;; Aliita polisi
+Q tf | T | 10 | omba,rudisha | Jamila anataka arudishiwe pesa za ziada. | Jamila wants the extra money returned to her.
+
+@ B1 | Kiwanda kitafungwa | names: Tanga
+S Kampuni inayomiliki kiwanda cha saruji cha Tanga imetangaza kwamba kiwanda hicho kitafungwa mwezi Juni. | The company that owns the Tanga cement factory has announced that the factory will close in June.
+S Kiwanda hicho kimekuwa kikifanya kazi kwa zaidi ya miaka arobaini. | The factory has been operating for more than forty years.
+S Kwa mujibu wa taarifa ya kampuni, gharama za umeme zimepanda sana katika miaka ya karibuni. | According to the company's statement, electricity costs have risen sharply in recent years.
+S Pia mashine nyingi ni za zamani na zinahitaji kubadilishwa. | Also many machines are old and need to be replaced.
+S Zaidi ya wafanyakazi mia tano watapoteza kazi zao. | More than five hundred workers will lose their jobs.
+S Wengi wao wameishi karibu na kiwanda maisha yao yote. | Many of them have lived near the factory all their lives.
+S Viongozi wa chama cha wafanyakazi wamesema watakutana na serikali wiki ijayo. | Leaders of the workers' union have said they will meet the government next week.
+S Wanataka kampuni iwalipe wafanyakazi fidia ya kutosha. | They want the company to pay the workers enough compensation.
+S Wafanyabiashara wa mji pia wana wasiwasi. | The town's traders are also worried.
+S Mama mmoja anayeuza chakula karibu na lango la kiwanda alisema biashara yake itaathirika. | A woman who sells food near the factory gate said her business will be affected.
+S Serikali ya mkoa imeahidi kutafuta mwekezaji mpya. | The regional government has promised to look for a new investor.
+S Hata hivyo, wakazi wengi hawana matumaini makubwa. | However, many residents do not have great hope.
+Q mc | 0 | kiwanda,funga | Kiwanda kitafungwa lini? | When will the factory close? | Mwezi Juni ;; Mwaka ujao ;; Wiki ijayo ;; Mwezi Machi
+Q tf | T | 2 | gharama,umeme | Moja ya sababu ni bei ya umeme. | One of the reasons is the price of electricity.
+Q tf | F | 4 | mfanyakazi,poteza | Wafanyakazi wachache tu wataathirika. | Only a few workers will be affected.
+Q mc | 7 | taka | Chama cha wafanyakazi kinataka nini? | What does the workers' union want? | Malipo kwa wafanyakazi ;; Mashine mpya ;; Umeme wa bei nafuu ;; Kiwanda kihamishwe
+Q tf | T | 10 | ahidi | Serikali imesema itatafuta mtu wa kuwekeza. | The government has said it will look for someone to invest.
+
+@ B1 | Utalii na mazingira | names: Serengeti
+S Kila mwaka maelfu ya watalii hutembelea mbuga ya Serengeti kuona wanyama pori. | Every year thousands of tourists visit Serengeti park to see wild animals.
+S Utalii huleta fedha nyingi kwa nchi na kutoa ajira kwa vijana. | Tourism brings a lot of money to the country and provides employment for young people.
+S Madereva, wapishi, waongozaji na wafanyakazi wa hoteli wote hunufaika. | Drivers, cooks, guides and hotel workers all benefit.
+S Hata hivyo, wataalam wa mazingira wanasema kuna hatari pia. | However, environmental experts say there is also a danger.
+S Magari mengi yanayoingia mbugani husababisha vumbi na kelele zinazowasumbua wanyama. | The many vehicles that enter the park cause dust and noise that disturb the animals.
+S Wakati mwingine magari huzunguka simba mmoja kwa saa nzima ili watalii wapige picha. | Sometimes vehicles surround one lion for a whole hour so that tourists can take photos.
+S Pia hoteli mpya zinajengwa karibu na njia ambazo wanyama hutumia kila mwaka. | Also new hotels are being built near the routes that animals use every year.
+S Wataalam wanapendekeza idadi ya magari ipunguzwe katika maeneo fulani. | The experts suggest that the number of vehicles be reduced in certain areas.
+S Wanasema pia sehemu ya pesa za utalii itumike kuwasaidia wakazi wanaoishi karibu na mbuga. | They also say part of the tourism money should be used to help residents living near the park.
+S Kwa njia hii, wananchi wataona faida ya kulinda wanyama. | In this way, local people will see the benefit of protecting animals.
+S Serikali imesema itajadili mapendekezo hayo mwaka huu. | The government has said it will discuss those proposals this year.
+S Swali kubwa ni jinsi ya kupata usawa kati ya uchumi na mazingira. | The big question is how to find a balance between the economy and the environment.
+Q tf | T | 1 | utalii,ajira | Utalii unawapa vijana kazi. | Tourism gives young people jobs.
+Q mc | 4 | gari,sababisha | Wataalam wanasema magari yanasababisha nini? | What do the experts say the vehicles cause? | Vumbi na kelele ;; Moto mbugani ;; Ajali nyingi ;; Njaa kwa wanyama
+Q tf | F | 6 | hoteli,jenga | Hoteli mpya zinajengwa mbali na njia za wanyama. | New hotels are being built far from the animals' routes.
+Q mc | 8 | saidia,mkazi | Wataalam wanataka pesa za utalii zisaidie nani? | Who do the experts want the tourism money to help? | Wakazi wa karibu ;; Watalii ;; Wamiliki wa hoteli ;; Madereva peke yao
+Q tf | T | 10 | jadili | Serikali itajadili mapendekezo mwaka huu. | The government will discuss the proposals this year.
+
+@ B1 | Maktaba ya kijiji | names: Mwanaidi
+S Miaka mitatu iliyopita kijiji chetu hakikuwa na maktaba hata moja. | Three years ago our village did not have a single library.
+S Wanafunzi walilazimika kusafiri kilometa ishirini hadi mjini ili kusoma vitabu. | Pupils had to travel twenty kilometres to town in order to read books.
+S Mwalimu mstaafu anayeitwa Mwanaidi aliamua kubadilisha hali hiyo. | A retired teacher called Mwanaidi decided to change that situation.
+S Alianza kwa kukusanya vitabu vya zamani kutoka kwa marafiki na familia yake. | She started by collecting old books from friends and her family.
+S Kisha aliomba msaada kutoka kwa shirika moja la kimataifa. | Then she asked for help from an international organisation.
+S Wanakijiji walichangia fedha na nguvu zao kujenga jengo dogo karibu na shule. | The villagers contributed money and their labour to build a small building near the school.
+S Leo maktaba ina zaidi ya vitabu elfu mbili na kompyuta nne. | Today the library has more than two thousand books and four computers.
+S Inafunguliwa kila siku isipokuwa Jumapili. | It is open every day except Sunday.
+S Watoto huja baada ya shule kufanya kazi za nyumbani na kusoma hadithi. | Children come after school to do homework and read stories.
+S Watu wazima pia hutumia kompyuta kutafuta habari za kilimo na afya. | Adults also use the computers to look for information on farming and health.
+S Mwanaidi anasema matokeo ya mitihani ya shule yameboreka tangu maktaba ifunguliwe. | Mwanaidi says the school's exam results have improved since the library opened.
+S Sasa anatafuta watu wa kusaidia kufundisha wazee kusoma na kuandika. | Now she is looking for volunteers to teach older people to read and write.
+Q tf | F | 1 | mwanafunzi,safiri | Zamani wanafunzi walisoma vitabu kijijini. | In the past pupils read books in the village.
+Q mc | 3 | kusanya,kitabu | Mwanaidi alianza kufanya nini? | What did Mwanaidi begin by doing? | Kukusanya vitabu ;; Kujenga shule ;; Kununua kompyuta ;; Kufundisha watoto
+Q tf | T | 5 | changia | Wanakijiji walisaidia kujenga maktaba. | The villagers helped build the library.
+Q mc | 9 | kompyuta | Watu wazima hutumia kompyuta kwa ajili ya nini? | What do adults use the computers for? | Habari za kilimo na afya ;; Kucheza michezo ;; Kutazama filamu ;; Kuandika barua kwa watoto
+Q tf | T | 10 | matokeo,mtihani | Matokeo ya mitihani ni bora sasa. | Exam results are better now.

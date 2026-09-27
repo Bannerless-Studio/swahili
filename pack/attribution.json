@@ -1,0 +1,61 @@
+{
+  "spoken_freq": {
+    "source": "tagged corpus (Tatoeba swh + OPUS GlobalVoices en-sw + FLORES-200 swh_Latn), (lemma, POS) token counts from the rule-based lemmatiser",
+    "licence": "CC-BY 2.0 FR / CC-BY-3.0 / CC-BY-SA-4.0",
+    "note": "approximate ranking: no Swahili subtitle or wordfreq list exists"
+  },
+  "written_freq": {
+    "source": "the same corpus's surface counts (wordfreq has no Swahili)",
+    "licence": "CC-BY 2.0 FR / CC-BY-3.0 / CC-BY-SA-4.0"
+  },
+  "dictionary": {
+    "source": "kaikki.org Swahili Wiktionary extract",
+    "licence": "CC-BY-SA-3.0/GFDL",
+    "url": "https://kaikki.org/dictionary/Swahili/kaikki.org-dictionary-Swahili.jsonl.gz"
+  },
+  "tagger": {
+    "source": "rule-based Swahili tokeniser and lemmatiser (vocab-engine packbuilder langs/sw.py) over the kaikki.org Swahili Wiktionary extract",
+    "licence": "MIT (code); CC-BY-SA-3.0/GFDL (dictionary data)",
+    "note": "Used at build time only. No statistical tagger exists for Swahili."
+  },
+  "sentences": {
+    "source": "Tatoeba swh_sentences_detailed.tsv",
+    "licence": "CC-BY 2.0 FR",
+    "url": "https://downloads.tatoeba.org/exports/per_language/swh/swh_sentences_detailed.tsv.bz2",
+    "contributor_usernames": [
+      "Balamax",
+      "DavidDias",
+      "MrMbithi",
+      "Nyambura",
+      "Sprachprofi",
+      "diegohn",
+      "ecorralest101",
+      "iiujik",
+      "lovermann"
+    ]
+  },
+  "audio": {
+    "source": "none",
+    "note": "no recorded Swahili audio: browser TTS (sw-KE / sw-TZ voices exist on Android Chrome; most desktop browsers have none)"
+  },
+  "written_examples": {
+    "source": "written for this pack (tools/generated_examples.tsv) and reviewed; marked \"src\": \"gen\"",
+    "licence": "CC-BY-SA-4.0",
+    "count": 205,
+    "note": "Example sentences only, for words whose corpus sentences are missing or dropped by policy; no audio."
+  },
+  "globalvoices": {
+    "source": "OPUS GlobalVoices v2018q4 en-sw (Global Voices, globalvoices.org)",
+    "licence": "CC-BY-3.0",
+    "url": "https://object.pouta.csc.fi/OPUS-GlobalVoices/v2018q4/moses/en-sw.txt.zip",
+    "sentences_shipped": 1022,
+    "note": "frequency corpus; short everyday sentences also used as examples, marked \"src\": \"gv\""
+  },
+  "flores": {
+    "source": "FLORES-200 swh_Latn dev + devtest (Meta AI)",
+    "licence": "CC-BY-SA-4.0",
+    "url": "https://dl.fbaipublicfiles.com/nllb/flores200_dataset.tar.gz",
+    "sentences_shipped": 34,
+    "note": "frequency corpus; short sentences also used as examples, marked \"src\": \"flores\""
+  }
+}

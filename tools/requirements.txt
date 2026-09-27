@@ -1,0 +1,4 @@
+# Shared builder deps (spacy, wordfreq, simplemma), pinned in vocab-engine. Swahili
+# needs nothing else: no tagger exists, so langs/sw.py carries a rule-based
+# tokeniser/lemmatiser over the kaikki Swahili extract.
+-r ../engine/tools/packbuilder/requirements.txt

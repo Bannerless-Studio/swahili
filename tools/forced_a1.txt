@@ -1,0 +1,25 @@
+# A1 core list: everyday words forced into A1 (the closed sets - pronouns,
+# possessives, demonstratives, copula, kuna, question words, numbers, days,
+# months, greetings, time and function words - are in
+# vocab-engine/tools/packbuilder/langs/sw.py).
+# Nouns by their singular, verbs by their Wiktionary stem (soma = kusoma),
+# agreeing adjectives by their stem (zuri = -zuri).
+[NOUN]
+nyumba chumba mlango dirisha meza kiti kitanda jiko choo
+maji chakula chai kahawa maziwa mkate wali ugali nyama samaki kuku yai sukari chumvi tunda ndizi embe mboga
+mtu mtoto mama baba kaka dada rafiki familia mume mke mwanamume mwanamke mvulana msichana
+shule mwalimu mwanafunzi kitabu kalamu darasa daktari hospitali duka soko pesa bei kazi ofisi
+gari baiskeli ndege njia barabara mji nchi kijiji safari
+simu barua jina lugha neno swali kiswahili kiingereza
+mvua jua upepo baridi joto
+siku wiki mwezi mwaka saa dakika asubuhi mchana jioni usiku
+kichwa mkono mguu jicho sikio mdomo unywele mwili
+mbwa paka ng'ombe mti ua bahari mto nguo kiatu mfuko
+[VERB]
+la nywa lala enda ja rudi fanya soma andika ona sikia sema zungumza nunua uza penda jua elewa
+kaa simama tembea kimbia ingia toka fungua funga ishi ngoja tafuta leta pa chukua vaa oga pika
+cheza anza maliza lipa uliza jibu saidia kumbuka sahau amka fika pata taka weza
+[ADJ]
+zuri baya kubwa dogo pya zee refu fupi safi chafu
+[ADV]
+vizuri haraka polepole mbali pamoja zaidi kidogo kabisa
