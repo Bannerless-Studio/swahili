@@ -13,7 +13,7 @@ These are the residuals from the sentence review and passages round of 2026-09-2
 - 59 A1 sentences carry a relative form (-ye-, -cho-, amba-), which is above the A1 register. They were kept because a sentence's level follows its word, and dropping them would leave A1 words with no easy sentence. Fixing this needs a register-aware level rule, or written A1 sentences for those words.
 - The B1 corpus sentences were scanned for policy words and punctuation damage, not read line by line.
 - 41 words have exactly one sentence. The list is in tools/REPORT.md.
-- Some sensitive words stay in the pack, each with one neutral sentence: pombe, kingono, uchi, kimapenzi, mpenzi, dansi, mwanamuziki. Dropping a word outright needs a word-level exclusion input, which the builder lacks.
+- Alcohol and music words stay in the pack, as in the other packs: pombe, dansi, mwanamuziki. Sexual and romance words (mpenzi, kimapenzi, kingono, uchi) are kept at B1 by sw.py `lower_level_gloss_re`. Each has one neutral sentence.
 - The rule tagger links some homographs to the wrong word, for example basi ("well") for "bus", chuma (iron) for kuchuma (pick), and unga (to join) for "flour". The passages were reworded around these. Corpus sentences were dropped only where the review found the problem. A homograph table in `langs/sw.py` would fix the whole class at once.
 
 ## Passages

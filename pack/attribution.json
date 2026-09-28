@@ -47,7 +47,7 @@
     "source": "OPUS GlobalVoices v2018q4 en-sw (Global Voices, globalvoices.org)",
     "licence": "CC-BY-3.0",
     "url": "https://object.pouta.csc.fi/OPUS-GlobalVoices/v2018q4/moses/en-sw.txt.zip",
-    "sentences_shipped": 1063,
+    "sentences_shipped": 1061,
     "note": "frequency corpus; short everyday sentences also used as examples, marked \"src\": \"gv\""
   },
   "flores": {

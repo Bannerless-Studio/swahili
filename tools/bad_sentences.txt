@@ -355,6 +355,10 @@ Mwezi wa Septemba tarehe 3, nitasafiri kutoka Los Angeles kwenda Seoul pamoja ra
 - Wewe si unatoka Bahrain, unaweza kununua gari!
 # s2542 na akiwa na (garbled clause)
 Mwanaume yupo ndani ya gari, na akiwa na nguvu kuliko mimi.
+# s0885 garbled literary calque (Kuenzi!)
+Kuenzi! kweli sarafu inayofaa sana, ambayo wale wanaojua kuipitisha wanaweza kupata na faida kubwa.
+# s2538 garbled calque, conditional
+Hawawezi kurusha makosa kwa watu wengine, wangetusaidia nyumba na misaada ya kifedha.
 
 # english: English mistranslates the sentence
 # s0038 saa yake "stared at her"
@@ -573,6 +577,8 @@ Hakuna meli yeyote iliyoweza kuwasili Cuba.
 Kampeni la kuonyesha upande mzuri wa Afrika pia umeimarishwa katika mtandao.
 # rescan: Halijoto linategemewa
 Halijoto mjini Boston linategemewa kushuka hadi -22C.
+# s1042 paa yetu (ji/ma: paa letu)
+Upepo ulipobomoa sehemu ya paa yetu, tulianza kuwa na wasiwasi.
 
 # sense: sentence does not illustrate the linked word's sense
 # s0127 kutokwa jasho linked as kutoka
