@@ -115,7 +115,7 @@ S Wakati wa mvua barabara ni chafu sana. | In the rainy season the roads are ver
 S Mimi ninapenda Desemba kwa sababu ninaweza kwenda baharini. | I like December because I can go to the sea.
 Q mc | 1 | mvua | Kuna mvua nyingi mwezi gani? | Which month has a lot of rain? | Aprili ;; Julai ;; Desemba ;; Machi
 Q tf | T | 2 | kaa,nyumba | Wakati wa mvua watu wanakaa nyumbani. | During the rain people stay at home.
-Q tf | F | 4 | baridi | Mwezi wa Julai kuna baridi sana usiku. | In July it is very cold at night.
+Q tf | F | 4 | baridi | Asubuhi za Julai kuna joto kali. | July mornings are very hot.
 Q mc | 6 | vaa,nguo | Watu wanafanya nini wakati wa joto? | What do people do when it is hot? | Wanakunywa maji mengi ;; Wanakaa nyumbani ;; Wanakunywa chai ya moto ;; Wanavaa nguo nyingi
 Q tf | T | 5 | jua,kali | Mwezi wa Desemba jua ni kali. | In December the sun is strong.
 

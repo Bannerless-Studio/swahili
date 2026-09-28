@@ -10,7 +10,8 @@ words = the builder's word count (the band rule); ws_words = whitespace-separate
 tokens of the passage text, the count the app shows (report only).
 
 - **A1**: 20 passages; words/passage 62-73 (median 65.5); ws_words 62-73; coverage min 0.982, median 1.000 (rule >= 0.95); linked min 0.982; questions mc 40, tf 60
-- **A2**: 20 passages; words/passage 93-116 (median 99.5); ws_words 93-116; coverage min 0.967, median 1.000 (rule >= 0.95); linked min 0.967; questions mc 40, tf 60
+- **A2**: 20 passages; words/passage 92-116 (median 100.0); ws_words 92-116; coverage min 0.967, median 1.000 (rule >= 0.95); linked min 0.967; questions mc 40, tf 60
+- **B1**: 20 passages; words/passage 112-131 (median 122.5); ws_words 112-131; coverage min 0.973, median 1.000 (rule >= 0.93); linked min 0.973; questions mc 49, tf 45
 
 | id | lv | title | words | ws_words | coverage | linked | out-of-pack lemmas (reason) | higher-level lemmas |
 |---|---|---|---|---|---|---|---|---|
@@ -36,29 +37,67 @@ tokens of the passage text, the count the app shows (report only).
 | p0020 | A1 | Wiki yangu | 63 | 63 | 1.000 | 1.000 | - | A2: mpira, safisha |
 | p0021 | A2 | Likizo Zanzibar | 115 | 115 | 1.000 | 1.000 | - | B1: nyesha |
 | p0022 | A2 | Kazi mpya ya Daudi | 116 | 116 | 1.000 | 1.000 | - | B1: tulivu |
-| p0023 | A2 | Kwa daktari | 110 | 110 | 1.000 | 1.000 | - | B1: tumbo |
+| p0023 | A2 | Kwa daktari | 110 | 110 | 1.000 | 1.000 | - | B1: gonjwa, tumbo |
 | p0024 | A2 | Tangazo la chumba | 100 | 100 | 0.979 | 0.979 | daladala x1 (minibus, everyday East African transport, no pack word), shilingi x1 (currency unit of Tanzania and Kenya, no pack word) | B1: bustani, sigara, tulivu |
-| p0025 | A2 | Harusi ya dada yangu | 108 | 108 | 1.000 | 1.000 | - | B1: geni, olewa |
+| p0025 | A2 | Harusi ya dada yangu | 108 | 108 | 1.000 | 1.000 | - | B1: olewa |
 | p0026 | A2 | Treni ya asubuhi | 94 | 94 | 1.000 | 1.000 | - | B1: radhi, tiketi, usumbufu |
 | p0027 | A2 | Shamba la mjomba | 107 | 107 | 1.000 | 1.000 | - | B1: alfajiri, mahindi, pumzika |
 | p0028 | A2 | Mtihani wa Kiingereza | 97 | 97 | 1.000 | 1.000 | - | B1: faulu, kitambulisho |
 | p0029 | A2 | Simu iliyopotea | 95 | 95 | 1.000 | 1.000 | - | B1: bluu, shati |
 | p0030 | A2 | Mechi ya mpira | 96 | 96 | 0.967 | 0.967 | bao x3 (goal (football), no pack word) | B1: malizika, pumziko |
-| p0031 | A2 | Mkahawa mpya mtaani | 96 | 96 | 1.000 | 1.000 | - | B1: agiza, nafuu |
-| p0032 | A2 | Jirani mpya | 99 | 99 | 1.000 | 1.000 | - | B1: sekondari, ziwa |
-| p0033 | A2 | Ajali barabarani | 97 | 97 | 1.000 | 1.000 | - | B1: gonga, lori, pombe |
+| p0031 | A2 | Mkahawa mpya mtaani | 92 | 92 | 1.000 | 1.000 | - | B1: agiza, kimya, nafuu |
+| p0032 | A2 | Jirani mpya | 101 | 101 | 1.000 | 1.000 | - | B1: sekondari, ziwa |
+| p0033 | A2 | Ajali barabarani | 97 | 97 | 1.000 | 1.000 | - | B1: bovu, gonga, lori |
 | p0034 | A2 | Kompyuta ya zamani | 94 | 94 | 0.977 | 0.977 | fundi x2 (repairman, everyday word the frequency ranking leaves out) | B1: mwishowe |
-| p0035 | A2 | Siku ya kuzaliwa | 99 | 99 | 1.000 | 1.000 | - | B1: keki |
-| p0036 | A2 | Tangazo la kazi | 110 | 110 | 1.000 | 1.000 | - | - |
-| p0037 | A2 | Mafuriko mjini | 101 | 101 | 1.000 | 1.000 | - | B1: nyesha |
+| p0035 | A2 | Siku ya kuzaliwa | 98 | 98 | 1.000 | 1.000 | - | B1: keki |
+| p0036 | A2 | Tangazo la kazi | 112 | 112 | 1.000 | 1.000 | - | - |
+| p0037 | A2 | Mafuriko mjini | 100 | 100 | 1.000 | 1.000 | - | B1: nyesha |
 | p0038 | A2 | Barua pepe kwa mwalimu | 93 | 93 | 1.000 | 1.000 | - | B1: homa, julisha |
 | p0039 | A2 | Kupanda mlima | 105 | 105 | 1.000 | 1.000 | - | B1: hema, pumzika |
 | p0040 | A2 | Kuhamia mji mpya | 110 | 110 | 1.000 | 1.000 | - | B1: bustani, kavu, wizara |
+| p0041 | B1 | Uamuzi mgumu | 129 | 129 | 0.992 | 0.992 | muuguzi x1 (nurse, everyday job word the frequency ranking leaves out) | - |
+| p0042 | B1 | Malalamiko kwa hoteli | 116 | 116 | 0.973 | 0.973 | kiyoyozi x1 (air conditioner, hotel-room word with no pack equivalent), meneja x2 (manager, everyday loanword the frequency ranking leaves out) | - |
+| p0043 | B1 | Kiwanda kitafungwa | 117 | 117 | 0.982 | 0.982 | fidia x1 (compensation, the union's demand, no pack word), saruji x1 (cement, the factory's product, no pack word) | - |
+| p0044 | B1 | Utalii na mazingira | 127 | 127 | 1.000 | 1.000 | - | - |
+| p0045 | B1 | Maktaba ya kijiji | 126 | 126 | 1.000 | 1.000 | - | - |
+| p0046 | B1 | Mafuriko mtaani | 128 | 128 | 1.000 | 1.000 | - | - |
+| p0047 | B1 | Mwezi wa Ramadhani | 115 | 115 | 1.000 | 1.000 | - | - |
+| p0048 | B1 | Bei sokoni | 131 | 131 | 1.000 | 1.000 | - | - |
+| p0049 | B1 | Biashara ya chakula | 125 | 125 | 1.000 | 1.000 | - | - |
+| p0050 | B1 | Pesa kwa simu | 125 | 125 | 1.000 | 1.000 | - | - |
+| p0051 | B1 | Siku hospitalini | 125 | 125 | 1.000 | 1.000 | - | - |
+| p0052 | B1 | Mkutano wa wazazi | 112 | 112 | 1.000 | 1.000 | - | - |
+| p0053 | B1 | Kwa bibi Arusha | 120 | 120 | 1.000 | 1.000 | - | - |
+| p0054 | B1 | Maji ya mvua | 131 | 131 | 1.000 | 1.000 | - | - |
+| p0055 | B1 | Siku ya kupanda miti | 127 | 127 | 1.000 | 1.000 | - | - |
+| p0056 | B1 | Mahojiano ya kazi | 119 | 119 | 1.000 | 1.000 | - | - |
+| p0057 | B1 | Barua kwa mwalimu | 114 | 114 | 0.990 | 0.990 | malaria x1 (the illness in the doctor's diagnosis, a common loanword missing from the frequency list) | - |
+| p0058 | B1 | Mkulima wa kahawa | 116 | 116 | 1.000 | 1.000 | - | - |
+| p0059 | B1 | Maisha mjini | 119 | 119 | 1.000 | 1.000 | - | - |
+| p0060 | B1 | Usafi wa mtaa | 117 | 117 | 1.000 | 1.000 | - | - |
 
 Title words, and question/option words the budget does not count (a numeral-like
 pack word), that are out of the pack or above the passage's level (report only;
 the budget rule above is unchanged):
 
 - p0019: title 'babu': babu A2
+- p0060: title 'usafi': out of pack
 
 <!-- manual section: kept across runs -->
+## Manual QA (2026-09-29, B1 round)
+
+- **Source.** The passages are hand-written in tools/passages/{a1,a2,b1}.txt, and tools/passages/assemble.py turns them into tools/passages_src.json. The assembler cycles each mc key through positions 0-3. B1 now has 20 passages: 5 drafts were revised and 15 are new (p0046-p0060).
+- **Content policy.** The texts cover everyday East African life: floods, Ramadan and Eid, market prices, a food stall, mobile money, a clinic visit, a parents' meeting, a family visit, rainwater, tree planting, a job interview, a sick note, coffee farming, town life and a street clean-up. A2 edits removed music, dancing and alcohol from the wedding, restaurant, neighbour, road-accident, football, birthday and drawing passages.
+- **Out-of-pack lemmas.** Each one is declared with a reason: muuguzi, kiyoyozi, meneja, saruji, fidia, malaria. Other oop words were reworded into pack words, for example tope to maji machafu and kisima to bomba.
+- **Homographs and senses.** Every B1 span was listed and read as a surface = lemma : gloss table. The following were reworded:
+  - basi as "well" for the bus;
+  - chuma (iron) for kuchuma (pick);
+  - unga (to join) for flour;
+  - hesabu (to count) for maths;
+  - umtumie as tumia "use";
+  - uzito as zito "heavy";
+  - isipokuwa as kuwa;
+  - magharibi (west) for the sunset prayer.
+- **Gloss fixes.** Five single-sense glosses were widened in tools/gloss_overrides.json: panda (plant), kiangazi (dry season), mhudumu (attendant), shauri (advise) and hesabu (maths).
+- **Questions.** Every question is answerable from its sentence and tagged with the lemmas linked there. A key is the unique-longest option in B1 2/49 and A2 10/40. A tf statement never copies a 5-word run.
+- **Names.** Place names are declared per passage. Moshi, a town in p0039, is also a pack word (smoke); it is declared as a name and is not linked.

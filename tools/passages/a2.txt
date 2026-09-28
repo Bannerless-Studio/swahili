@@ -89,14 +89,14 @@ S Mimi na kaka yangu tulisafisha nyumba na kuweka maua uwanjani. | My brother an
 S Siku ya harusi, wageni walifika kutoka miji mbalimbali. | On the wedding day guests arrived from various towns.
 S Mwajuma alivaa nguo nyeupe na alionekana mzuri sana. | Mwajuma wore a white dress and looked very beautiful.
 S Baada ya sherehe kanisani, watu wote walikula na kunywa pamoja. | After the ceremony at the church, everybody ate and drank together.
-S Kulikuwa na muziki na watu walicheza hadi usiku. | There was music and people danced until night.
+S Watoto walicheza uwanjani na wazee walizungumza hadi usiku. | The children played in the yard and the elders talked until night.
 S Babu yetu alitoa hotuba fupi na kuwatakia maisha mema. | Our grandfather gave a short speech and wished them a good life.
 S Mama alilia kidogo kwa furaha. | Mother cried a little from joy.
 S Sasa Mwajuma na Hamisi wanaishi mjini, lakini wanakuja kijijini mara kwa mara. | Now Mwajuma and Hamisi live in town, but they come to the village often.
 Q tf | T | 1 | harusi,kijiji | Harusi ilikuwa kijijini. | The wedding was in the village.
 Q mc | 3 | pika,mgeni | Chakula kilipikwa kwa ajili ya watu wangapi? | For how many people was food cooked? | Mia tatu ;; Hamsini ;; Elfu moja ;; Mia moja
 Q tf | F | 6 | vaa,nguo | Mwajuma alivaa nguo nyekundu. | Mwajuma wore a red dress.
-Q mc | 9 | babu,hotuba | Babu alifanya nini kwenye harusi? | What did grandfather do at the wedding? | Alizungumza mbele ya watu ;; Alipika chakula ;; Aliimba wimbo ;; Alicheza muziki
+Q mc | 9 | babu,hotuba | Babu alifanya nini kwenye harusi? | What did grandfather do at the wedding? | Alizungumza mbele ya watu ;; Alipika chakula cha wageni wote ;; Alileta zawadi ;; Alisafisha nyumba
 Q tf | F | 10 | lia,furaha | Mama alilia kwa sababu alikuwa na huzuni. | Mother cried because she was sad.
 
 @ A2 | Treni ya asubuhi | names: Nairobi, Mombasa
@@ -181,13 +181,13 @@ Q tf | T | 11 | zawadi | Baraka alimpa mwanamke zawadi. | Baraka gave the woman 
 S Jumapili iliyopita nilikwenda uwanjani kutazama mechi kati ya timu mbili kubwa. | Last Sunday I went to the stadium to watch a match between two big teams.
 S Timu yangu ninayoipenda ilicheza dhidi ya timu ya mji mwingine. | My favourite team played against a team from another town.
 S Uwanja ulijaa watu na kelele zilikuwa nyingi sana. | The stadium was full of people and the noise was very loud.
-S Mashabiki waliimba nyimbo na kupiga vuvuzela. | The fans sang songs and blew vuvuzelas.
+S Mashabiki walipiga kelele na kupiga vuvuzela. | The fans shouted and blew vuvuzelas.
 S Timu yetu ilianza vizuri, lakini dakika ya ishirini wapinzani walipata bao. | Our team started well, but in the twentieth minute the opponents scored a goal.
 S Mashabiki wetu walikaa kimya kwa muda. | Our fans were silent for a while.
 S Baada ya mapumziko, mchezaji wetu mdogo aliingia uwanjani. | After the break, our young player came onto the field.
 S Alikimbia kwa kasi kubwa na kufunga mabao mawili. | He ran very fast and scored two goals.
 S Mwisho wa mechi tulishinda mabao mawili kwa moja. | At the end of the match we won two goals to one.
-S Watu walirudi nyumbani wakiimba na kucheza barabarani. | People went home singing and dancing in the streets.
+S Watu walirudi nyumbani wakiwa na furaha kubwa. | People went home very happy.
 S Ilikuwa siku ya furaha sana kwangu. | It was a very happy day for me.
 S Mechi ijayo itakuwa baada ya wiki mbili. | The next match will be in two weeks.
 Q tf | T | 2 | uwanja,jaa | Uwanja ulikuwa na watu wengi. | The stadium had a lot of people.
@@ -202,7 +202,7 @@ S Mmiliki wake ni mwanamke anayeitwa Mama Lucy. | Its owner is a woman called Ma
 S Zamani alipika chakula nyumbani na kuuza kwa majirani. | Before, she cooked food at home and sold it to the neighbours.
 S Sasa ana wafanyakazi wanne na meza kumi. | Now she has four workers and ten tables.
 S Jana jioni mimi na rafiki zangu tulikwenda kula huko. | Yesterday evening my friends and I went to eat there.
-S Mkahawa ulikuwa safi na muziki ulikuwa mzuri lakini si kwa sauti kubwa. | The restaurant was clean and the music was nice but not loud.
+S Mkahawa ulikuwa safi na kimya, bila kelele nyingi. | The restaurant was clean and quiet, without much noise.
 S Mimi niliagiza wali, mboga na samaki. | I ordered rice, vegetables and fish.
 S Rafiki yangu alichagua kuku na ndizi. | My friend chose chicken and bananas.
 S Chakula kilikuja haraka na kilikuwa kitamu sana. | The food came quickly and was very tasty.
@@ -211,7 +211,7 @@ S Tatizo moja tu ni kwamba hakuna nafasi ya kutosha ya kuweka magari. | The only
 S Hata hivyo, tutarudi tena wiki ijayo. | Even so, we will return next week.
 Q tf | T | 1 | mmiliki | Mkahawa ni mali ya Mama Lucy. | The restaurant belongs to Mama Lucy.
 Q mc | 3 | mfanyakazi | Mama Lucy ana wafanyakazi wangapi? | How many workers does Mama Lucy have? | Wanne ;; Kumi ;; Wawili ;; Hana
-Q tf | F | 5 | muziki,sauti | Muziki ulikuwa na kelele sana. | The music was very noisy.
+Q tf | F | 5 | kelele | Ndani ya mkahawa kulikuwa na kelele kubwa. | Inside the restaurant there was a lot of noise.
 Q mc | 8 | chakula,haraka | Mwandishi anasema nini kuhusu chakula? | What does the writer say about the food? | Kitamu ;; Kibaya ;; Baridi ;; Kidogo mno
 Q tf | T | 10 | tatizo,nafasi | Ni vigumu kupata mahali pa kuweka gari. | It is hard to find a place to put a car.
 
@@ -222,7 +222,7 @@ S Yeye ni mwalimu wa hesabu katika shule ya sekondari. | He is a maths teacher a
 S Ana mke na binti mmoja mwenye miaka sita. | He has a wife and one daughter who is six years old.
 S Siku ya kwanza tuliwakaribisha na kuwapelekea chakula. | On the first day we welcomed them and took them some food.
 S Walitushukuru sana na kutuita kunywa chai jioni. | They thanked us a lot and called us to drink tea in the evening.
-S Tuligundua kwamba Peter anapenda muziki na anaimba kanisani. | We discovered that Peter likes music and sings in church.
+S Tuligundua kwamba Peter anapenda kusaidia na husafisha kanisa kila Jumamosi. | We discovered that Peter likes to help and cleans the church every Saturday.
 S Binti yake sasa anacheza na watoto wetu kila siku. | His daughter now plays with our children every day.
 S Wakati mwingine Peter anawasaidia watoto wetu na kazi za shule. | Sometimes Peter helps our children with their schoolwork.
 S Sisi tunamwonyesha soko na maduka mazuri ya mtaa. | We show him the market and the good shops of the area.
@@ -231,7 +231,7 @@ S Mwezi ujao tutakwenda pamoja kuona mechi ya mpira. | Next month we will go tog
 Q mc | 2 | mwalimu | Peter anafanya kazi gani? | What work does Peter do? | Anafundisha ;; Ni daktari ;; Ni dereva ;; Ni mkulima
 Q tf | F | 3 | binti | Peter ana watoto wawili. | Peter has two children.
 Q tf | T | 5 | shukuru | Familia ya Peter ilishukuru kwa chakula. | Peter's family was thankful for the food.
-Q mc | 6 | imba | Peter anafanya nini kanisani? | What does Peter do in church? | Anaimba ;; Anafundisha ;; Anapika ;; Anasafisha
+Q mc | 6 | safisha,kanisa | Peter anafanya nini kila Jumamosi? | What does Peter do every Saturday? | Anasafisha kanisa ;; Anafundisha shuleni ;; Anapika sokoni ;; Anacheza mpira
 Q tf | T | 8 | saidia | Peter anawasaidia watoto na masomo. | Peter helps the children with their lessons.
 
 @ A2 | Ajali barabarani | names: Morogoro, Dodoma
@@ -248,7 +248,7 @@ S Polisi wanawaomba madereva wote waendeshe polepole wakati wa mvua. | The polic
 S Dereva huyo yuko mikononi mwa polisi. | That driver is in police hands.
 Q mc | 0 | ajali | Ajali ilitokea lini? | When did the accident happen? | Jana asubuhi ;; Jana usiku ;; Leo mchana ;; Wiki iliyopita
 Q tf | F | 2 | abiria,jeruhi | Abiria kadhaa walifariki katika ajali. | Several passengers died in the accident.
-Q mc | 3 | dereva,kasi | Kwa mujibu wa polisi, kosa la dereva lilikuwa nini? | According to the police, what was the driver's mistake? | Kasi kubwa ;; Kulala ;; Kunywa pombe ;; Simu
+Q mc | 3 | dereva,kasi | Kwa mujibu wa polisi, kosa la dereva lilikuwa nini? | According to the police, what was the driver's mistake? | Kasi kubwa ;; Kulala ;; Gari bovu ;; Simu
 Q tf | T | 5 | kijiji,saidia | Watu wa kijiji walisaidia abiria. | The villagers helped the passengers.
 Q tf | F | 8 | funga | Barabara haikufungwa hata kidogo. | The road was not closed at all.
 
@@ -278,7 +278,7 @@ S Baba yake alinunua maziwa na matunda dukani. | Her father bought milk and frui
 S Asha aliwaita rafiki zake sita kutoka darasani. | Asha called six of her friends from class.
 S Wageni walifika saa kumi na moja wakiwa na zawadi mikononi. | The guests arrived at five with presents in their hands.
 S Walicheza michezo mingi nje ya nyumba. | They played many games outside the house.
-S Kisha wote waliimba wimbo wa siku ya kuzaliwa. | Then they all sang the birthday song.
+S Kisha wote walikaa pamoja na kunywa chai. | Then they all sat together and drank tea.
 S Asha alikata keki na kila mtu alipata kipande. | Asha cut the cake and everybody got a piece.
 S Zawadi aliyoipenda zaidi ilikuwa kitabu kutoka kwa babu yake. | The present she liked most was a book from her grandfather.
 S Usiku, baada ya wageni kuondoka, Asha aliwashukuru wazazi wake. | At night, after the guests left, Asha thanked her parents.
@@ -381,5 +381,5 @@ S Anasema maisha mapya si mabaya kama alivyofikiri. | She says the new life is n
 Q tf | T | 1 | baba,kazi | Familia ilihamia Dodoma kwa sababu ya kazi ya baba. | The family moved to Dodoma because of the father's job.
 Q mc | 3 | hali,upepo | Hali ya hewa ya Dodoma ni ya aina gani? | What kind of weather does Dodoma have? | Kavu ;; Baridi sana ;; Ina mvua nyingi ;; Ina theluji
 Q tf | F | 4 | nyumba | Nyumba mpya ni kubwa kuliko ya zamani. | The new house is bigger than the old one.
-Q mc | 8 | penda,chora | Sara na Rehema wanapenda kufanya nini? | What do Sara and Rehema like doing? | Kuchora picha ;; Kuimba nyimbo ;; Kupika ;; Kucheza mpira
+Q mc | 8 | penda,chora | Sara na Rehema wanapenda kufanya nini? | What do Sara and Rehema like doing? | Kuchora picha ;; Kusoma vitabu ;; Kupika ;; Kucheza mpira
 Q tf | T | 10 | wasiliana | Sara bado anaongea na rafiki zake wa zamani. | Sara still talks with her old friends.

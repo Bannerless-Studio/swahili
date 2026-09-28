@@ -1,6 +1,6 @@
 # B1 passages: 110-150 words, any pack lemma; coverage >= 0.93.
 
-@ B1 | Uamuzi mgumu | names: Salma, Mombasa, Dubai
+@ B1 | Uamuzi mgumu | names: Salma, Mombasa, Dubai | oop: muuguzi=nurse, everyday job word the frequency ranking leaves out
 S Salma amefanya kazi kama muuguzi katika hospitali ya Mombasa kwa miaka minane. | Salma has worked as a nurse in a Mombasa hospital for eight years.
 S Mwezi uliopita alipata barua kutoka kwa hospitali moja kubwa ya Dubai. | Last month she received a letter from a big hospital in Dubai.
 S Wanampa kazi yenye mshahara mara tatu zaidi ya anaopata sasa. | They are offering her a job with a salary three times more than she gets now.
@@ -20,7 +20,7 @@ Q tf | F | 6 | kaka | Kaka wa Salma wanamtunza mama yao kila siku. | Salma's bro
 Q mc | 7 | ada | Pesa za ziada zingemsaidia Salma kufanya nini? | What would the extra money help Salma do? | Kulipia elimu ya watoto ;; Kununua nyumba ;; Kumtunza mama ;; Kusafiri mara nyingi
 Q tf | T | 10 | kataa,nafasi | Mama anataka Salma afikirie kazi hiyo bila kujali hali yake. | The mother wants Salma to consider the job without worrying about her.
 
-@ B1 | Malalamiko kwa hoteli | names: Jamila, Bagamoyo
+@ B1 | Malalamiko kwa hoteli | names: Jamila, Bagamoyo | oop: kiyoyozi=air conditioner, hotel-room word with no pack equivalent; meneja=manager, everyday loanword the frequency ranking leaves out
 S Kwa meneja wa hoteli, | To the hotel manager,
 S Naandika kueleza masikitiko yangu kuhusu huduma niliyopata katika hoteli yenu wiki iliyopita. | I am writing to express my disappointment about the service I received at your hotel last week.
 S Nilikaa hapo kwa usiku tatu pamoja na mume wangu na watoto wawili. | I stayed there for three nights with my husband and two children.
@@ -29,18 +29,18 @@ S Hata hivyo, katika chumba chetu maji ya moto hayakupatikana hata siku moja. | 
 S Tulimweleza mhudumu mara mbili, lakini hakuna aliyekuja kurekebisha tatizo. | We told the attendant twice, but nobody came to fix the problem.
 S Pia chakula cha asubuhi kilikuwa baridi na kilichelewa kila siku. | Also breakfast was cold and was late every day.
 S Siku ya mwisho tuliambiwa kulipa gharama ya ziada ambayo hatukuelezwa mwanzoni. | On the last day we were told to pay an extra charge that had not been explained to us at the start.
-S Nilipouliza, meneja msaidizi alinijibu kwa ukali mbele ya watoto wangu. | When I asked, the assistant manager answered me rudely in front of my children.
+S Nilipouliza, meneja msaidizi alinijibu vibaya mbele ya watoto wangu. | When I asked, the assistant manager answered me rudely in front of my children.
 S Kwa kawaida napenda kutembelea Bagamoyo na nilitarajia likizo nzuri. | Usually I like visiting Bagamoyo and I expected a good holiday.
 S Naomba mrudishe gharama ya ziada tuliyolipa. | I request that you refund the extra charge we paid.
 S Pia natumaini mtawafundisha wafanyakazi wenu kuwaheshimu wateja. | I also hope you will teach your staff to respect customers.
 S Wako, Jamila. | Yours, Jamila.
 Q tf | F | 2 | kaa | Jamila alikaa hotelini peke yake. | Jamila stayed at the hotel alone.
-Q mc | 4 | maji,moto | Tatizo la kwanza la chumba lilikuwa nini? | What was the room's first problem? | Hakukuwa na maji ya moto ;; Kitanda kilikuwa kibovu ;; Chumba kilikuwa kidogo ;; Dirisha lilivunjika
+Q mc | 4 | maji,moto | Tatizo la kwanza la chumba lilikuwa nini? | What was the room's first problem? | Hakukuwa na maji ya moto ;; Kitanda kilikuwa kibovu ;; Chumba kilikuwa kidogo sana ;; Dirisha halikufungwa vizuri
 Q tf | T | 6 | chakula,chelewa | Chakula cha asubuhi hakikuja kwa wakati. | Breakfast did not come on time.
-Q mc | 8 | meneja,jibu | Meneja msaidizi alifanyaje Jamila alipouliza? | How did the assistant manager act when Jamila asked? | Alijibu vibaya ;; Aliomba radhi ;; Alirudisha pesa ;; Aliita polisi
+Q mc | 8 | uliza,jibu | Jamila alipouliza, alijibiwa vipi? | When Jamila asked, how was she answered? | Vibaya, mbele ya watoto ;; Kwa heshima kubwa ;; Kwa barua ndefu ;; Kwa kuomba radhi haraka
 Q tf | T | 10 | omba,rudisha | Jamila anataka arudishiwe pesa za ziada. | Jamila wants the extra money returned to her.
 
-@ B1 | Kiwanda kitafungwa | names: Tanga
+@ B1 | Kiwanda kitafungwa | names: Tanga | oop: saruji=cement, the factory's product, no pack word; fidia=compensation, the union's demand, no pack word
 S Kampuni inayomiliki kiwanda cha saruji cha Tanga imetangaza kwamba kiwanda hicho kitafungwa mwezi Juni. | The company that owns the Tanga cement factory has announced that the factory will close in June.
 S Kiwanda hicho kimekuwa kikifanya kazi kwa zaidi ya miaka arobaini. | The factory has been operating for more than forty years.
 S Kwa mujibu wa taarifa ya kampuni, gharama za umeme zimepanda sana katika miaka ya karibuni. | According to the company's statement, electricity costs have risen sharply in recent years.
@@ -51,18 +51,18 @@ S Viongozi wa chama cha wafanyakazi wamesema watakutana na serikali wiki ijayo. 
 S Wanataka kampuni iwalipe wafanyakazi fidia ya kutosha. | They want the company to pay the workers enough compensation.
 S Wafanyabiashara wa mji pia wana wasiwasi. | The town's traders are also worried.
 S Mama mmoja anayeuza chakula karibu na lango la kiwanda alisema biashara yake itaathirika. | A woman who sells food near the factory gate said her business will be affected.
-S Serikali ya mkoa imeahidi kutafuta mwekezaji mpya. | The regional government has promised to look for a new investor.
+S Serikali imeahidi kutafuta kampuni nyingine ya kununua kiwanda. | The government has promised to look for another company to buy the factory.
 S Hata hivyo, wakazi wengi hawana matumaini makubwa. | However, many residents do not have great hope.
 Q mc | 0 | kiwanda,funga | Kiwanda kitafungwa lini? | When will the factory close? | Mwezi Juni ;; Mwaka ujao ;; Wiki ijayo ;; Mwezi Machi
 Q tf | T | 2 | gharama,umeme | Moja ya sababu ni bei ya umeme. | One of the reasons is the price of electricity.
 Q tf | F | 4 | mfanyakazi,poteza | Wafanyakazi wachache tu wataathirika. | Only a few workers will be affected.
 Q mc | 7 | taka | Chama cha wafanyakazi kinataka nini? | What does the workers' union want? | Malipo kwa wafanyakazi ;; Mashine mpya ;; Umeme wa bei nafuu ;; Kiwanda kihamishwe
-Q tf | T | 10 | ahidi | Serikali imesema itatafuta mtu wa kuwekeza. | The government has said it will look for someone to invest.
+Q tf | T | 10 | ahidi | Serikali itatafuta kampuni ya kununua kiwanda. | The government will look for a buyer for the factory.
 
 @ B1 | Utalii na mazingira | names: Serengeti
-S Kila mwaka maelfu ya watalii hutembelea mbuga ya Serengeti kuona wanyama pori. | Every year thousands of tourists visit Serengeti park to see wild animals.
+S Kila mwaka maelfu ya watalii hutembelea mbuga ya Serengeti kuona wanyama. | Every year thousands of tourists visit Serengeti park to see the animals.
 S Utalii huleta fedha nyingi kwa nchi na kutoa ajira kwa vijana. | Tourism brings a lot of money to the country and provides employment for young people.
-S Madereva, wapishi, waongozaji na wafanyakazi wa hoteli wote hunufaika. | Drivers, cooks, guides and hotel workers all benefit.
+S Madereva, wafanyakazi wa hoteli na watu wanaouza zawadi wote hunufaika. | Drivers, hotel workers and people who sell souvenirs all benefit.
 S Hata hivyo, wataalam wa mazingira wanasema kuna hatari pia. | However, environmental experts say there is also a danger.
 S Magari mengi yanayoingia mbugani husababisha vumbi na kelele zinazowasumbua wanyama. | The many vehicles that enter the park cause dust and noise that disturb the animals.
 S Wakati mwingine magari huzunguka simba mmoja kwa saa nzima ili watalii wapige picha. | Sometimes vehicles surround one lion for a whole hour so that tourists can take photos.
@@ -84,15 +84,296 @@ S Wanafunzi walilazimika kusafiri kilometa ishirini hadi mjini ili kusoma vitabu
 S Mwalimu mstaafu anayeitwa Mwanaidi aliamua kubadilisha hali hiyo. | A retired teacher called Mwanaidi decided to change that situation.
 S Alianza kwa kukusanya vitabu vya zamani kutoka kwa marafiki na familia yake. | She started by collecting old books from friends and her family.
 S Kisha aliomba msaada kutoka kwa shirika moja la kimataifa. | Then she asked for help from an international organisation.
-S Wanakijiji walichangia fedha na nguvu zao kujenga jengo dogo karibu na shule. | The villagers contributed money and their labour to build a small building near the school.
+S Watu wa kijiji walichangia fedha na nguvu zao kujenga jengo dogo karibu na shule. | The villagers contributed money and their labour to build a small building near the school.
 S Leo maktaba ina zaidi ya vitabu elfu mbili na kompyuta nne. | Today the library has more than two thousand books and four computers.
-S Inafunguliwa kila siku isipokuwa Jumapili. | It is open every day except Sunday.
+S Inafunguliwa kila siku, lakini si Jumapili. | It is open every day except Sunday.
 S Watoto huja baada ya shule kufanya kazi za nyumbani na kusoma hadithi. | Children come after school to do homework and read stories.
 S Watu wazima pia hutumia kompyuta kutafuta habari za kilimo na afya. | Adults also use the computers to look for information on farming and health.
-S Mwanaidi anasema matokeo ya mitihani ya shule yameboreka tangu maktaba ifunguliwe. | Mwanaidi says the school's exam results have improved since the library opened.
+S Mwanaidi anasema matokeo ya mitihani ya shule yamekuwa bora zaidi tangu maktaba ifunguliwe. | Mwanaidi says the school's exam results have become better since the library opened.
 S Sasa anatafuta watu wa kusaidia kufundisha wazee kusoma na kuandika. | Now she is looking for volunteers to teach older people to read and write.
 Q tf | F | 1 | mwanafunzi,safiri | Zamani wanafunzi walisoma vitabu kijijini. | In the past pupils read books in the village.
 Q mc | 3 | kusanya,kitabu | Mwanaidi alianza kufanya nini? | What did Mwanaidi begin by doing? | Kukusanya vitabu ;; Kujenga shule ;; Kununua kompyuta ;; Kufundisha watoto
-Q tf | T | 5 | changia | Wanakijiji walisaidia kujenga maktaba. | The villagers helped build the library.
+Q tf | T | 5 | changia | Watu wa kijiji walisaidia kujenga maktaba. | The villagers helped build the library.
 Q mc | 9 | kompyuta | Watu wazima hutumia kompyuta kwa ajili ya nini? | What do adults use the computers for? | Habari za kilimo na afya ;; Kucheza michezo ;; Kutazama filamu ;; Kuandika barua kwa watoto
-Q tf | T | 10 | matokeo,mtihani | Matokeo ya mitihani ni bora sasa. | Exam results are better now.
+Q tf | T | 10 | tokeo,mtihani | Matokeo ya mitihani ni bora sasa. | Exam results are better now.
+
+@ B1 | Mafuriko mtaani | names: Hamisi, Morogoro
+S Mwezi uliopita mvua kubwa ilinyesha Morogoro kwa siku nne bila kusimama. | Last month heavy rain fell in Morogoro for four days without stopping.
+S Mto mmoja karibu na mtaa wetu ulijaa, na maji yakaingia katika nyumba nyingi. | A river near our street filled up, and water entered many houses.
+S Familia ya Hamisi ilipoteza vitanda, nguo na chakula chote kilichokuwa ndani. | Hamisi's family lost their beds, clothes and all the food that was inside.
+S Watoto wao walilala kwa majirani kwa wiki mbili. | Their children slept at the neighbours' for two weeks.
+S Shule ya msingi ilifungwa kwa sababu madarasa yalijaa maji machafu. | The primary school was closed because the classrooms were full of dirty water.
+S Vijana wa mtaa walisaidia kutoa maji ndani ya nyumba na kusafisha barabara. | The young people of the street helped get the water out of the houses and clean the roads.
+S Waumini wa msikiti na wa kanisa walikusanya chakula na nguo kwa familia zilizopata hasara. | Worshippers from the mosque and the church collected food and clothes for the families that suffered losses.
+S Serikali imeahidi kujenga daraja jipya na kusafisha mto. | The government has promised to build a new bridge and clean the river.
+S Hata hivyo, wazee wanasema watu wengi wamejenga nyumba karibu sana na mto. | However, the elders say many people have built houses too close to the river.
+S Zamani eneo hilo lilikuwa shamba, na hakuna mtu aliyeishi pale. | In the past that area was farmland, and nobody lived there.
+S Wanashauri kila familia ijiandae mapema kabla ya msimu ujao wa mvua. | They advise every family to prepare early before the next rainy season.
+S Hamisi sasa anapanga kuhamia sehemu ya juu zaidi. | Hamisi now plans to move to higher ground.
+Q tf | F | 0 | mvua,nyesha | Mvua ilinyesha kwa siku moja tu. | The rain fell for only one day.
+Q mc | 2 | familia,poteza | Familia ya Hamisi ilipoteza nini? | What did Hamisi's family lose? | Vitu vya nyumbani ;; Ng'ombe wao wote wa maziwa ;; Duka lao la sokoni ;; Gari lao jipya
+Q mc | 4 | shule,funga | Kwa nini shule ilifungwa? | Why was the school closed? | Madarasa yalikuwa na maji ;; Walimu wote walikuwa likizo ;; Hakukuwa na wanafunzi ;; Paa lilianguka
+Q tf | T | 6 | msikiti,kanisa | Watu wa dini tofauti waliwasaidia wenzao. | People of different faiths helped their fellows.
+Q mc | 8 | mzee,jenga | Wazee wanaona tatizo gani? | What problem do the elders see? | Nyumba ziko karibu na mto ;; Mvua hainyeshi tena siku hizi ;; Barabara ni nyembamba ;; Watoto hawaendi shule
+
+@ B1 | Mwezi wa Ramadhani | names: Zuhura, Ramadhani, Idi
+S Kila mwaka familia ya Zuhura hufunga mwezi mzima wa Ramadhani. | Every year Zuhura's family fasts the whole month of Ramadan.
+S Wanaamka kabla ya alfajiri na kula chakula kidogo pamoja. | They wake before dawn and eat a little food together.
+S Mchana watu wazima hawali wala hawanywi chochote hadi jua linapozama. | During the day adults neither eat nor drink anything until the sun sets.
+S Watoto wadogo, wazee dhaifu na wagonjwa hawalazimiki kufunga. | Small children, frail old people and the sick are not obliged to fast.
+S Jioni Zuhura humsaidia mama yake kupika chai, mikate na matunda. | In the evening Zuhura helps her mother prepare tea, bread and fruit.
+S Jua linapozama, familia yote hukaa pamoja na kula kwa utulivu. | When the sun sets, the whole family sits together and eats calmly.
+S Mara nyingi wanapeleka chakula kwa majirani na kwa wazee wasio na msaada. | They often take food to neighbours and to old people who have no help.
+S Baba yake husema mwezi huu unafundisha uvumilivu na kuwajali maskini. | Her father says this month teaches patience and caring for the poor.
+S Usiku watu wengi huenda msikitini pamoja. | At night many people go to the mosque together.
+S Mwisho wa mwezi, familia husherehekea Idi kwa kuvaa nguo mpya na kutembeleana. | At the end of the month the family celebrates Eid by wearing new clothes and visiting one another.
+S Watoto hupewa zawadi ndogo, na kila nyumba ina furaha. | Children are given small gifts, and every home is happy.
+S Zuhura anaipenda sherehe hii kwa sababu ndugu wote hukutana. | Zuhura loves this celebration because all the relatives meet.
+Q tf | F | 3 | mtoto,funga | Kila mtu katika familia lazima afunge, hata watoto wadogo. | Everyone in the family must fast, even small children.
+Q mc | 4 | pika,jioni | Zuhura hufanya nini jioni? | What does Zuhura do in the evening? | Humsaidia mama jikoni ;; Huenda sokoni na baba yake ;; Hulala mapema ;; Husoma shuleni hadi usiku
+Q mc | 6 | peleka,jirani | Familia hufanya nini na chakula mara nyingi? | What does the family often do with food? | Huwapa majirani na wazee ;; Huuza sokoni kwa bei nafuu ;; Hukiweka hadi Idi ;; Hukitupa asubuhi
+Q mc | 7 | fundisha,uvumilivu | Baba anasema mwezi huu unafundisha nini? | What does the father say this month teaches? | Uvumilivu na kuwajali wengine ;; Kupika vyakula vya aina nyingi ;; Kuamka mapema ;; Kuokoa pesa
+Q tf | T | 11 | ndugu,kutana | Katika sherehe hii ndugu wa Zuhura huonana. | At this celebration Zuhura's relatives see one another.
+
+@ B1 | Bei sokoni | names: Neema
+S Neema huenda sokoni kila Jumamosi kununua chakula cha wiki nzima. | Neema goes to the market every Saturday to buy food for the whole week.
+S Siku hizi anarudi nyumbani na vitu vichache kuliko zamani. | These days she returns home with fewer things than before.
+S Mwaka jana alinunua sukari kwa bei nafuu, lakini sasa bei imepanda mara mbili. | Last year she bought sugar at a low price, but now the price has doubled.
+S Mafuta ya kupikia na mahindi pia yamekuwa ghali. | Cooking oil and maize have also become expensive.
+S Wafanyabiashara wanasema wao pia wanalipa zaidi kwa usafiri kwa sababu mafuta ya magari yamepanda. | Traders say they too pay more for transport because fuel for vehicles has gone up.
+S Mvua kidogo mwaka huu imepunguza mazao katika mashamba mengi. | Little rain this year has reduced the crops on many farms.
+S Kwa hiyo chakula kinachofika sokoni ni kidogo, na bei inazidi kupanda. | So the food that reaches the market is little, and the price keeps rising.
+S Ili kuokoa pesa, Neema ameanza kupanda mboga katika bustani ndogo nyuma ya nyumba. | To save money, Neema has started planting vegetables in a small garden behind the house.
+S Pia ananunua pamoja na majirani zake kwa wingi, kisha wanagawa vitu hivyo. | She also buys in bulk together with her neighbours, then they share the goods.
+S Kwa njia hii wanapata bei nzuri zaidi kutoka kwa wakulima. | In this way they get a better price from the farmers.
+S Hadi sasa familia yake inakula nyama mara moja tu kwa wiki. | For now her family eats meat only once a week.
+S Neema anatumaini kwamba bei zitashuka baada ya mvua za mwaka ujao. | Neema hopes that prices will come down after next year's rains.
+Q tf | F | 1 | rudi,kitu | Neema sasa hununua vitu vingi zaidi kuliko zamani. | Neema now buys more things than before.
+Q mc | 4 | usafiri,lipa | Kwa nini wafanyabiashara wamepandisha bei? | Why have the traders raised prices? | Usafiri umekuwa ghali ;; Wateja wameongezeka sokoni ;; Serikali imewaambia ;; Wanataka kujenga maduka mapya
+Q mc | 7 | okoa,bustani | Neema amefanya nini ili kuokoa pesa? | What has Neema done to save money? | Ameanza bustani ya mboga ;; Ameacha kula chakula cha jioni ;; Amehamia kijijini ;; Anauza nguo zake
+Q tf | T | 8 | nunua,jirani | Neema hununua chakula pamoja na majirani. | Neema buys food together with neighbours.
+Q mc | 10 | nyama,wiki | Familia ya Neema inakula nyama mara ngapi? | How often does Neema's family eat meat? | Mara moja kwa wiki ;; Kila siku asubuhi na jioni ;; Mara tatu kwa wiki ;; Haili nyama kabisa
+
+@ B1 | Biashara ya chakula | names: Rehema, Mwanza
+S Rehema alimaliza masomo ya kupika katika chuo kimoja miaka miwili iliyopita. | Rehema finished cookery studies at a college two years ago.
+S Alijifunza kupika vizuri, lakini hakupata kazi katika hoteli za Mwanza. | She learned to cook well, but she did not find a job in the hotels of Mwanza.
+S Kwa hiyo aliamua kuanza biashara yake mwenyewe karibu na kiwanda kimoja. | So she decided to start her own business near a factory.
+S Alipata mkopo mdogo kutoka kikundi cha akina mama cha mtaa wake. | She got a small loan from her street's women's group.
+S Kwa pesa hizo alinunua vyombo vya jikoni, meza na viti vichache. | With that money she bought kitchen utensils, a table and a few chairs.
+S Mwanzoni wateja walikuwa wachache, hasa wafanyakazi wa kiwanda. | At first customers were few, mostly factory workers.
+S Alipika wali, ugali na mboga kwa bei nafuu, na wateja wakaanza kuwaambia wengine. | She cooked rice, ugali and vegetables at a low price, and customers began telling others.
+S Sasa anauza chakula kwa watu zaidi ya hamsini kila siku. | Now she sells food to more than fifty people every day.
+S Ana wasichana wawili ambao anawafundisha kazi hii. | She has two girls whom she is teaching this work.
+S Kila mwezi analipa sehemu ya mkopo, na amebakiza miezi mitatu tu. | Every month she pays part of the loan, and she has only three months left.
+S Changamoto kubwa ni mvua, kwa sababu wateja hawakai nje wakati wa mvua. | The big challenge is rain, because customers do not sit outside when it rains.
+S Rehema anapanga kujenga paa na kufungua mgahawa mdogo mwaka ujao. | Rehema plans to build a roof and open a small restaurant next year.
+Q tf | F | 1 | kazi,hoteli | Rehema alipata kazi hotelini baada ya chuo. | Rehema got a hotel job after college.
+Q mc | 3 | mkopo,kikundi | Rehema alipata wapi pesa za kuanza biashara? | Where did Rehema get the money to start the business? | Kwa kikundi cha akina mama ;; Kutoka kwa benki kubwa ya mjini ;; Kwa mjomba wake ;; Kutoka serikalini
+Q mc | 6 | pika,bei | Rehema aliuza chakula chake kwa bei gani? | At what price did Rehema sell her food? | Bei ya chini ;; Bei ghali kuliko hoteli za mjini ;; Bure kabisa ;; Bei ya hoteli kubwa
+Q tf | T | 10 | mvua,mteja | Wakati wa mvua, Rehema hupata wateja wachache. | When it rains, Rehema gets few customers.
+Q mc | 11 | panga,fungua | Rehema anapanga kufanya nini? | What does Rehema plan to do? | Kuwa na mgahawa wake ;; Kurudi chuoni kusoma zaidi ;; Kuhamia kijijini ;; Kuuza vyombo vyake
+
+@ B1 | Pesa kwa simu | names: Juma, Dodoma
+S Juma anafanya kazi Dodoma, lakini wazazi wake wanaishi kijijini. | Juma works in Dodoma, but his parents live in the village.
+S Zamani alituma pesa kupitia kwa dereva wa gari la abiria aliyemfahamu. | In the past he sent money through a driver of a passenger vehicle he knew.
+S Mara moja pesa zilipotea njiani na hakuna aliyejua zilikwenda wapi. | Once the money was lost on the way and nobody knew where it went.
+S Siku hizi anatumia simu yake kutuma pesa. | These days he uses his phone to send money.
+S Anaandika nambari ya simu ya baba yake, kiasi cha pesa na nambari yake ya siri. | He types his father's phone number, the amount of money and his secret number.
+S Baada ya dakika moja baba yake anapata ujumbe kwamba pesa zimefika. | After one minute his father gets a message that the money has arrived.
+S Baba anaweza kuzitoa kwenye duka dogo karibu na soko la kijiji. | His father can withdraw it at a small shop near the village market.
+S Juma analipa gharama ndogo kwa kila huduma. | Juma pays a small fee for each service.
+S Anasema njia hii ni rahisi, salama na ya haraka. | He says this way is easy, safe and fast.
+S Wiki iliyopita mtu mmoja alimpigia baba simu akisema ni mfanyakazi wa kampuni ya simu. | Last week a man phoned his father saying he was an employee of the phone company.
+S Aliomba nambari ya siri, lakini baba alikataa na akamjulisha Juma mara moja. | He asked for the secret number, but his father refused and told Juma at once.
+S Juma alifurahi, na akawaambia ndugu wengine wawe makini pia. | Juma was pleased, and he told other relatives to be careful too.
+Q mc | 2 | potea,pesa | Kulitokea nini mara moja pesa zilipotumwa kupitia kwa dereva? | What happened once when money was sent through a driver? | Pesa hazikufika ;; Gari lilichelewa kwa siku mbili ;; Dereva alirudisha pesa ;; Baba alipata pesa nyingi zaidi
+Q tf | T | 5 | ujumbe,fika | Baba hujua pesa zimefika kwa sababu anapata ujumbe. | The father knows the money has arrived because he gets a message.
+Q tf | F | 7 | lipa,huduma | Huduma ya kutuma pesa kwa simu haina gharama yoyote. | The service of sending money by phone has no cost at all.
+Q mc | 10 | kataa,siri | Baba alifanya nini mtu alipoomba nambari ya siri? | What did the father do when the man asked for the secret number? | Alikataa kuitoa ;; Alimpa nambari yote haraka ;; Alizima simu yake kwa wiki ;; Alienda kwa polisi
+
+@ B1 | Siku hospitalini | names: Aisha
+S Asubuhi ya leo Aisha alimpeleka mtoto wake wa miezi tisa kwenye hospitali ndogo ya kijiji. | This morning Aisha took her nine-month-old child to the small village hospital.
+S Daktari alimpima mtoto na kuandika matokeo kwenye kadi yake. | The doctor measured the child and wrote the result on his card.
+S Kisha mtoto alipewa dawa ya kinga dhidi ya ugonjwa hatari wa watoto. | Then the child was given a protective medicine against a dangerous childhood disease.
+S Mtoto alilia kidogo, lakini baada ya dakika chache alinyamaza. | The child cried a little, but after a few minutes he became quiet.
+S Daktari alimweleza Aisha kwamba huenda mtoto atapata homa kidogo usiku. | The doctor explained to Aisha that the child might get a slight fever at night.
+S Alimshauri ampe mtoto maji ya kutosha na amwangalie kwa karibu. | He advised her to give the child enough water and to watch him closely.
+S Aisha aliambiwa arudi baada ya miezi mitatu kwa kinga nyingine. | Aisha was told to come back after three months for another protective dose.
+S Ukutani kulikuwa na picha zinazoeleza umuhimu wa kusafisha mikono kabla ya kula. | On the wall there were pictures explaining the importance of cleaning hands before eating.
+S Pia kulikuwa na ushauri kuhusu chakula bora kwa watoto wadogo. | There was also advice about good food for small children.
+S Aisha anafurahi kwa sababu huduma hii ni bure kwa watoto wote. | Aisha is happy because this service is free for all children.
+S Anawaambia majirani zake wasikose kuwapeleka watoto wao. | She tells her neighbours not to miss taking their children.
+S Anaamini kwamba watoto wenye afya ni furaha ya familia nzima. | She believes that healthy children are the joy of the whole family.
+Q mc | 1 | pima,daktari | Daktari alifanya nini kwanza? | What did the doctor do first? | Alimpima mtoto ;; Alimpa Aisha dawa za homa ;; Alimwandikia barua ;; Alimpeleka mtoto nje
+Q tf | F | 3 | lia,nyamaza | Mtoto alilia siku nzima baada ya kupewa dawa. | The child cried all day after being given the medicine.
+Q mc | 6 | rudi,mwezi | Aisha atarudi hospitalini lini? | When will Aisha return to the hospital? | Baada ya miezi mitatu ;; Kesho asubuhi ;; Mwaka ujao wakati wa mvua ;; Wiki ijayo
+Q tf | T | 9 | huduma,bure | Aisha hakulipa pesa kwa huduma hii. | Aisha did not pay money for this service.
+
+@ B1 | Mkutano wa wazazi | names: Bakari, Mariamu
+S Jumamosi iliyopita shule ya Bakari ilifanya mkutano wa wazazi. | Last Saturday Bakari's school held a parents' meeting.
+S Mwalimu mkuu alieleza kwamba matokeo ya mtihani yameshuka mwaka huu. | The head teacher explained that exam results have dropped this year.
+S Alisema wanafunzi wengi hufika shuleni wakiwa wamechoka na wana njaa. | He said many students arrive at school tired and hungry.
+S Baadhi yao hutembea zaidi ya saa moja kila asubuhi. | Some of them walk more than an hour every morning.
+S Wengine hawali chochote kabla ya kuondoka nyumbani. | Others eat nothing before leaving home.
+S Wazazi walijadili njia za kuwasaidia watoto wao. | The parents discussed ways to help their children.
+S Mariamu, mama wa Bakari, alipendekeza shule iandae chai na mkate kila asubuhi. | Mariamu, Bakari's mother, suggested that the school prepare tea and bread every morning.
+S Kila familia itachangia kiasi kidogo cha pesa na sukari kila mwezi. | Every family will contribute a small amount of money and sugar each month.
+S Baba mmoja alisema anaweza kutoa mahindi kutoka shamba lake. | One father said he can give maize from his farm.
+S Walimu waliahidi kuwapa wanafunzi masomo ya ziada jioni. | The teachers promised to give the students extra lessons in the evening.
+S Mwalimu mkuu aliwashukuru wazazi kwa mawazo yao mazuri. | The head teacher thanked the parents for their good ideas.
+S Mwisho wa mkutano, wazazi walichagua kamati ya watu watano kufuatilia mpango huu. | At the end of the meeting, the parents chose a committee of five people to follow up this plan.
+Q mc | 2 | fika,njaa | Mwalimu mkuu alieleza tatizo gani la wanafunzi? | What problem of the students did the head teacher explain? | Hufika wakiwa na njaa ;; Hawana vitabu vya kusomea kabisa ;; Wanachelewa kulala ;; Hawapendi walimu wao
+Q tf | T | 6 | pendekeza,chai | Wazo la kuwapa wanafunzi chai asubuhi lilitoka kwa Mariamu. | The idea of giving students tea in the morning came from Mariamu.
+Q mc | 8 | toa,mahindi | Baba mmoja alisema atatoa nini? | What did one father say he would give? | Mahindi ;; Pesa za kujenga darasa jipya ;; Vitabu ;; Sukari na chumvi
+Q tf | F | 11 | chagua,kamati | Mwalimu mkuu peke yake atasimamia mpango huu. | The head teacher alone will manage this plan.
+
+@ B1 | Kwa bibi Arusha | names: Fatuma, Arusha, Tanga
+S Wakati wa likizo ya shule, Fatuma alisafiri kwenda Arusha kumtembelea bibi yake. | During the school holiday, Fatuma travelled to Arusha to visit her grandmother.
+S Gari la abiria liliondoka Tanga alfajiri na mapema. | The passenger vehicle left Tanga very early at dawn.
+S Safari ilichukua karibu saa tisa kwa sababu barabara ilikuwa ikitengenezwa. | The journey took about nine hours because the road was being repaired.
+S Njiani gari lilisimama mara mbili ili abiria wanunue chakula na kupumzika. | On the way the vehicle stopped twice so passengers could buy food and rest.
+S Fatuma aliketi karibu na mwanamke mzee aliyekuwa akienda hospitali. | Fatuma sat next to an old woman who was going to hospital.
+S Walizungumza kuhusu familia zao na maisha ya kijijini. | They talked about their families and village life.
+S Walipofika, bibi yake alikuwa akimsubiri kituoni pamoja na mjomba wake. | When they arrived, her grandmother was waiting for her at the station with her uncle.
+S Bibi anaishi katika nyumba ndogo yenye shamba la ndizi na kahawa. | Grandmother lives in a small house with a banana and coffee farm.
+S Kwa wiki mbili Fatuma alimsaidia kukusanya kahawa na kuleta maji. | For two weeks Fatuma helped her gather coffee and bring water.
+S Mjomba alimwonyesha jinsi ya kutunza ng'ombe. | Her uncle showed her how to look after cows.
+S Jioni bibi alimsimulia hadithi za zamani karibu na moto. | In the evenings grandmother told her old stories by the fire.
+S Hewa ya Arusha ilikuwa baridi kuliko ya Tanga. | The air in Arusha was colder than in Tanga.
+S Fatuma alirudi nyumbani akiwa amejifunza mambo mengi mapya. | Fatuma returned home having learned many new things.
+Q mc | 2 | safari,barabara | Kwa nini safari ilichukua muda mrefu? | Why did the journey take a long time? | Barabara ilikuwa inatengenezwa ;; Gari liliharibika njiani mara tatu ;; Mvua kubwa ilinyesha ;; Dereva alipotea
+Q tf | F | 4 | keti,mwanamke | Fatuma aliketi karibu na mtoto mdogo. | Fatuma sat next to a small child.
+Q mc | 6 | subiri,kituo | Nani alimsubiri Fatuma kituoni? | Who waited for Fatuma at the station? | Bibi na mjomba ;; Mama yake na dada zake wote ;; Rafiki yake wa shule ;; Hakuna mtu
+Q tf | T | 8 | kusanya,kahawa | Fatuma alifanya kazi shambani kwa bibi yake. | Fatuma worked on the farm at her grandmother's.
+Q mc | 10 | simulia,hadithi | Bibi alifanya nini jioni? | What did grandmother do in the evenings? | Alieleza hadithi ;; Alipika chakula kwa ajili ya majirani ;; Alienda sokoni ;; Alisoma gazeti
+
+@ B1 | Maji ya mvua | names: Kassimu, Singida
+S Katika kijiji cha Kassimu karibu na Singida, maji ni tatizo kubwa wakati wa kiangazi. | In Kassimu's village near Singida, water is a big problem in the dry season.
+S Bomba la kijiji liko mbali, na wanawake hutembea saa mbili kila siku kuleta maji. | The village pump is far, and women walk two hours every day to bring water.
+S Mwaka jana kikundi cha vijana kilianzisha mradi wa kukusanya maji ya mvua. | Last year a youth group started a project to collect rainwater.
+S Waliweka vyombo vikubwa vya plastiki kando ya nyumba ili kupokea maji kutoka kwenye paa. | They put large plastic containers beside the houses to receive water from the roofs.
+S Kila familia inachangia kidogo kila mwezi ili kununua chombo chake. | Each family contributes a little every month to buy its container.
+S Sasa familia nyingi zina maji ya kutosha kwa miezi mitatu baada ya mvua. | Now many families have enough water for three months after the rains.
+S Wasichana wana muda zaidi wa kusoma kwa sababu hawaendi kwenye bomba kila siku. | Girls have more time to study because they do not go to the pump every day.
+S Hata hivyo, maji ya mvua lazima yapashwe moto kabla ya kunywa. | However, rainwater must be heated before drinking.
+S Watu pia wamejifunza kufunika vyombo vyao ili wadudu wasiingie. | People have also learned to cover their containers so insects do not get in.
+S Kassimu anatumaini kwamba shule na hospitali ya kijiji pia zitapata vyombo hivi. | Kassimu hopes that the school and the village hospital will also get these containers.
+S Anasema maji safi ni msingi wa afya na elimu. | He says clean water is the foundation of health and education.
+Q tf | T | 1 | bomba,mbali | Wanawake hutumia muda mrefu kila siku kutafuta maji. | Women spend a long time every day looking for water.
+Q mc | 2 | kikundi,anzisha | Nani alianzisha mradi huu? | Who started this project? | Kikundi cha vijana ;; Serikali pamoja na benki ;; Walimu ;; Kanisa la kijiji
+Q mc | 6 | msichana,soma | Mradi huu umewasaidia wasichana kwa njia gani? | In what way has this project helped the girls? | Wanapata muda wa kusoma ;; Wamepata kazi za kulipwa mjini ;; Wanalala zaidi ;; Wamepata baiskeli
+Q tf | F | 7 | pasha,moto | Maji ya mvua yanaweza kunywewa bila kupashwa moto. | Rainwater can be drunk without being heated.
+Q mc | 8 | funika,mdudu | Kwa nini watu hufunika vyombo vyao? | Why do people cover their containers? | Kuzuia wadudu ;; Ili maji yawe baridi zaidi ;; Ili watoto wasinywe ;; Ili jua lisiingie
+
+@ B1 | Siku ya kupanda miti | names: Halima
+S Kila mwaka mwezi wa nne shule ya Halima huandaa siku ya kupanda miti. | Every year in the fourth month Halima's school organises a tree-planting day.
+S Mwaka huu wanafunzi walipanda miti mia tatu kuzunguka uwanja wa shule. | This year the students planted three hundred trees around the school grounds.
+S Mwalimu wa sayansi alieleza kwa nini miti ni muhimu kwa maisha. | The science teacher explained why trees are important for life.
+S Alisema mizizi ya miti inashika ardhi ili isichukuliwe na maji ya mvua. | He said tree roots hold the ground so that it is not carried away by rainwater.
+S Pia miti inatoa kivuli, matunda na hewa safi. | Trees also give shade, fruit and clean air.
+S Kila darasa lilipewa jukumu la kutunza miti yake. | Each class was given the duty of caring for its trees.
+S Wakati wa kiangazi wanafunzi watamwagia miti maji mara mbili kwa wiki. | In the dry season the students will pour water on the trees twice a week.
+S Halima na rafiki zake walipanda miti mitano ya maembe karibu na darasa lao. | Halima and her friends planted five mango trees near their classroom.
+S Wanatumaini kwamba siku moja wanafunzi wengine watakula maembe hayo. | They hope that one day other students will eat those mangoes.
+S Wazazi kadhaa walileta chakula na maji ya kunywa kwa wanafunzi. | Several parents brought food and drinking water for the students.
+S Mwisho wa siku, mkuu wa kijiji aliwashukuru na kuahidi kuleta miti zaidi. | At the end of the day, the village head thanked them and promised to bring more trees.
+S Halima anasema hii ni siku anayoipenda kuliko zote shuleni. | Halima says this is the day she likes most of all at school.
+Q mc | 1 | panda,mti | Wanafunzi walipanda miti mingapi mwaka huu? | How many trees did the students plant this year? | Mia tatu ;; Mia tano na hamsini ;; Hamsini ;; Elfu moja
+Q tf | T | 3 | mzizi,ardhi | Mwalimu alisema miti inalinda ardhi wakati wa mvua. | The teacher said trees protect the ground when it rains.
+Q mc | 5 | darasa,tunza | Kila darasa lina kazi gani? | What task does each class have? | Kuangalia miti yake ;; Kununua miti mipya kila mwezi ;; Kupika chakula ;; Kusafisha uwanja
+Q tf | F | 7 | panda,embe | Halima alipanda miti ya ndizi karibu na darasa. | Halima planted banana trees near the classroom.
+Q mc | 10 | shukuru,ahidi | Mkuu wa kijiji aliahidi nini? | What did the village head promise? | Miti mingine ;; Darasa jipya la sayansi ;; Zawadi ;; Choo kipya
+
+@ B1 | Mahojiano ya kazi | names: Omari
+S Omari alimaliza chuo kikuu mwaka jana akiwa amesomea biashara. | Omari finished university last year having studied business.
+S Kwa miezi sita alituma barua nyingi za kuomba kazi bila kupata jibu. | For six months he sent many job application letters without getting a reply.
+S Wiki iliyopita hatimaye alipigiwa simu na kampuni moja ya usafiri. | Last week he was finally called by a transport company.
+S Aliambiwa afike ofisini kwao Jumatatu saa tatu asubuhi kwa mahojiano. | He was told to come to their office on Monday at nine in the morning for an interview.
+S Usiku wa kabla ya siku hiyo aliandaa nguo safi na nakala za vyeti vyake. | The night before that day he prepared clean clothes and copies of his certificates.
+S Asubuhi alivaa shati jeupe na viatu safi. | In the morning he wore a white shirt and clean shoes.
+S Alifika dakika ishirini mapema ili asichelewe. | He arrived twenty minutes early so as not to be late.
+S Watu watatu walimuuliza maswali kuhusu masomo yake na uzoefu wake. | Three people asked him questions about his studies and his experience.
+S Walitaka kujua kama anaweza kutumia kompyuta na kuzungumza Kiingereza. | They wanted to know whether he can use a computer and speak English.
+S Omari alijibu kwa utulivu na kueleza jinsi alivyosaidia biashara ya mjomba wake. | Omari answered calmly and explained how he had helped his uncle's business.
+S Baada ya siku tatu, kampuni ilimjulisha kwamba amepata kazi. | After three days, the company informed him that he had got the job.
+S Ataanza mwezi ujao, na mshahara wake wa kwanza atampa mama yake. | He will start next month, and he will give his first salary to his mother.
+Q tf | F | 1 | barua,jibu | Kampuni nyingi zilimjibu Omari haraka. | Many companies answered Omari quickly.
+Q mc | 6 | fika,mapema | Omari alifika ofisini lini? | When did Omari arrive at the office? | Kabla ya muda ;; Saa moja baada ya muda wake ;; Mchana ;; Siku iliyofuata
+Q mc | 8 | kompyuta,Kiingereza | Walitaka kujua nini kuhusu Omari? | What did they want to know about Omari? | Kama anajua kompyuta ;; Kama ana gari lake mwenyewe ;; Anaishi wapi ;; Umri wa wazazi wake
+Q tf | T | 11 | mshahara,mama | Omari ana mpango wa kumpa mama yake mshahara wake wa kwanza. | Omari plans to give his mother his first salary.
+
+@ B1 | Barua kwa mwalimu | names: Khadija, Yusufu, Salma, Rashidi | oop: malaria=the illness in the doctor's diagnosis, a common loanword missing from the frequency list
+S Mpendwa Mwalimu Khadija, | Dear Teacher Khadija,
+S Naandika kukujulisha kwamba mwanangu Yusufu hataweza kuja shuleni wiki hii. | I am writing to let you know that my son Yusufu will not be able to come to school this week.
+S Tangu Jumapili amekuwa na homa kali na maumivu ya kichwa. | Since Sunday he has had a high fever and a headache.
+S Jana tulimpeleka hospitali, na daktari aligundua kwamba ana malaria. | Yesterday we took him to hospital, and the doctor found that he has malaria.
+S Amepewa dawa na ameshauriwa kupumzika nyumbani kwa siku tano. | He has been given medicine and advised to rest at home for five days.
+S Usiku hapati usingizi mzuri, na hataki kula chakula. | At night he does not sleep well, and he does not want to eat.
+S Tunampa maji mengi na chakula kidogo kama daktari alivyoshauri. | We give him plenty of water and a little food as the doctor advised.
+S Kwa kawaida Yusufu anapenda sana masomo yake na hachelewi shuleni. | Usually Yusufu loves his lessons very much and is never late for school.
+S Sasa ana wasiwasi kwa sababu mtihani wa sayansi unakaribia. | Now he is worried because the science exam is coming soon.
+S Naomba umpe jirani yetu Salma kazi za nyumbani za Yusufu, kwa sababu anasoma katika darasa lake. | Please give our neighbour Salma Yusufu's homework, because she studies in his class.
+S Tutahakikisha anazifanya kazi hizo akipata nafuu. | We will make sure he does that work when he feels better.
+S Nitakuletea barua ya daktari atakaporudi shuleni. | I will bring you the doctor's letter when he returns to school.
+S Asante kwa msaada wako. | Thank you for your help.
+S Wako, Rashidi, baba wa Yusufu. | Yours, Rashidi, Yusufu's father.
+Q mc | 3 | daktari,gundua | Daktari aligundua Yusufu ana ugonjwa gani? | What illness did the doctor find Yusufu has? | Malaria ;; Ugonjwa wa tumbo ;; Maumivu ya mguu ;; Homa ya kawaida tu
+Q tf | F | 4 | pumzika,siku | Daktari alisema Yusufu apumzike kwa wiki mbili. | The doctor said Yusufu should rest for two weeks.
+Q mc | 9 | jirani | Kazi za nyumbani zitampata Yusufu kupitia kwa nani? | Through whom will the homework reach Yusufu? | Salma ;; Mwalimu mkuu wa shule ;; Daktari ;; Baba yake mwenyewe
+Q tf | T | 11 | leta,barua | Baba ataleta barua ya daktari baadaye. | The father will bring the doctor's letter later.
+
+@ B1 | Mkulima wa kahawa | names: Emmanueli, Kilimanjaro
+S Emmanueli ni mkulima wa kahawa karibu na mlima Kilimanjaro. | Emmanueli is a coffee farmer near Mount Kilimanjaro.
+S Shamba lake lilianzishwa na babu yake miaka mingi iliyopita. | His farm was started by his grandfather many years ago.
+S Kahawa inahitaji mvua ya kutosha, ardhi nzuri na kazi nyingi ya mikono. | Coffee needs enough rain, good soil and a lot of work by hand.
+S Wakati wa mazao, familia nzima husaidia kukusanya matunda mekundu ya kahawa. | At harvest time the whole family helps gather the red coffee fruits.
+S Kisha kahawa inasafishwa na kuwekwa juani kwa siku kadhaa. | Then the coffee is cleaned and put in the sun for several days.
+S Baadaye inapelekwa kwenye chama cha wakulima wa kijiji. | Afterwards it is taken to the village farmers' association.
+S Chama hicho kinauza kahawa ya wakulima wote kwa kampuni za nje. | That association sells all the farmers' coffee to foreign companies.
+S Miaka iliyopita bei ilikuwa chini sana, na wakulima wengi waliacha kahawa. | In past years the price was very low, and many farmers gave up coffee.
+S Baadhi yao walianza kupanda mboga na ndizi badala yake. | Some of them started planting vegetables and bananas instead.
+S Emmanueli hakuacha, na sasa bei imepanda tena. | Emmanueli did not give up, and now the price has risen again.
+S Mwaka huu ameweza kujenga nyumba mpya na kununua ng'ombe wawili. | This year he has been able to build a new house and buy two cows.
+S Anasema siri ni kutunza miti vizuri na kuwa na uvumilivu. | He says the secret is to look after the trees well and to be patient.
+Q tf | T | 1 | shamba,babu | Shamba la Emmanueli ni la zamani katika familia yake. | Emmanueli's farm is old in his family.
+Q mc | 4 | weka,jua | Baada ya kusafishwa, kahawa inawekwa wapi? | After being cleaned, where is the coffee put? | Juani ;; Ndani ya nyumba karibu na moto ;; Kiwandani ;; Sokoni
+Q mc | 7 | bei,acha | Kwa nini wakulima wengi waliacha kahawa? | Why did many farmers give up coffee? | Bei ilikuwa ndogo ;; Mvua haikunyesha kwa miaka mitano ;; Miti ilikufa ;; Walihamia mjini
+Q tf | F | 9 | acha,bei | Emmanueli naye aliacha kahawa na kupanda ndizi. | Emmanueli too gave up coffee and planted bananas.
+Q mc | 11 | siri,uvumilivu | Emmanueli anasema siri ni nini? | What does Emmanueli say the secret is? | Kutunza miti na kuwa na uvumilivu ;; Kuuza kahawa sokoni mwenyewe ;; Kupanda miti mingi mipya kila mwaka ;; Kununua ng'ombe wengi
+
+@ B1 | Maisha mjini | names: Idrisa, Mwanza
+S Miaka mitano iliyopita Idrisa aliondoka kijijini kwenda kutafuta maisha mjini Mwanza. | Five years ago Idrisa left the village to seek a living in Mwanza town.
+S Mwanzoni alikaa na binamu yake katika chumba kimoja kidogo. | At first he stayed with his cousin in one small room.
+S Siku za kwanza hakumjua mtu yeyote mwingine mjini. | In the first days he did not know anyone else in town.
+S Kazi ya kwanza aliyoipata ilikuwa kubeba mizigo sokoni. | The first job he got was carrying loads at the market.
+S Maisha ya mjini yalikuwa ghali kuliko alivyotarajia. | Town life was more expensive than he had expected.
+S Alilipa kodi ya nyumba, usafiri na chakula, na pesa kidogo tu zilibaki. | He paid rent, transport and food, and only a little money was left.
+S Hata hivyo, aliweka pesa kidogo benki kila wiki. | Even so, he put a little money in the bank every week.
+S Baada ya miaka mitatu alinunua pikipiki na kuanza kubeba abiria. | After three years he bought a motorbike and began carrying passengers.
+S Sasa anapata pesa za kutosha kuwasaidia wazazi wake na kulipa ada ya shule ya dada yake. | Now he earns enough money to help his parents and pay his sister's school fees.
+S Kila Ijumaa huwapigia simu wazazi wake na kuzungumza nao. | Every Friday he phones his parents and talks with them.
+S Idrisa anasema anakosa hewa safi na utulivu wa kijijini. | Idrisa says he misses the clean air and calm of the village.
+S Anapanga kurudi kijijini siku moja na kujenga nyumba karibu na wazazi wake. | He plans to return to the village one day and build a house near his parents.
+Q mc | 3 | kazi,beba | Kazi ya kwanza ya Idrisa ilikuwa ipi? | What was Idrisa's first job? | Kubeba mizigo ;; Kuendesha gari la abiria mjini ;; Kuuza samaki ;; Kufundisha shule
+Q tf | F | 4 | ghali,tarajia | Idrisa aliona maisha ya mjini ni rahisi kuliko alivyofikiri. | Idrisa found town life cheaper than he had thought.
+Q mc | 7 | nunua,pikipiki | Idrisa alinunua nini baada ya miaka mitatu? | What did Idrisa buy after three years? | Pikipiki ;; Nyumba ndogo nje ya mji ;; Duka ;; Gari la mizigo
+Q tf | T | 8 | saidia,ada | Idrisa husaidia kulipia masomo ya dada yake. | Idrisa helps pay for his sister's studies.
+
+@ B1 | Usafi wa mtaa | names: Salehe
+S Mtaa wetu ulikuwa na tatizo la takataka kwa muda mrefu. | Our street had a rubbish problem for a long time.
+S Watu walitupa takataka kando ya barabara na karibu na mto. | People threw rubbish beside the road and near the river.
+S Wakati wa mvua, harufu mbaya ilienea na watoto wengi walipata magonjwa. | In the rainy season a bad smell spread and many children fell ill.
+S Mzee Salehe, mwenyekiti wa mtaa, aliita mkutano wa watu wote wa mtaa. | Mzee Salehe, the street chairman, called a meeting of everyone on the street.
+S Waliamua kusafisha mtaa pamoja kila Jumamosi ya mwisho wa mwezi. | They decided to clean the street together on the last Saturday of every month.
+S Kila familia itachangia pesa kidogo kulipia gari la kubeba takataka. | Every family will contribute a little money to pay for a rubbish lorry.
+S Vijana walijitolea kusafisha mto na kuondoa chupa za plastiki. | The young people volunteered to clean the river and remove plastic bottles.
+S Pia waliweka mapipa ya takataka katika kila kona ya mtaa. | They also put rubbish drums on every corner of the street.
+S Atakayetupa takataka barabarani atalazimika kulipa faini. | Anyone who throws rubbish in the road will have to pay a fine.
+S Baada ya miezi mitatu, mtaa umekuwa safi na watoto wagonjwa wamepungua. | After three months the street has become clean and fewer children are sick.
+S Mzee Salehe anasema mtaa safi unaanza nyumbani kwa kila mmoja wetu. | Mzee Salehe says a clean street starts at home with each one of us.
+S Mtaa jirani sasa unataka kuiga mpango huu. | The neighbouring street now wants to copy this plan.
+Q tf | T | 2 | harufu,ugonjwa | Takataka zilisababisha magonjwa kwa watoto. | The rubbish caused illness among the children.
+Q mc | 4 | amua,safisha | Watu waliamua kusafisha mtaa lini? | When did people decide to clean the street? | Mara moja kwa mwezi ;; Kila siku asubuhi na jioni ;; Kila Ijumaa ;; Wakati wa likizo
+Q mc | 6 | kijana,safisha | Vijana walijitolea kufanya nini? | What did the young people volunteer to do? | Kufanya mto kuwa safi ;; Kununua gari jipya la kubeba takataka ;; Kujenga shule ;; Kupanda miti
+Q mc | 8 | tupa,faini | Nini kitampata mtu atakayetupa takataka barabarani? | What will happen to someone who throws rubbish in the road? | Atalipa faini ;; Atafukuzwa kutoka mtaani ;; Atapewa zawadi ;; Hakuna kitu
+Q tf | F | 11 | jirani,iga | Mtaa jirani haupendi mpango huu. | The neighbouring street does not like this plan.
