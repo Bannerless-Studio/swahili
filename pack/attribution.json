@@ -25,13 +25,12 @@
     "contributor_usernames": [
       "Balamax",
       "DavidDias",
-      "MrMbithi",
       "Nyambura",
-      "Sprachprofi",
       "diegohn",
       "ecorralest101",
       "iiujik",
-      "lovermann"
+      "lovermann",
+      "nonong"
     ]
   },
   "audio": {
@@ -41,21 +40,21 @@
   "written_examples": {
     "source": "written for this pack (tools/generated_examples.tsv) and reviewed; marked \"src\": \"gen\"",
     "licence": "CC-BY-SA-4.0",
-    "count": 205,
+    "count": 208,
     "note": "Example sentences only, for words whose corpus sentences are missing or dropped by policy; no audio."
   },
   "globalvoices": {
     "source": "OPUS GlobalVoices v2018q4 en-sw (Global Voices, globalvoices.org)",
     "licence": "CC-BY-3.0",
     "url": "https://object.pouta.csc.fi/OPUS-GlobalVoices/v2018q4/moses/en-sw.txt.zip",
-    "sentences_shipped": 1022,
+    "sentences_shipped": 1063,
     "note": "frequency corpus; short everyday sentences also used as examples, marked \"src\": \"gv\""
   },
   "flores": {
     "source": "FLORES-200 swh_Latn dev + devtest (Meta AI)",
     "licence": "CC-BY-SA-4.0",
     "url": "https://dl.fbaipublicfiles.com/nllb/flores200_dataset.tar.gz",
-    "sentences_shipped": 34,
+    "sentences_shipped": 40,
     "note": "frequency corpus; short sentences also used as examples, marked \"src\": \"flores\""
   }
 }
