@@ -1,4 +1,13 @@
 .venv/
 .cache/
+tools/cache/
 __pycache__/
 *.pyc
+# source dumps (downloaded once into .cache/; never committed)
+*.jsonl
+*.jsonl.gz
+*.tsv.bz2
+*.txt.zip
+*.tar.gz
+*.tar.bz2
+*.zip
