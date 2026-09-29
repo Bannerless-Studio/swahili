@@ -10,7 +10,7 @@ words = the builder's word count (the band rule); ws_words = whitespace-separate
 tokens of the passage text, the count the app shows (report only).
 
 - **A1**: 20 passages; words/passage 62-73 (median 65.5); ws_words 62-73; coverage min 1.000, median 1.000 (rule >= 0.95); linked min 1.000; questions mc 40, tf 60
-- **A2**: 20 passages; words/passage 92-116 (median 100.0); ws_words 92-116; coverage min 0.967, median 1.000 (rule >= 0.95); linked min 0.967; questions mc 40, tf 60
+- **A2**: 20 passages; words/passage 92-117 (median 100.5); ws_words 92-117; coverage min 0.967, median 1.000 (rule >= 0.95); linked min 0.967; questions mc 40, tf 60
 - **B1**: 20 passages; words/passage 112-131 (median 122.5); ws_words 112-131; coverage min 0.973, median 1.000 (rule >= 0.93); linked min 0.973; questions mc 49, tf 45
 
 | id | lv | title | words | ws_words | coverage | linked | out-of-pack lemmas (reason) | higher-level lemmas |
@@ -36,11 +36,11 @@ tokens of the passage text, the count the app shows (report only).
 | p0019 | A1 | Kijiji cha babu | 65 | 65 | 1.000 | 1.000 | - | A2: hadithi, kimya |
 | p0020 | A1 | Wiki yangu | 63 | 63 | 1.000 | 1.000 | - | A2: mpira, safisha |
 | p0021 | A2 | Likizo Zanzibar | 115 | 115 | 1.000 | 1.000 | - | B1: nyesha |
-| p0022 | A2 | Kazi mpya ya Daudi | 116 | 116 | 1.000 | 1.000 | - | B1: tulivu |
+| p0022 | A2 | Kazi mpya ya Daudi | 117 | 117 | 1.000 | 1.000 | - | - |
 | p0023 | A2 | Kwa daktari | 110 | 110 | 1.000 | 1.000 | - | B1: gonjwa |
-| p0024 | A2 | Tangazo la chumba | 100 | 100 | 0.989 | 0.989 | daladala x1 (minibus, everyday East African transport, no pack word) | B1: bustani, sigara, tulivu |
+| p0024 | A2 | Tangazo la chumba | 102 | 102 | 0.990 | 0.990 | daladala x1 (minibus, everyday East African transport, no pack word) | B1: bustani, sigara |
 | p0025 | A2 | Harusi ya dada yangu | 108 | 108 | 1.000 | 1.000 | - | B1: olewa |
-| p0026 | A2 | Treni ya asubuhi | 94 | 94 | 1.000 | 1.000 | - | B1: radhi, tiketi, usumbufu |
+| p0026 | A2 | Treni ya asubuhi | 94 | 94 | 0.989 | 0.989 | tiketi x1 (ticket, everyday travel word the frequency ranking leaves out) | B1: radhi, usumbufu |
 | p0027 | A2 | Shamba la mjomba | 107 | 107 | 1.000 | 1.000 | - | B1: alfajiri, mahindi, pumzika |
 | p0028 | A2 | Mtihani wa Kiingereza | 97 | 97 | 1.000 | 1.000 | - | B1: faulu, kitambulisho |
 | p0029 | A2 | Simu iliyopotea | 95 | 95 | 1.000 | 1.000 | - | B1: shati |
