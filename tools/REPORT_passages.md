@@ -9,7 +9,7 @@ a pack lemma can go unlinked when the tagger reads it with another POS).
 words = the builder's word count (the band rule); ws_words = whitespace-separated
 tokens of the passage text, the count the app shows (report only).
 
-- **A1**: 20 passages; words/passage 62-73 (median 65.5); ws_words 62-73; coverage min 0.982, median 1.000 (rule >= 0.95); linked min 0.982; questions mc 40, tf 60
+- **A1**: 20 passages; words/passage 62-73 (median 65.5); ws_words 62-73; coverage min 1.000, median 1.000 (rule >= 0.95); linked min 1.000; questions mc 40, tf 60
 - **A2**: 20 passages; words/passage 92-116 (median 100.0); ws_words 92-116; coverage min 0.967, median 1.000 (rule >= 0.95); linked min 0.967; questions mc 40, tf 60
 - **B1**: 20 passages; words/passage 112-131 (median 122.5); ws_words 112-131; coverage min 0.973, median 1.000 (rule >= 0.93); linked min 0.973; questions mc 49, tf 45
 
@@ -17,14 +17,14 @@ tokens of the passage text, the count the app shows (report only).
 |---|---|---|---|---|---|---|---|---|
 | p0001 | A1 | Familia ya Juma | 69 | 69 | 1.000 | 1.000 | - | A2: fundisha |
 | p0002 | A1 | Siku yangu | 66 | 66 | 1.000 | 1.000 | - | A2: kisha |
-| p0003 | A1 | Sokoni | 64 | 64 | 0.982 | 0.982 | shilingi x1 (currency unit of Tanzania and Kenya, no pack word) | A2: kisha |
+| p0003 | A1 | Sokoni | 64 | 64 | 1.000 | 1.000 | - | A2: kisha |
 | p0004 | A1 | Nyumba yetu | 67 | 67 | 1.000 | 1.000 | - | - |
 | p0005 | A1 | Shuleni | 65 | 65 | 1.000 | 1.000 | - | - |
-| p0006 | A1 | Rafiki yangu Amina | 67 | 67 | 1.000 | 1.000 | - | A2: eupe |
+| p0006 | A1 | Rafiki yangu Amina | 67 | 67 | 1.000 | 1.000 | - | - |
 | p0007 | A1 | Mvua na jua | 65 | 65 | 1.000 | 1.000 | - | A2: mlima |
 | p0008 | A1 | Chakula cha asubuhi | 64 | 64 | 1.000 | 1.000 | - | A2: kisha |
 | p0009 | A1 | Barua kwa rafiki | 63 | 63 | 1.000 | 1.000 | - | A2: tembelea, zawadi |
-| p0010 | A1 | Paka wetu | 66 | 66 | 1.000 | 1.000 | - | A2: eusi |
+| p0010 | A1 | Paka wetu | 66 | 66 | 1.000 | 1.000 | - | - |
 | p0011 | A1 | Safari ya Mombasa | 69 | 69 | 1.000 | 1.000 | - | A2: treni |
 | p0012 | A1 | Siku ya Jumapili | 73 | 73 | 1.000 | 1.000 | - | - |
 | p0013 | A1 | Duka la Ali | 69 | 69 | 1.000 | 1.000 | - | A2: kamwe |
@@ -33,19 +33,19 @@ tokens of the passage text, the count the app shows (report only).
 | p0016 | A1 | Kujifunza Kiswahili | 62 | 62 | 1.000 | 1.000 | - | A2: redio, sikiliza |
 | p0017 | A1 | Mwalimu mpya | 72 | 72 | 1.000 | 1.000 | - | A2: fundisha, hadithi, mpira |
 | p0018 | A1 | Kazi yangu | 62 | 62 | 1.000 | 1.000 | - | A2: benki, choka, isha |
-| p0019 | A1 | Kijiji cha babu | 65 | 65 | 1.000 | 1.000 | - | A2: babu, hadithi, kimya |
+| p0019 | A1 | Kijiji cha babu | 65 | 65 | 1.000 | 1.000 | - | A2: hadithi, kimya |
 | p0020 | A1 | Wiki yangu | 63 | 63 | 1.000 | 1.000 | - | A2: mpira, safisha |
 | p0021 | A2 | Likizo Zanzibar | 115 | 115 | 1.000 | 1.000 | - | B1: nyesha |
 | p0022 | A2 | Kazi mpya ya Daudi | 116 | 116 | 1.000 | 1.000 | - | B1: tulivu |
-| p0023 | A2 | Kwa daktari | 110 | 110 | 1.000 | 1.000 | - | B1: gonjwa, tumbo |
-| p0024 | A2 | Tangazo la chumba | 100 | 100 | 0.979 | 0.979 | daladala x1 (minibus, everyday East African transport, no pack word), shilingi x1 (currency unit of Tanzania and Kenya, no pack word) | B1: bustani, sigara, tulivu |
+| p0023 | A2 | Kwa daktari | 110 | 110 | 1.000 | 1.000 | - | B1: gonjwa |
+| p0024 | A2 | Tangazo la chumba | 100 | 100 | 0.989 | 0.989 | daladala x1 (minibus, everyday East African transport, no pack word) | B1: bustani, sigara, tulivu |
 | p0025 | A2 | Harusi ya dada yangu | 108 | 108 | 1.000 | 1.000 | - | B1: olewa |
 | p0026 | A2 | Treni ya asubuhi | 94 | 94 | 1.000 | 1.000 | - | B1: radhi, tiketi, usumbufu |
 | p0027 | A2 | Shamba la mjomba | 107 | 107 | 1.000 | 1.000 | - | B1: alfajiri, mahindi, pumzika |
 | p0028 | A2 | Mtihani wa Kiingereza | 97 | 97 | 1.000 | 1.000 | - | B1: faulu, kitambulisho |
-| p0029 | A2 | Simu iliyopotea | 95 | 95 | 1.000 | 1.000 | - | B1: bluu, shati |
+| p0029 | A2 | Simu iliyopotea | 95 | 95 | 1.000 | 1.000 | - | B1: shati |
 | p0030 | A2 | Mechi ya mpira | 96 | 96 | 0.967 | 0.967 | bao x3 (goal (football), no pack word) | B1: malizika, pumziko |
-| p0031 | A2 | Mkahawa mpya mtaani | 92 | 92 | 1.000 | 1.000 | - | B1: agiza, kimya, nafuu |
+| p0031 | A2 | Mkahawa mpya mtaani | 92 | 92 | 1.000 | 1.000 | - | B1: agiza, nafuu, ukimya |
 | p0032 | A2 | Jirani mpya | 101 | 101 | 1.000 | 1.000 | - | B1: sekondari, ziwa |
 | p0033 | A2 | Ajali barabarani | 97 | 97 | 1.000 | 1.000 | - | B1: bovu, gonga, lori |
 | p0034 | A2 | Kompyuta ya zamani | 94 | 94 | 0.977 | 0.977 | fundi x2 (repairman, everyday word the frequency ranking leaves out) | B1: mwishowe |
@@ -80,7 +80,6 @@ Title words, and question/option words the budget does not count (a numeral-like
 pack word), that are out of the pack or above the passage's level (report only;
 the budget rule above is unchanged):
 
-- p0019: title 'babu': babu A2
 - p0060: title 'usafi': out of pack
 
 <!-- manual section: kept across runs -->
@@ -100,4 +99,11 @@ the budget rule above is unchanged):
   - magharibi (west) for the sunset prayer.
 - **Gloss fixes.** Five single-sense glosses were widened in tools/gloss_overrides.json: panda (plant), kiangazi (dry season), mhudumu (attendant), shauri (advise) and hesabu (maths).
 - **Questions.** Every question is answerable from its sentence and tagged with the lemmas linked there. A key is the unique-longest option in B1 2/49 and A2 10/40. A tf statement never copies a 5-word run.
-- **Names.** Place names are declared per passage. Moshi, a town in p0039, is also a pack word (smoke); it is declared as a name and is not linked.
+- **Names.** Person and place names are declared per passage and are never linked. Five declared names are also pack words, kept because they are common East African names:
+  - Juma (week) in p0001, p0038 and p0050;
+  - Zawadi (gift) in p0005 and p0009; the sentence-initial zawadi in p0035 is the word and is linked;
+  - Upendo (love) in p0015;
+  - Simba (lion) in p0010;
+  - Moshi (smoke), the town, in p0007 and p0039.
+- **Question English.** A question about an unnamed narrator says "the narrator" in its English, never he or she (p0012, p0015, p0019).
+- **Answer keys.** No B1 mc key repeats a run of 4 or more words from its passage; six keys in p0042, p0045, p0049, p0051 and p0058 were paraphrased in the 2026-09-29 fix wave.

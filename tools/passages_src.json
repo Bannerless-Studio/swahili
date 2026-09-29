@@ -291,9 +291,7 @@
    "id": "p0003",
    "lv": "A1",
    "title": "Sokoni",
-   "oop": {
-    "shilingi": "currency unit of Tanzania and Kenya, no pack word"
-   },
+   "oop": {},
    "names": [
     "Neema"
    ],
@@ -1446,7 +1444,7 @@
    "questions": [
     {
      "q": "Leo anaamka mapema sana.",
-     "en": "Today he gets up very early.",
+     "en": "Today the narrator gets up very early.",
      "type": "tf",
      "options": null,
      "answer": false,
@@ -1857,7 +1855,7 @@
     },
     {
      "q": "Atakwenda kijijini siku ya Ijumaa.",
-     "en": "He will go to the village on Friday.",
+     "en": "The narrator will go to the village on Friday.",
      "type": "tf",
      "options": null,
      "answer": true,
@@ -1869,7 +1867,7 @@
     },
     {
      "q": "Ataleta dawa kwa baba.",
-     "en": "He will bring medicine for father.",
+     "en": "The narrator will bring medicine for father.",
      "type": "tf",
      "options": null,
      "answer": true,
@@ -2306,7 +2304,7 @@
    "questions": [
     {
      "q": "Anakwenda kijijini mwezi gani?",
-     "en": "In which month does he go to the village?",
+     "en": "In which month does the narrator go to the village?",
      "type": "mc",
      "options": [
       "Agosti",
@@ -2898,8 +2896,7 @@
    "lv": "A2",
    "title": "Tangazo la chumba",
    "oop": {
-    "daladala": "minibus, everyday East African transport, no pack word",
-    "shilingi": "currency unit of Tanzania and Kenya, no pack word"
+    "daladala": "minibus, everyday East African transport, no pack word"
    },
    "names": [
     "Kinondoni"
@@ -5325,7 +5322,7 @@
      "options": [
       "Kitanda kilikuwa kibovu",
       "Chumba kilikuwa kidogo sana",
-      "Hakukuwa na maji ya moto",
+      "Maji yote yalikuwa baridi",
       "Dirisha halikufungwa vizuri"
      ],
      "answer": 2,
@@ -5355,7 +5352,7 @@
       "Kwa heshima kubwa",
       "Kwa barua ndefu",
       "Kwa kuomba radhi haraka",
-      "Vibaya, mbele ya watoto"
+      "Bila heshima"
      ],
      "answer": 3,
      "words": [
@@ -5745,7 +5742,7 @@
      "type": "mc",
      "options": [
       "Kucheza michezo",
-      "Habari za kilimo na afya",
+      "Kusoma kuhusu kilimo",
       "Kutazama filamu",
       "Kuandika barua kwa watoto"
      ],
@@ -6260,7 +6257,7 @@
       "Kutoka kwa benki kubwa ya mjini",
       "Kwa mjomba wake",
       "Kutoka serikalini",
-      "Kwa kikundi cha akina mama"
+      "Kwa wanawake wa mtaa wake"
      ],
      "answer": 3,
      "words": [
@@ -6531,7 +6528,7 @@
      "type": "mc",
      "options": [
       "Kesho asubuhi",
-      "Baada ya miezi mitatu",
+      "Miezi mitatu baadaye",
       "Mwaka ujao wakati wa mvua",
       "Wiki ijayo"
      ],
@@ -7463,7 +7460,7 @@
       "Kuuza kahawa sokoni mwenyewe",
       "Kupanda miti mingi mipya kila mwaka",
       "Kununua ng'ombe wengi",
-      "Kutunza miti na kuwa na uvumilivu"
+      "Kutunza miti kwa uvumilivu"
      ],
      "answer": 3,
      "words": [

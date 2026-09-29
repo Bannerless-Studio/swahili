@@ -60,7 +60,7 @@ Q tf | F | 4 | subiri | Rashidi alimwona daktari bila kusubiri. | Rashidi saw th
 Q mc | 7 | dawa | Daktari alimpa Rashidi nini? | What did the doctor give Rashidi? | Dawa na ushauri ;; Chakula tu ;; Ruhusa ya kusafiri ;; Barua ya kazi
 Q tf | T | 10 | rudi,kazi | Rashidi alirudi kazini baada ya siku nne. | Rashidi went back to work after four days.
 
-@ A2 | Tangazo la chumba | names: Kinondoni | oop: daladala=minibus, everyday East African transport, no pack word; shilingi=currency unit of Tanzania and Kenya, no pack word
+@ A2 | Tangazo la chumba | names: Kinondoni | oop: daladala=minibus, everyday East African transport, no pack word
 S Chumba kinapatikana kwa kodi katika mtaa tulivu wa Kinondoni. | A room is available for rent in a quiet street in Kinondoni.
 S Chumba ni kikubwa na kina dirisha kubwa linaloangalia bustani. | The room is big and has a large window looking onto a garden.
 S Kuna kitanda, meza na kiti. | There is a bed, a table and a chair.

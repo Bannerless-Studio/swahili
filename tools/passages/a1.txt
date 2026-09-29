@@ -35,7 +35,7 @@ Q tf | T | 4 | ofisi | Ofisi ya Amina iko mjini. | Amina's office is in town.
 Q mc | 5 | la,wali | Amina anakula nini mchana? | What does Amina eat at midday? | Samaki na wali ;; Mkate na chai ;; Nyama na mboga ;; Ndizi tu
 Q tf | T | 7 | soma,kitabu | Kabla ya kulala, Amina anasoma. | Before sleeping, Amina reads.
 
-@ A1 | Sokoni | names: Neema | oop: shilingi=currency unit of Tanzania and Kenya, no pack word
+@ A1 | Sokoni | names: Neema
 S Leo ni Jumamosi na Neema anakwenda sokoni. | Today is Saturday and Neema is going to the market.
 S Soko liko karibu na nyumba yake. | The market is near her house.
 S Anataka kununua mboga, matunda na samaki. | She wants to buy vegetables, fruit and fish.
@@ -200,7 +200,7 @@ S Sisi watu wazima tunakaa pamoja na kuzungumza. | We adults sit together and ta
 S Mchana tunakula wali na nyama ya kuku. | At midday we eat rice and chicken.
 S Jioni tunarudi nyumbani kwa gari. | In the evening we go back home by car.
 S Usiku tunalala mapema kwa sababu kesho ni Jumatatu. | At night we go to sleep early because tomorrow is Monday.
-Q tf | F | 1 | amka,mapema | Leo anaamka mapema sana. | Today he gets up very early.
+Q tf | F | 1 | amka,mapema | Leo anaamka mapema sana. | Today the narrator gets up very early.
 Q mc | 4 | ishi,kijiji | Musa anaishi wapi? | Where does Musa live? | Kijijini ;; Katika mji mkubwa ;; Karibu na bahari ;; Nairobi
 Q tf | T | 5 | cheza,mtoto | Watoto wanacheza pamoja nje. | The children play together outside.
 Q mc | 7 | la,nyama | Wanakula nini mchana? | What do they eat at midday? | Wali na kuku ;; Samaki na mkate ;; Ndizi tu ;; Mayai na chai
@@ -254,8 +254,8 @@ S Nitaleta dawa kwa baba na nguo kwa mtoto. | I will bring medicine for father a
 Q mc | 1 | ishi,kijiji | Mama anaishi wapi? | Where does the mother live? | Mbali na mji ;; Mjini ;; Karibu na bahari ;; Hospitali
 Q tf | F | 4 | baba | Baba ni mzima kabisa. | Father is completely well.
 Q mc | 5 | dada,mtoto | Upendo amepata nini? | What has Upendo had? | Mtoto ;; Kazi mpya ;; Nyumba ;; Gari
-Q tf | T | 8 | ja,ijumaa | Atakwenda kijijini siku ya Ijumaa. | He will go to the village on Friday.
-Q tf | T | 9 | leta,dawa | Ataleta dawa kwa baba. | He will bring medicine for father.
+Q tf | T | 8 | ja,ijumaa | Atakwenda kijijini siku ya Ijumaa. | The narrator will go to the village on Friday.
+Q tf | T | 9 | leta,dawa | Ataleta dawa kwa baba. | The narrator will bring medicine for father.
 
 @ A1 | Kujifunza Kiswahili | names: Anna, Ujerumani, Dodoma, Tanzania, Kenya, Uganda
 S Anna anatoka Ujerumani. | Anna comes from Germany.
@@ -321,7 +321,7 @@ S Anapika ugali, mboga na maziwa. | She cooks ugali, vegetables and milk.
 S Usiku tunakaa nje na babu anatuambia hadithi. | At night we sit outside and grandfather tells us stories.
 S Kijijini hakuna magari mengi na ni kimya. | In the village there are not many cars and it is quiet.
 S Ninapenda sana kijiji cha babu. | I really like grandfather's village.
-Q mc | 1 | enda,agosti | Anakwenda kijijini mwezi gani? | In which month does he go to the village? | Agosti ;; Julai ;; Desemba ;; Aprili
+Q mc | 1 | enda,agosti | Anakwenda kijijini mwezi gani? | In which month does the narrator go to the village? | Agosti ;; Julai ;; Desemba ;; Aprili
 Q tf | T | 2 | nyumba,mto | Nyumba ya babu iko karibu na mto. | Grandfather's house is near a river.
 Q mc | 3 | ng'ombe | Babu ana ng'ombe wangapi? | How many cows does grandfather have? | Watano ;; Watatu ;; Kumi ;; Wawili
 Q tf | F | 6 | pika,ugali | Fatuma anapika wali na samaki. | Fatuma cooks rice and fish.

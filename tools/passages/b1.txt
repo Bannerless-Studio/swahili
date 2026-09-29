@@ -35,9 +35,9 @@ S Naomba mrudishe gharama ya ziada tuliyolipa. | I request that you refund the e
 S Pia natumaini mtawafundisha wafanyakazi wenu kuwaheshimu wateja. | I also hope you will teach your staff to respect customers.
 S Wako, Jamila. | Yours, Jamila.
 Q tf | F | 2 | kaa | Jamila alikaa hotelini peke yake. | Jamila stayed at the hotel alone.
-Q mc | 4 | maji,moto | Tatizo la kwanza la chumba lilikuwa nini? | What was the room's first problem? | Hakukuwa na maji ya moto ;; Kitanda kilikuwa kibovu ;; Chumba kilikuwa kidogo sana ;; Dirisha halikufungwa vizuri
+Q mc | 4 | maji,moto | Tatizo la kwanza la chumba lilikuwa nini? | What was the room's first problem? | Maji yote yalikuwa baridi ;; Kitanda kilikuwa kibovu ;; Chumba kilikuwa kidogo sana ;; Dirisha halikufungwa vizuri
 Q tf | T | 6 | chakula,chelewa | Chakula cha asubuhi hakikuja kwa wakati. | Breakfast did not come on time.
-Q mc | 8 | uliza,jibu | Jamila alipouliza, alijibiwa vipi? | When Jamila asked, how was she answered? | Vibaya, mbele ya watoto ;; Kwa heshima kubwa ;; Kwa barua ndefu ;; Kwa kuomba radhi haraka
+Q mc | 8 | uliza,jibu | Jamila alipouliza, alijibiwa vipi? | When Jamila asked, how was she answered? | Bila heshima ;; Kwa heshima kubwa ;; Kwa barua ndefu ;; Kwa kuomba radhi haraka
 Q tf | T | 10 | omba,rudisha | Jamila anataka arudishiwe pesa za ziada. | Jamila wants the extra money returned to her.
 
 @ B1 | Kiwanda kitafungwa | names: Tanga | oop: saruji=cement, the factory's product, no pack word; fidia=compensation, the union's demand, no pack word
@@ -94,7 +94,7 @@ S Sasa anatafuta watu wa kusaidia kufundisha wazee kusoma na kuandika. | Now she
 Q tf | F | 1 | mwanafunzi,safiri | Zamani wanafunzi walisoma vitabu kijijini. | In the past pupils read books in the village.
 Q mc | 3 | kusanya,kitabu | Mwanaidi alianza kufanya nini? | What did Mwanaidi begin by doing? | Kukusanya vitabu ;; Kujenga shule ;; Kununua kompyuta ;; Kufundisha watoto
 Q tf | T | 5 | changia | Watu wa kijiji walisaidia kujenga maktaba. | The villagers helped build the library.
-Q mc | 9 | kompyuta | Watu wazima hutumia kompyuta kwa ajili ya nini? | What do adults use the computers for? | Habari za kilimo na afya ;; Kucheza michezo ;; Kutazama filamu ;; Kuandika barua kwa watoto
+Q mc | 9 | kompyuta | Watu wazima hutumia kompyuta kwa ajili ya nini? | What do adults use the computers for? | Kusoma kuhusu kilimo ;; Kucheza michezo ;; Kutazama filamu ;; Kuandika barua kwa watoto
 Q tf | T | 10 | tokeo,mtihani | Matokeo ya mitihani ni bora sasa. | Exam results are better now.
 
 @ B1 | Mafuriko mtaani | names: Hamisi, Morogoro
@@ -168,7 +168,7 @@ S Kila mwezi analipa sehemu ya mkopo, na amebakiza miezi mitatu tu. | Every mont
 S Changamoto kubwa ni mvua, kwa sababu wateja hawakai nje wakati wa mvua. | The big challenge is rain, because customers do not sit outside when it rains.
 S Rehema anapanga kujenga paa na kufungua mgahawa mdogo mwaka ujao. | Rehema plans to build a roof and open a small restaurant next year.
 Q tf | F | 1 | kazi,hoteli | Rehema alipata kazi hotelini baada ya chuo. | Rehema got a hotel job after college.
-Q mc | 3 | mkopo,kikundi | Rehema alipata wapi pesa za kuanza biashara? | Where did Rehema get the money to start the business? | Kwa kikundi cha akina mama ;; Kutoka kwa benki kubwa ya mjini ;; Kwa mjomba wake ;; Kutoka serikalini
+Q mc | 3 | mkopo,kikundi | Rehema alipata wapi pesa za kuanza biashara? | Where did Rehema get the money to start the business? | Kwa wanawake wa mtaa wake ;; Kutoka kwa benki kubwa ya mjini ;; Kwa mjomba wake ;; Kutoka serikalini
 Q mc | 6 | pika,bei | Rehema aliuza chakula chake kwa bei gani? | At what price did Rehema sell her food? | Bei ya chini ;; Bei ghali kuliko hoteli za mjini ;; Bure kabisa ;; Bei ya hoteli kubwa
 Q tf | T | 10 | mvua,mteja | Wakati wa mvua, Rehema hupata wateja wachache. | When it rains, Rehema gets few customers.
 Q mc | 11 | panga,fungua | Rehema anapanga kufanya nini? | What does Rehema plan to do? | Kuwa na mgahawa wake ;; Kurudi chuoni kusoma zaidi ;; Kuhamia kijijini ;; Kuuza vyombo vyake
@@ -206,7 +206,7 @@ S Anawaambia majirani zake wasikose kuwapeleka watoto wao. | She tells her neigh
 S Anaamini kwamba watoto wenye afya ni furaha ya familia nzima. | She believes that healthy children are the joy of the whole family.
 Q mc | 1 | pima,daktari | Daktari alifanya nini kwanza? | What did the doctor do first? | Alimpima mtoto ;; Alimpa Aisha dawa za homa ;; Alimwandikia barua ;; Alimpeleka mtoto nje
 Q tf | F | 3 | lia,nyamaza | Mtoto alilia siku nzima baada ya kupewa dawa. | The child cried all day after being given the medicine.
-Q mc | 6 | rudi,mwezi | Aisha atarudi hospitalini lini? | When will Aisha return to the hospital? | Baada ya miezi mitatu ;; Kesho asubuhi ;; Mwaka ujao wakati wa mvua ;; Wiki ijayo
+Q mc | 6 | rudi,mwezi | Aisha atarudi hospitalini lini? | When will Aisha return to the hospital? | Miezi mitatu baadaye ;; Kesho asubuhi ;; Mwaka ujao wakati wa mvua ;; Wiki ijayo
 Q tf | T | 9 | huduma,bure | Aisha hakulipa pesa kwa huduma hii. | Aisha did not pay money for this service.
 
 @ B1 | Mkutano wa wazazi | names: Bakari, Mariamu
@@ -339,7 +339,7 @@ Q tf | T | 1 | shamba,babu | Shamba la Emmanueli ni la zamani katika familia yak
 Q mc | 4 | weka,jua | Baada ya kusafishwa, kahawa inawekwa wapi? | After being cleaned, where is the coffee put? | Juani ;; Ndani ya nyumba karibu na moto ;; Kiwandani ;; Sokoni
 Q mc | 7 | bei,acha | Kwa nini wakulima wengi waliacha kahawa? | Why did many farmers give up coffee? | Bei ilikuwa ndogo ;; Mvua haikunyesha kwa miaka mitano ;; Miti ilikufa ;; Walihamia mjini
 Q tf | F | 9 | acha,bei | Emmanueli naye aliacha kahawa na kupanda ndizi. | Emmanueli too gave up coffee and planted bananas.
-Q mc | 11 | siri,uvumilivu | Emmanueli anasema siri ni nini? | What does Emmanueli say the secret is? | Kutunza miti na kuwa na uvumilivu ;; Kuuza kahawa sokoni mwenyewe ;; Kupanda miti mingi mipya kila mwaka ;; Kununua ng'ombe wengi
+Q mc | 11 | siri,uvumilivu | Emmanueli anasema siri ni nini? | What does Emmanueli say the secret is? | Kutunza miti kwa uvumilivu ;; Kuuza kahawa sokoni mwenyewe ;; Kupanda miti mingi mipya kila mwaka ;; Kununua ng'ombe wengi
 
 @ B1 | Maisha mjini | names: Idrisa, Mwanza
 S Miaka mitano iliyopita Idrisa aliondoka kijijini kwenda kutafuta maisha mjini Mwanza. | Five years ago Idrisa left the village to seek a living in Mwanza town.
