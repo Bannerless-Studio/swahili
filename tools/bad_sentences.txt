@@ -4064,3 +4064,15 @@ Ubongo ndio kitovu cha kila akili, roho, na nguvu ya misuli.
 Pango lenyewe, ambalo lilinusurika nyakati, hutoa picha dhahiri ya mielekeo ya kiroho ya Muhammad.
 # s1950 loan name with trailing ellipsis
 Lasso hakutaka kumfurahisha yeyote...
+
+# ==== re-QA round 2 (2026-09-29, spec review 3) ====
+# s0756 re-QA: English does not match (we will be present vs we'll just be a few minutes)
+Tutakuwepo kwa dakika chache.
+# s1812 re-QA: English mistranslates and drops kijamii
+Mitandao ya kijamii siku hizi imekuwa jukwaa gumu kulitumia.
+# s1177 (entered on the round-2 rebuild) English says the Israeli army, the Swahili says Israelis
+Waisraeli walimpigia simu na kumwambia kuwa wangeipiga mabomu nyumba yake katika dakika chache.
+# s2004 (entered on the round-2 rebuild) English mistranslates vichache (few, not small); bakiza links baki
+Nilibakiza vitu vichache sana ambavyo ningeweza kusafiri navyo.
+# s1495 (entered on the round-2 rebuild) police beating at A2, content policy
+Ndipo kundi la maafisa wa polisi lilipomgeukia Mwangosi, kwa kumpiga vibaya kwa dakika kadhaa.

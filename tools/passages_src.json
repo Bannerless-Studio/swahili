@@ -1170,7 +1170,7 @@
      "At midday he sleeps under the tree outside."
     ],
     [
-     "Jioni anacheza na watoto katika chumba.",
+     "Jioni anacheza na watoto chumbani.",
      "In the evening he plays with the children in the room."
     ],
     [
@@ -1350,7 +1350,7 @@
      "sentence": 3
     },
     {
-     "q": "Mombasa ni joto zaidi kuliko Nairobi.",
+     "q": "Mombasa ina joto zaidi kuliko Nairobi.",
      "en": "Mombasa is hotter than Nairobi.",
      "type": "tf",
      "options": null,

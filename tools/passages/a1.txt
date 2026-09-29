@@ -159,7 +159,7 @@ S Simba ni paka mweusi na ana macho makubwa. | Simba is a black cat and has big 
 S Anapenda kulala juu ya kitanda changu. | He likes to sleep on my bed.
 S Asubuhi anakula samaki na kunywa maziwa. | In the morning he eats fish and drinks milk.
 S Mchana analala chini ya mti nje. | At midday he sleeps under the tree outside.
-S Jioni anacheza na watoto katika chumba. | In the evening he plays with the children in the room.
+S Jioni anacheza na watoto chumbani. | In the evening he plays with the children in the room.
 S Simba ana miaka mitatu tu. | Simba is only three years old.
 S Wakati wa baridi analala karibu na moto. | When it is cold he sleeps near the fire.
 S Watoto wanapenda kumpa chakula kila jioni. | The children like to give him food every evening.
@@ -185,7 +185,7 @@ S Nilikaa Mombasa kwa siku tano. | I stayed in Mombasa for five days.
 S Nilirudi Nairobi siku ya Jumamosi. | I returned to Nairobi on Saturday.
 Q mc | 1 | safiri | Hassani alisafiri vipi? | How did Hassani travel? | Kwa treni ;; Kwa gari ;; Kwa ndege ;; Kwa baiskeli
 Q tf | F | 3 | fika | Hassani alifika Mombasa usiku. | Hassani arrived in Mombasa at night.
-Q tf | T | 4 | joto | Mombasa ni joto zaidi kuliko Nairobi. | Mombasa is hotter than Nairobi.
+Q tf | T | 4 | joto | Mombasa ina joto zaidi kuliko Nairobi. | Mombasa is hotter than Nairobi.
 Q mc | 9 | kaa,siku | Hassani alikaa Mombasa muda gani? | How long did Hassani stay in Mombasa? | Siku tano ;; Siku mbili ;; Wiki tatu ;; Mwezi mmoja
 Q tf | T | 5 | rafiki,bahari | Hassani alikaa kwa rafiki yake. | Hassani stayed with his friend.
 
