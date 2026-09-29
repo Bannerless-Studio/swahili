@@ -30,7 +30,7 @@ S Wageni wengi ni watalii kutoka nchi mbalimbali. | Many guests are tourists fro
 S Wanakuja kuona wanyama na mlima mrefu karibu na mji. | They come to see animals and the tall mountain near the town.
 S Daudi anazungumza nao kwa Kiingereza na kidogo kwa Kifaransa. | Daudi talks with them in English and a little in French.
 S Kazi inaanza saa kumi na mbili asubuhi, kwa hiyo anaamka mapema sana. | Work starts at six in the morning, so he gets up very early.
-S Wakati mwingine wateja wanalalamika, lakini Daudi anabaki mtulivu. | Sometimes customers complain, but Daudi stays calm.
+S Wakati mwingine wateja wanalalamika, lakini Daudi anawasikiliza kwa heshima. | Sometimes customers complain, but Daudi listens to them respectfully.
 S Anapenda kazi hii kwa sababu anajifunza vitu vipya kila siku. | He likes this job because he learns new things every day.
 S Pia mshahara ni mzuri zaidi kuliko zamani. | Also the salary is better than before.
 S Anataka kuweka pesa na siku moja kufungua hoteli yake mwenyewe. | He wants to save money and one day open his own hotel.
@@ -61,7 +61,7 @@ Q mc | 7 | dawa | Daktari alimpa Rashidi nini? | What did the doctor give Rashid
 Q tf | T | 10 | rudi,kazi | Rashidi alirudi kazini baada ya siku nne. | Rashidi went back to work after four days.
 
 @ A2 | Tangazo la chumba | names: Kinondoni | oop: daladala=minibus, everyday East African transport, no pack word
-S Chumba kinapatikana kwa kodi katika mtaa tulivu wa Kinondoni. | A room is available for rent in a quiet street in Kinondoni.
+S Chumba kinapatikana kwa kodi katika mtaa wenye amani wa Kinondoni. | A room is available for rent in a peaceful street in Kinondoni.
 S Chumba ni kikubwa na kina dirisha kubwa linaloangalia bustani. | The room is big and has a large window looking onto a garden.
 S Kuna kitanda, meza na kiti. | There is a bed, a table and a chair.
 S Jiko na choo vinashirikiwa na watu wawili wengine. | The kitchen and toilet are shared with two other people.
@@ -69,7 +69,7 @@ S Kuna umeme na maji kila siku. | There is electricity and water every day.
 S Nyumba iko karibu na kituo cha daladala na soko. | The house is near the minibus stop and the market.
 S Kodi ni shilingi laki moja na nusu kwa mwezi. | The rent is one hundred and fifty thousand shillings a month.
 S Gharama ya umeme haimo kwenye kodi. | The cost of electricity is not included in the rent.
-S Tunatafuta mtu mtulivu ambaye havuti sigara. | We are looking for a quiet person who does not smoke.
+S Tunatafuta mtu mwenye heshima ambaye havuti sigara. | We are looking for a respectful person who does not smoke.
 S Wanyama hawaruhusiwi ndani ya nyumba. | Animals are not allowed in the house.
 S Chumba kitakuwa tayari mwanzoni mwa mwezi ujao. | The room will be ready at the beginning of next month.
 S Mwenye nyumba anaishi katika nyumba ya jirani pamoja na familia yake. | The owner lives in the neighbouring house with his family.
@@ -99,7 +99,7 @@ Q tf | F | 6 | vaa,nguo | Mwajuma alivaa nguo nyekundu. | Mwajuma wore a red dre
 Q mc | 9 | babu,hotuba | Babu alifanya nini kwenye harusi? | What did grandfather do at the wedding? | Alizungumza mbele ya watu ;; Alipika chakula cha wageni wote ;; Alileta zawadi ;; Alisafisha nyumba
 Q tf | F | 10 | lia,furaha | Mama alilia kwa sababu alikuwa na huzuni. | Mother cried because she was sad.
 
-@ A2 | Treni ya asubuhi | names: Nairobi, Mombasa
+@ A2 | Treni ya asubuhi | names: Nairobi, Mombasa | oop: tiketi=ticket, everyday travel word the frequency ranking leaves out
 S Tangazo kwa abiria wote wanaosafiri kwenda Mombasa. | Announcement to all passengers travelling to Mombasa.
 S Treni ya saa mbili asubuhi itachelewa kwa dakika arobaini. | The eight o'clock morning train will be forty minutes late.
 S Sababu ni tatizo la umeme kwenye njia karibu na Nairobi. | The reason is an electricity problem on the line near Nairobi.
@@ -110,13 +110,13 @@ S Tafadhali angalieni mizigo yenu wakati wote. | Please watch your luggage at al
 S Watoto wadogo wasikae peke yao. | Small children should not sit alone.
 S Treni itaondoka kutoka jukwaa namba tatu, sio namba moja. | The train will leave from platform number three, not number one.
 S Tiketi za leo zitatumika kama kawaida. | Today's tickets will be used as usual.
-S Abiria wanaotaka kubadilisha safari yao wanaweza kwenda dirisha la tiketi. | Passengers who want to change their journey can go to the ticket window.
+S Abiria wanaotaka kubadilisha safari yao wanaweza kwenda ofisi ya kituo. | Passengers who want to change their journey can go to the station office.
 S Tutatoa taarifa nyingine baada ya dakika ishirini. | We will give another announcement after twenty minutes.
 S Asanteni kwa kusafiri nasi. | Thank you for travelling with us.
 Q mc | 1 | treni,chelewa | Treni itachelewa kwa muda gani? | How late will the train be? | Dakika arobaini ;; Saa moja ;; Dakika kumi ;; Saa mbili
 Q tf | T | 2 | tatizo,umeme | Treni inachelewa kwa sababu ya tatizo la umeme. | The train is late because of an electricity problem.
 Q tf | F | 5 | bure | Abiria wanapaswa kulipa chai. | Passengers must pay for the tea.
-Q mc | 8 | jukwaa | Treni itaondoka kutoka wapi? | Where will the train leave from? | Jukwaa la tatu ;; Jukwaa la kwanza ;; Dirisha la tiketi ;; Ukumbi wa kituo
+Q mc | 8 | jukwaa | Treni itaondoka kutoka wapi? | Where will the train leave from? | Jukwaa la tatu ;; Jukwaa la kwanza ;; Ofisi ya kituo ;; Ukumbi wa kituo
 Q tf | T | 10 | safari | Abiria wanaweza kubadilisha safari yao. | Passengers can change their journey.
 
 @ A2 | Shamba la mjomba | names: Ramadhani, Morogoro

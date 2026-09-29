@@ -2672,8 +2672,8 @@
      "Work starts at six in the morning, so he gets up very early."
     ],
     [
-     "Wakati mwingine wateja wanalalamika, lakini Daudi anabaki mtulivu.",
-     "Sometimes customers complain, but Daudi stays calm."
+     "Wakati mwingine wateja wanalalamika, lakini Daudi anawasikiliza kwa heshima.",
+     "Sometimes customers complain, but Daudi listens to them respectfully."
     ],
     [
      "Anapenda kazi hii kwa sababu anajifunza vitu vipya kila siku.",
@@ -2903,8 +2903,8 @@
    ],
    "sentences": [
     [
-     "Chumba kinapatikana kwa kodi katika mtaa tulivu wa Kinondoni.",
-     "A room is available for rent in a quiet street in Kinondoni."
+     "Chumba kinapatikana kwa kodi katika mtaa wenye amani wa Kinondoni.",
+     "A room is available for rent in a peaceful street in Kinondoni."
     ],
     [
      "Chumba ni kikubwa na kina dirisha kubwa linaloangalia bustani.",
@@ -2935,8 +2935,8 @@
      "The cost of electricity is not included in the rent."
     ],
     [
-     "Tunatafuta mtu mtulivu ambaye havuti sigara.",
-     "We are looking for a quiet person who does not smoke."
+     "Tunatafuta mtu mwenye heshima ambaye havuti sigara.",
+     "We are looking for a respectful person who does not smoke."
     ],
     [
      "Wanyama hawaruhusiwi ndani ya nyumba.",
@@ -3164,7 +3164,9 @@
    "id": "p0026",
    "lv": "A2",
    "title": "Treni ya asubuhi",
-   "oop": {},
+   "oop": {
+    "tiketi": "ticket, everyday travel word the frequency ranking leaves out"
+   },
    "names": [
     "Nairobi",
     "Mombasa"
@@ -3211,8 +3213,8 @@
      "Today's tickets will be used as usual."
     ],
     [
-     "Abiria wanaotaka kubadilisha safari yao wanaweza kwenda dirisha la tiketi.",
-     "Passengers who want to change their journey can go to the ticket window."
+     "Abiria wanaotaka kubadilisha safari yao wanaweza kwenda ofisi ya kituo.",
+     "Passengers who want to change their journey can go to the station office."
     ],
     [
      "Tutatoa taarifa nyingine baada ya dakika ishirini.",
@@ -3270,7 +3272,7 @@
      "type": "mc",
      "options": [
       "Jukwaa la kwanza",
-      "Dirisha la tiketi",
+      "Ofisi ya kituo",
       "Ukumbi wa kituo",
       "Jukwaa la tatu"
      ],
@@ -6083,7 +6085,7 @@
      "To save money, Neema has started planting vegetables in a small garden behind the house."
     ],
     [
-     "Pia ananunua pamoja na majirani zake kwa wingi, kisha wanagawa vitu hivyo.",
+     "Pia ananunua pamoja na majirani zake kwa wingi, kisha wanagawanya vitu hivyo.",
      "She also buys in bulk together with her neighbours, then they share the goods."
     ],
     [
