@@ -14,7 +14,7 @@ A free vocabulary trainer for Swahili, A1 through B1. It has 2000 words with sho
 - **Progress** shows your stats and lets you export, import or reset your progress.
 - **Reading passages** come in 20 short texts at each of A1, A2 and B1, with multiple-choice and true/false questions. A level's passages unlock once you have learned 70% of that level's words. Tap any word in a passage for its gloss. Missed questions feed their words back into review.
 - **Offline:** the app is one page with a service worker. Once loaded, it keeps working offline.
-- **Audio:** there is no recorded Swahili audio. The trainer speaks words and sentences with the browser's `sw-KE`/`sw-TZ` voice where one exists; availability is unverified per device, so the speaker buttons may be silent on some.
+- **Audio:** there is no recorded Swahili audio. The trainer speaks words and sentences with the browser's `sw-KE`/`sw-TZ` voice where one exists. Verified 2026-09-29 on Android Chrome (Google TTS speaks Swahili); most desktop browsers and Apple devices have no Swahili voice, so the speaker buttons are hidden there.
 - **Progress** is kept only in this browser's local storage. Export it from the Progress tab to move it to another device.
 
 ## Data

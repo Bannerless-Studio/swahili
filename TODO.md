@@ -35,4 +35,4 @@ StoryWeaver aligns reliably only at page level. Align pages first, then split se
 
 ## Audio
 
-There is no recorded Swahili audio, and Tatoeba has no permissively licensed Swahili clips. The app uses browser TTS (`sw-KE`), which Android Chrome supports and most desktop and Apple browsers do not. No audio work is planned until a licensed source turns up.
+There is no recorded Swahili audio, and Tatoeba has no permissively licensed Swahili clips. The app uses browser TTS (`sw-KE`), which Android Chrome supports (owner-verified on a phone 2026-09-29: speaker taps produce sound) and most desktop and Apple browsers do not. No audio work is planned until a licensed source turns up.
