@@ -39,15 +39,15 @@ Levels: {'A1': 600, 'A2': 700, 'B1': 700}. POS: {'noun': 1180, 'verb': 519, 'adj
 
 ## Sentences
 
-- Final sentences: **2,717**, 0 with audio (`https://tatoeba.org/audio/download/<audio_id>`).
-- Word coverage: 0 = 0, 1 = 173, 2 = 1827.
-- Candidate sentences (terminal punctuation, 3-14 tokens, content lemmas in pack/top-3000, >=1 link): 5,709. Rejected for a content lemma outside pack/top-3000: 2,196.
-- Primary word level of each sentence: {'A1': 646, 'A2': 1008, 'B1': 1063}.
+- Final sentences: **2,882**, 0 with audio (`https://tatoeba.org/audio/download/<audio_id>`).
+- Word coverage: 0 = 0, 1 = 3, 2 = 1997.
+- Candidate sentences (terminal punctuation, 3-14 tokens, content lemmas in pack/top-3000, >=1 link): 5,879. Rejected for a content lemma outside pack/top-3000: 2,196.
+- Primary word level of each sentence: {'A1': 658, 'A2': 1032, 'B1': 1192}.
 - Token-length distribution of the final set:
 
 | tokens | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| sentences | 4 | 212 | 429 | 424 | 373 | 320 | 259 | 219 | 152 | 130 | 113 | 82 |
+| sentences | 3 | 217 | 489 | 490 | 403 | 324 | 260 | 219 | 152 | 130 | 113 | 82 |
 
 ## Top 100 by rank (lemma [pos] gloss)
 
@@ -231,8 +231,9 @@ Words (net, base to this build):
 
 Result: 2,717 sentences (A1 559, A2 1,006, B1 1,152). Every word keeps at least one sentence. 171 words have exactly one, up from 41: the drops took second sentences, and the corpus has no clean replacement at the level. generated_examples.tsv covers the 11 weak single-sentence words (pombe now "Pombe ni marufuku katika dini yetu.") and every word the drops left with none.
 
+Second-sentence wave: 170 rows in generated_examples.tsv give each of the 171 single-sentence words a second sentence (one row covers kuumba and mbingu). Each row is 5-9 words at B1 (the B1 minimum is 5 tokens), and every new sentence was read with its links. 169 rows shipped, and 0 words now have exactly one sentence. Result: 2,882 sentences (A1 564, A2 1,031, B1 1,287).
+
 Residuals:
 - Linker gaps kept as drops, since each is one site: "Kulia kwa nyuki", ziwafikie, mitoko, Kizito, kivile, kulevya, dhamiri, zimepagawa, hisi, Karibia.
 - Letter sign-offs "Wako," in passages p0038, p0042 and p0057 link nothing. They should link -ako.
-- 171 words have one sentence. More generated rows would lift them to two.
 <!-- manual:end -->
