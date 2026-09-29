@@ -204,7 +204,6 @@ Baadhi ya watumiaji wa Weibo waliweza kufuatilia taarifa hizo na na pia kuweka p
 # s2258 garbled
 ...kupanuka huku kumekuwa na matokeo mabaya kwa soko?
 # s2309 space before period
-Picha zaidi zinaweza kupatikana kwenye ukurasa wa Facebook wa chama cha wafanyakazi .
 # s2623 capital mid-sentence
 Kwa hiyo, Ni wapi sasa?
 # s0032 wana wasita typo
@@ -862,4 +861,1078 @@ Hakukuwa hata na kituo cha udhibiti Sisi tulitembelea eneo la ajali jana.
 # s0712 Sherehe capitalised mid-sentence
 Wanandoa wachanga walijumuisha wazazi wao kwenye wageni wao wa Sherehe.
 # s2523 Blogu capitalised mid-sentence
-Picha kwa hisani ya Blogu ya ufuatiliaji wa kesi.
+
+# ==== wave 2 (2026-09-29): QA sw-qa findings + full A2/B1 read ====
+# review-time ids are from the build under review; matching is on the text
+
+# grammar: ungrammatical, misspelt, garbled or calqued Swahili
+# s0218 QA grammar
+Georgia ndio jimbo lake la asili.
+# s0361 QA grammar
+Nafaa kula chakula cha mchana pamoja naye.
+# s0582 QA grammar
+Unapomeza dutu hatari, kile unahitaji kufanya inategemea kile ulichomeza.
+# s0598 QA grammar
+Inaniogopesha kutokuona mtandaoni siku nzima.
+# s1181 QA grammar
+Msichana wa Ireland, ambaye anaandika kwa Ireland, ni mwandishi.
+# s1190 QA grammar
+Kitabu nilinunua kiko mezani.
+# s2305 QA grammar
+Haki ya Mungu ikutane nanyi.
+# s1619 QA grammar
+Hakuna anayejua ni nini kinachopigwa.
+# s0018 QA grammar
+Fedha zake ni katika benki.
+# s0025 QA grammar
+Farasi hii ni mweupe.
+# s0040 QA grammar
+Ulivunja meza uliyekuwa ukikaa.
+# s0633 QA grammar
+Usijali, kila pembe linashughulikiwa.
+# s0793 QA grammar
+Aliona makosa tano kwenye mistari mingi.
+# s0951 QA grammar
+Nilifikiria kuwa unaweza kuna na nia na hii.
+# s1206 QA grammar
+Niligundua kwamba hii ni uamuzi ngumu kwako.
+# s1236 QA grammar
+Je, maji yaliyopo Black Sea ni nyeusi kweli?
+# s1537 QA grammar
+Miezi tatu baadaye, tulikuwa tumeoana.
+# s2597 QA grammar
+Mawazo ya wengi wameafikiana na muswada huu.
+# s2198 QA grammar
+Siwezi kusoma habari mpya kwenye na betri yangu imekwisha.
+# s0675 QA grammar
+Ni kinyume cha sheria nchini Amerika kwa kutekeleza sheria kutumia mateso kupata habari.
+# s0698 QA grammar
+Huko Italia, wakati wa msimu wa joto, hukukui na giza hadi saa tatu usiku.
+# s0267 QA grammar
+Huko India, ng'ombe ni mnyama takatifu.
+# s0725 QA grammar
+Mshipa wa damu ilipasuka ndani ya ubongo wake.
+# s1382 QA grammar
+Tuna akili mzuri hatuwezi kutenda kipumbavu.
+# s1016 QA grammar
+Watoto wanajifanya wa kusafisha meno yao.
+# s1622 QA grammar
+Sikutaka kumuuliza alikuwa anacheza mchezo gani na hao sanamu wanajeshi.
+# s1950 QA grammar
+Kupoteza kwa utulivu wa akili yangu lilikuwa suala la kutazama sana.
+# s2262 QA grammar
+Mazungumzo MBC kuhusu fedha za hata kabla ya operesheni ya kuwaokoa kumalizika.
+# s0466 QA grammar
+Wakati paka ni mbali, panya hucheza.
+# s0365 "duka lake la ukiwa na muda" garbled
+Unaweza kuenda kwenye duka lake la ukiwa na muda.
+# s0409 calque "barua ya kurudi" (return mail)
+Tunatazamia kupokea nukuu yako kwa barua ya kurudi.
+# s0864 kuambia mtu (kumwambia); hapo mbeleni
+Sijawahi kuambia mtu hilo hapo mbeleni.
+# s1069 "Si Mimi" capitalised mid-sentence, mimi unlinked
+Si Mimi pekee niliyekaa macho usiku kucha.
+# s1405 "Atlantikini kubwa" missing copula
+Bahari ya Atlantikini kubwa kidogo tu kuliko nusu ya Bahari ya Pasifiki.
+# s1942 fragment
+Haki za msingi kama haki ya kupatiwa maji na elimu.
+# s2175 "bila hawaruhusiwi" garbled
+Wanawake kwa wanaume bila hawaruhusiwi kuingia.
+# s2177 fragment; EN "baked"
+Chakula kilichotengenezwa kwa unga.
+# s2236 "hatari ya kukubwa" garbled
+Hizi ni nchi zenye hatari ya kukubwa na tsunami.
+# s0075 "shika pua yako na pigo" (pigo noun for "blow")
+Ikiwa unaenda chini ya maji, shika pua yako na pigo ili kusafisha masikio yako.
+# s0177 calque "mkutano wa kukimbia" (track meet)
+Mkutano wa kukimbia ulisitishwa kwa sababu ya mvua kubwa.
+# s0187 calque "kwa maili mwishoni" (miles on end)
+Njia inaendelea moja kwa moja kwa maili mwishoni.
+# s0231 inahusika for inahusisha
+Ziara hii inahusika visiwa vyote vitano.
+# s0233 calque "mabwana wa Uholanzi" (Dutch masters)
+Mkusanyiko huu wa sanaa ni tajiri katika picha za kuchora na mabwana wa Uholanzi.
+# s0355 calque "Nilifaa ... kwa kibiashara"
+Nilifaa kumwona mtu kwa kibiashara.
+# s0401 calque "wakihisi tupu"
+Mapambano ya kufanikiwa wakati mwingine huwacha watu wakihisi tupu.
+# s0428 garbled
+Yeyote anayewakilisha kutoka kwa kitengo chao, mshughulikie vizuri.
+# s0437 garbled calque
+Masaa yaliyopotezwa kwenye ardhi yanawiana na faida ya kasi hewani.
+# s0495 "Alishika breki mguu mtupu" garbled
+Alishika breki mguu mtupu kwa ghafla.
+# s0505 kukuwa (kukua); calque "kwa mtazamo"
+Wakati wa kukuwa, alijifunza kuweka vitu kwa mtazamo.
+# s0529 calque
+Anamaanisha zaidi ya maisha yangu kwangu.
+# s0565 Ukipandisha for Ukipanda
+Ukipandisha juu ya huu mlima, utafikia maabara.
+# s0570 garbled
+Huyo ni mimi-mwoga asiyeweza kudhibiti ujasiri wake na kuupata ukweli.
+# s0598 advert fragment
+Suluhisho la haraka na bora la kupata kazi ya ndoto zako!
+# s0637 "mkate wa mkulima wake" garbled
+Katika soko, mkulima anauza mkate wa mkulima wake.
+# s0759 garbled proverb
+Nakala za wasanii wazuri, wasanii wakubwa huiba.
+# s0808 garbled
+Ikiwa haukuwa mzuri sana katika shauri, nisingelisikia sheria hizi kwa mwenendo wangu.
+# s0887 missing clause link; pigo for plague
+Ni lazima tuzuie pigo hili ni hatari.
+# s0893 garbled
+Lugha ya Kilatini haijanipotelea kabisa kwangu, lakini kabisa sina uwezo wa kuizungumza.
+# s1016 "Ma uhusiano" garbled
+Ma uhusiano ya kijamii yanashawishi mazungumzo.
+# s1219 garbled calque
+Tangu alipoanguka jikoni, akili yake haijawahi huko.
+# s1310 garbled
+Kifungo cha gerezani hakiweza kuweka pepo la ng'ombe kama huyo.
+# s1351 "itakuwa gharama kuwa kufanya" garbled
+Je, unafikiri itakuwa gharama kuwa kufanya hivyo?
+# s1388 garbled
+Ninaonekana kuhifadhi mafuta tu kwa kupata na hewa nyepesi.
+# s1617 fragment, "demokrasi"
+Uchaguzi katika demokrasi kubwa zaidi duniani.
+# s1673 fragment
+Jela, na jela na mambo mengine.
+# s1707 garbled fragment
+Kipindi cha majadiliano juu ya kuunganisha kwenye utengano ndani ya Indonesia kwa kutumia blogu.
+# s1904 bullet fragment
+• Maonyesho ya wanablogu kila baada ya miezi mitatu.
+# s1978 caption fragment
+Washiriki wa kamati ya ufundi ya mapitio wakiwa mjini Nairobi.
+# s2126 caption fragment
+Picha ya tamko linalomtaka waziri huyo ajiuzulu.
+# s2142 headline fragment
+Mafuriko karibu na wilaya ya nchi ya biashara kuu.
+# s2143 headline fragment
+Mafuriko katika jiji la zamani la Manila.
+# s2144 headline fragment
+Mafuriko jijini Makati, wilaya ya nchi ya kati ya biashara.
+# s2161 headline fragment
+Matokeo ya mwisho katika pambano hilo.
+# s2249 garbled
+Serikali inaandaa amri ya kudhibiti uuzaji wa kudhibitiwa wa kemikali.
+# s2265 sarcastic fragment
+Mapinduzi tu mengine ya kijeshi, tafadhali.
+# s2307 garbled
+Kila ombi linaloombwa linafanyika kwa jinsia zote na kila Hija iliyofanyika.
+# s2317 fragment
+Hukumu ya kijinga sana.
+# s2428 caption fragment
+Picha zinazozunguka mitandaoni kuwafariji wahanga wa shambulio la Paris.
+# s2565 garbled
+Kufanya vitu visijulikane ni njia mojawapo ya ubaguzi wa rangi kutenda kazi.
+# s0847 "Je,hii" spacing
+Je,hii ni ya thamani?
+# s1555 "Ni Karibu" mid-sentence capital
+Ni Karibu ya mwaka na nusu tangu nilipokuwa hapa kwa mara mwisho.
+# s1640 "Kama fanya kazi"
+Kama fanya kazi au la siwezi kujibu.
+# s1698 fragment
+Kama ambavyo safari ingekuwa...
+# s1835 lowercase fragment
+isikilize dai la uhuru wa watu wake.
+# s1896 caption fragment
+Bango la ofisi ya gazeti.
+# s2072 photo-credit caption
+Picha imeruhusiwa kutumiwa na umma na serikali ya Marekani.
+# s2102 infinitives for finite verbs
+Baadhi ya watu kufanya kazi kwa kuishi, lakini hapa, watu kufanya kazi kufa.
+# s2134 truncated "kutoka ."
+Tulikuwa tunatazama matangazo ya moja kwa moja kutoka .
+# s2432 garbled
+Shukrani nyingi kwa waandishi wetu, watafsiri, na wahariri wetu waliofanikisha kutoka kwa toleo hili.
+# s2523 garbled
+Mimi ni mhanga ninayeishi wa niliyepitia mateso kutoka sehemu hii.
+# s2548 illustration caption
+Mchoro umeandaliwa na mwandishi.
+# s1898 caption fragment
+Rais Sata, kabla na baada ya kuingia madarakani.
+# s1999 halali for uhalali
+Wanablogu pia wamekuwa na mashaka kuhusiana na halali wa madai ya aina hii.
+# s2017 caption fragment
+Polisi katika maonyesho, Nouakchott.
+# s2154 garbled caption
+Picha isiyojulikana imewekwa mtandaoni na nani.
+# s0095 "Naweza chukua" missing ku-
+Naweza chukua kipimo chako, Mama?
+# s0108 "Mauaji mamoja"; EN millions
+Mauaji mamoja yanafanya mtu katili, mengi yanamfanya shujaa.
+# s0207 "Nikufikiria"
+Naomba radhi. Nikufikiria hiki kilikuwa kiti chako.
+# s0276 "kama vile" dangling
+Ikiwa unatenda kama mjinga, lazima uchukuliwe kama vile.
+# s0449 typo Bown
+Yeye ni Bwana Bown, mwenyekiti wa kamati.
+# s0468 Alikana kwamba kushiriki
+Alikana kwamba kushiriki kwenye uhalifu huo.
+# s0548 ruhusu for ruhusa
+Unahitaji kupata ruhusu kubandika matangazo, na isitoshe, unaharibu sura ya mtaa!
+# s1354 typo uwezako for uwezekano
+Kuna uwezako mkubwa sana kwamba bei zetu zitapanda mwezi ujao.
+# s0654 majani ... kuanguka infinitive
+Msimu wa baridi unapofika, majani ya miti kuanguka chini.
+# s0737 "akaitana"
+Alipoanza kazi, malaika wa Mungu akaitana kutoka mbinguni, 'Ibrahimu!' Akajibu mara moja.
+# s0786 wanyonya-damu hyphen coinage
+Ili wanyonya-damu waweze kuishi, ni lazima wanywe damu.
+# s0795 fragment
+Faida kutoka kwa dawa walizotumia kununua majumba mengi.
+# s0802 Usilaaniwe
+Usilaaniwe au nitaosha kinywa chako kwa sabuni.
+# s0941 "ni anafukuza"
+Haijalishi ikiwa paka ni mweupe au mweusi; jambo muhimu ni kwamba ni anafukuza panya.
+# s0985 typo kutoke
+Villa ipo umbali wa dakika tano kutoke kwenye ufukwe.
+# s1064 truncated "kutoka."
+Nikiwa na huzuni, ninasikiliza kanda za zamani kutoka.
+# s1156 "hawakui na wivu"
+Watu kama mimi ambao wana mafikira mengi hawakui na wivu kwa urahisi.
+# s1160 wakubaliana
+Chama cha ushirika na kampuni wakubaliana mkataba mpya.
+# s1182 haifaa
+Mimi ni mpumbavu na mjinga asiyefaa haifaa fursa.
+# s1444 garbled
+"Halafu jukumu la kuunga kusaidia familia litanijia, kama kawaida hapo awali" mwanamke huyo alisema.
+# s1531 "ndefu kuliko" incomplete
+Kadhalika uhaba wa mikate, ambao unaendelea, na foleni ni ndefu kuliko.
+# s1667 fragment
+Ukaribu wa Wamoroko na masuala ya chakula.
+# s1680 garbled
+Wametangaza sasa hivi kuwa watu walitayarishwa rasmi wangetulaki kwenye kituo cha treni.
+# s1694 ellipsis fragment
+Kwa wanafamilia wengine...kwa sasa hivi hatujui kitu, hatujasikia chochote...tunasubiri kupata habari.
+# s1743 leading hyphen
+-Tunaheshimu kabisa haki miliki za kitaaluma.
+# s1765 hafanya; EN typo
+Ni kwa nini wanapopata harufu ya madaraka, hafanya makosa katika kila kitu?
+# s1818 headline fragment
+Vurugu katika maeneo ya vitongoji.
+# s1831 typo tafauti
+Nilishawishika kuwa kunaweza kuwepo njia nafuu, njia tafauti.
+# s1915 headline fragment
+Taarifa chanya kutoka kwa wanaharakati wanaotetea haki za walemavu wanaoshiriki katika warsha nchini Senegali.
+# s1944 map caption
+Ramani ya Zambia kuonyesha maeneo yenye machimbo ya madini nchini humo.
+# s1956 truncated "Tk."
+Karibu nusu ya wasichana hawa wana kipato cha kujikimu tu kipatacho kama Tk.
+# s1972 typo nikaa
+Sitaweza kuendelea kushuhudia damu inavyomwagika halafu nikaa kimya.
+# s2007 "wa-China"
+Kwa nini wa-China wengi wanakosa ufahamu wa uraia?
+# s2106 caption fragment
+Mmoja wa wahalifu hao akipewa hadhi ya kidini kwa kutumia mchoro na mchoraji asiyefahamika.
+# s2150 garbled
+Je, unahitaji kuwa sehemu ya mtandao ya dunia unakusudia kuondoa tofauti ya kidijitali?
+# s2278 "kanuni haki"
+Ninawapongeza kwa ushujaa wenu katika kuendeleza kanuni haki.
+# s2283 "wa-Naijeria"
+Kukosekana kwa habari kwa makusudi namna hiyo hakukubaliki kwa wa-Naijeria.
+# s2286 caption fragment
+Bunge la Uganda likiendelea na kikao.
+# s2323 "huonekana na" for kama
+Kwa idadi ya waumini, Ukristo mara nyingi huonekana na dini kuu duniani.
+# s2396 interview prefix PN:
+PN: Una lolote la kumalizia?
+# s2397 unbalanced quote
+‘Mzungu yupo hapa kama raia mbadala.
+# s2405 photo caption
+Mkulima akionesha namna ukame ulivyoathiri shamba lake nchini Lesotho.
+# s2415 caption fragment
+Bomba la maji la jumuia huko Dala.
+# s2416 photo caption
+Ndege wakijizamisha kwenye maji wakati wa joto kali huko Dala.
+# s2417 "wakiwa wakiwa"
+Wakazi wa Yangon wakiwa wakiwa wamepumzika kivulini.
+# s2418 caption fragment
+HiviSasa inavyoonekana kwenye simu ya kiganjani.
+# s2508 garbled
+Ungekuta, kama wangeruhusu miili isiyohesabika kwenye vifusi.
+# s2515 caption fragment
+Pwani ya mchanga mweupe ya Boraca.
+# s2559 "ukiwa," dangling
+Mpangilio huu ukiwa, uhuru huu unaweza kumalizika.
+# s2589 typo hawawachukuliii
+Watu wengi hawawachukuliii kuwa dinosau kwa sababu wana manyoya na wanaweza kupaa.
+# s1844 stray full stop in question
+Machafuko haya yanatokana na nini? Nathubutu pia kusema, hawako imara?
+# s1886 "Tunajua kuwa." fragment
+Tunajua kuwa. Kulipiza kisasi hakujengi nchi wala demokrasia.
+# s1997 lowercase fragment
+alivuliwa nyadhifa zote rasmi na viongozi wakuu wa chama mapema siku ya ijumaa asubuhi.
+# s1998 photo caption
+Mafuriko katika kijiji kusini mwa Manila.
+# s2001 kubaki for wanabaki
+Michango ni mingi, na bado waathirika wa kimbunga kubaki na njaa na kuhisi baridi.
+# s2222 space before full stop
+Fomu ya maombi imeambatanishwa kwenye maoni ya tukio hili .
+# s2313 uawa
+Wanaharakati wameshateswa, uawa na hata kufungwa jela.
+# s2430 fragment
+Mtoto wangu ambaye sikuwahi kuonana naye kwa miaka saba.
+# s0662 Ikijikuta for Ukijikuta
+Ikijikuta umeshikwa na dubu msituni, hakika yako bora ni kuanguka chini na kujifanya umekufa.
+# s1548 "kumrejeshea kutabasamu"
+Nilijiwazia na kumrejeshea kutabasamu, kwa hamu nikisubiri ufafanuzi wa chakula cha jioni.
+# s2308 unaokosolewa (relative in main clause)
+Kwa hakika, utawala wake wa kiimla nchini humo unaokosolewa sana.
+# s1662 "nitakuwa naangalia" non-standard, stray capital "kwa Karibu"
+Huku uchaguzi unazidi kukaribia, nitakuwa naangalia kwa Karibu ili kuona jinsi mashirika haya yanavyoendelea.
+
+# english: English mistranslates the sentence
+# s0973 QA english
+Duka hili hufunga saa tisa kila usiku.
+# s0212 QA english
+John anajua historia yote ya Kiingereza.
+# s0260 QA english
+Una mifuko yoyote ya kuangalia?
+# s1122 QA english
+Je, kuna biashara gani hapa?
+# s1179 QA english
+Kwa kweli nilikula mayai kadhaa Jumapili ya Pasaka.
+# s1457 QA english
+Mwaka jana alichuma dola 5,200 kwa kupeleka watu Mlima Rainbow.
+# s1605 QA english
+Blogu hii inakuletea udadisi na maoni.
+# s1174 QA english
+Dani alikuwa ndani ya nyumba yake aliposikia Matt na Linda wakibishana barabarani.
+# s0171 QA english
+Kisha akavaa, akaingiza maandishi yake ya hotuba ndani ya muhtasari wake, akakimbia ngazi.
+# s0282 QA english
+Wanawasha P kwenye thieta.
+# s0628 QA english
+Ukirudia utani mara mia mbili hamsini na sita, itachekesha kila mtu.
+# s0679 QA english
+Nchini Amerika, wimbi linamaanisha "kwaheri."
+# s0959 QA english
+Nyama ya ardhini ilipatikana na nyama ya farasi.
+# s1026 QA english
+Natumaini Bibi atapenda ya sasa.
+# s1164 QA english
+Amerika ina karibu mara nne ya idadi ya wafungwa ulimwenguni.
+# s1401 QA english
+Tulijiingiza katika tatizo hili.
+# s0204 QA english
+Kuzungumzia Profesa Smith, msaidizi wake ni mgumu kusikiliza.
+# s0337 QA english
+Tumekuwa tukijadili masuala madogo; ni wakati muafaka kuanza kuzungumzia Uturuki.
+# s0624 QA english
+Licha ya lishe yangu, sikuweza kusaidia kuchukua kipande cha keki ya chokoleti.
+# s0693 QA english
+Kivuli chako cha saa tano kinaumiza mazingira.
+# s1052 QA english
+Je, kweli uliigawa sharubati ya machungwa?
+# s1312 QA english
+Kugeuzwa kwa goti ni upasuaji mkubwa.
+# s1771 QA english
+Licha ya kunipigia kelele kali kwenye ngoma za masikio yangu, ananisaidia kupata utulivu.
+# s2390 QA english
+Na zungumzia masuala mahususi yanayowagusa watu.
+# s2410 QA english
+Lakini hali hiyo inakuwa kama inadhalilisha utu wa mwanadamu.
+# s2429 QA english
+Muhula wa pili unawasaidia wanafamilia.
+# s2562 QA english
+Kuna pia suala la kukosekana kwa elimu ya uzazi.
+# s0601 QA english
+Kanisa hili la ajabu la zamani ndilo jengo kongwe zaidi katika nchi yetu.
+# s0787 QA english
+Kanisa hili liliharibiwa na moto wa binadamu.
+# s2093 QA english
+Nilibanwa mara tu baada ya jengo kuporomoka.
+# s0179 uso "surface" (pack: face); EN "fairly rough" for mbaya
+Uso wa kitu ni mbaya.
+# s0253 idiom "head in the clouds" for mawazo mengi; kuwa + na split
+Gordon amekuwa na mawazo mengi wiki nzima.
+# s0865 "want to" rendered "have to"
+Unataka kula chakula cha mchana kwa muda gani?
+# s1024 "blood brothers" for ndugu wa tumbo moja
+Joe na Shane wanakuwa kama ndugu wa tumbo moja.
+# s1571 "Im" typo, loose
+Umetoka mbali, na kama Muiraki ninakutegemea.
+# s1646 EN does not match
+Mabishano haya yana sauti kubwa kama chombo chenyewe.
+# s1678 EN garbled
+Mara tu tumbo linaunguruma kama vile ambavyo haujawahi kusikia.
+# s1889 "death toll" loose; deaths
+Naamini waliokufa ni wengi zaidi.
+# s1988 conditional rendered past
+Ingekuwa rahisi kuzingira eneo hilo na kuwakamata waliohusika.
+# s2220 EN does not match
+Hawawezi kuruhusu mambo fulani kuwapata.
+# s2343 EN "that seems" for mambo yalikuwa
+Safari hii mambo yalikuwa tofauti.
+# s2370 EN drops "kupitia blogu yako"
+Unataka kutoa habari kupitia blogu yako?
+# s0305 "saa nzima" is the whole hour, not around the clock
+Polisi wanachunguza sababu ya ajali hiyo saa nzima.
+# s0324 "Tutaweka kilima": EN "mount a hill"
+Tutaweka kilima karibu na shule yetu Jumapili hii.
+# s0333 EN garbled ("doubts to a child")
+Kuna mashaka mengi kuhusu mtoto.
+# s0402 EN is another sentence
+Hueleza kwa muhtasari mada kuu za somo.
+# s0472 dai (claim) linked as kudai; EN "alibi"
+Dai lake limezidi tuhuma.
+# s0492 Swahili "threw", EN "kicked"
+Alitupa mpira nje ya uwanja.
+# s0555 calque, EN not carried
+Rangi za mafuta zinaonyesha kufaidi kwa mbali.
+# s0574 meaning garbled
+Ni wakati utaweza kuhama ndipo utafahamu thamani halisi ya afya.
+# s0694 calque "kilima cha wafugaji" (Breed's Hill)
+Waingereza waliteka kilima cha wafugaji.
+# s0697 Maadui (enemies) for "the Allies"; capitalised
+Jeshi la Wajerumani lilifanya juhudi za mwisho kuwashinda Maadui wao.
+# s0741 calque "pipi za pamba", "tamasha ya serikali"
+Tulikula pipi za pamba kwa tamasha ya serikali.
+# s0764 "wa kupanga" is not "foster"
+Jimmy ni mtoto wangu wa kupanga.
+# s0791 "lishe" (nutrition) for the National Diet
+Je! Ulisikiliza matangazo ya mjadala wa lishe ya kitaifa?
+# s0838 "karibu na chumba" is near the room, EN "all over the room"
+Mvulana akamshika dada yake kwa miguu na kumvuta karibu na chumba hadi akakubali kushindwa.
+# s0875 EN "against" for kuhusu
+Taarifa kuhusu kupunguzwa kwa mpango wa kijamii imesomwa.
+# s0933 EN "getting busted" for kuaibishwa
+Ningependa kukaa jela miezi sita badala ya kuaibishwa.
+# s0996 "saa nzima" is the whole hour, not around the clock
+Wafanyakazi wetu wanafanya kazi saa nzima kurekebisha uharibifu unaosababishwa na dhoruba ya barafu.
+# s1040 "nusu" (half) against EN "complete harmony"
+Wakati huo, nilihisi maelewano nusu na ulimwengu.
+# s1072 tahadhari (caution) for "risk"
+Hiyo ni tahadhari unahitaji kuchukua.
+# s1186 kinyago (mask) for "clown"
+Niliona kinyago cha kuchekesha na pua kubwa nyekundu.
+# s1251 EN not carried
+Mita chache za juu za bahari huhifadhi joto kama mazingira ya Dunia.
+# s1255 EN garbled
+Umaarufu hauna utani, wala jicho halijali imani.
+# s1280 mkahawa (restaurant) for "hotel"
+Nimegundua tu kuwa mkahawa wangu niupendao umefunga biashara.
+# s1336 pun on "fence" lost
+Uzio ni mhalifu anayenunua bidhaa za kuibwa na kuziuzia watu wengine.
+# s1384 muhuri (stamp) for the animal seal
+Muhuri huu unaweza kuweka mpira kwenye pua yake.
+# s1439 kutazama (look at) for "flip over"
+Je, unaweza kutazama rekodi?
+# s1461 saa tisa jioni is 3 pm, EN "nine in the evening"
+Saa tisa jioni, tulitembelea Anne Frank House.
+# s1512 mishipa (veins) for "muscles"
+Mazoezi ya mwili hufanya mishipa ikae sawa.
+# s1569 EN adds a second sentence
+Kila kipande cha habari kinaweza kuunganishwa katika maneno mengi.
+# s1695 EN adds "of Africa"
+Kuonyesha taswira zenye mizani iliyolingana ni jambo muhimu.
+# s1751 EN garbled ("began to dance")
+Tulipokuwa tunaliingiza gari mahali pa maegesho, gari letu linaanza kucheza.
+# s1769 EN does not match
+Kumbe ilikuwa ni shukrani kutoka kwa jirani yao.
+# s1872 fragment, EN garbled
+Yalikuwa na malipo ya vitendo vyao.
+# s1937 EN names another person
+Hivi sasa mhariri wa gazeti hilo ni Wb.
+# s1960 EN adds Kenya and officials
+Ufisadi umeenea sana kati ya wanasiasa.
+# s2002 EN does not match
+Watu hawa wamekuwa wakihojiwa mara kwa mara.
+# s2166 EN "had her son married" for alipooa
+Hata mtoto wake mdogo kabisa wa kiume alipooa, tuligundua namna alivyofunzwa na Meena.
+# s2178 EN does not carry Venezuela
+Kiwango cha kupuuzia hali ya mambo inayoendelea Venezuela kinashangaza sana.
+# s2197 EN adds "journey abroad"
+Krismasi ilikuwa inakaribia na kwa mara ya kwanza niliamua kumtembelea shangazi yangu kipenzi.
+# s2264 EN garbled
+Tayari nyumba imevunjwa na madaraka yamerudishwa kwa watu wale wale.
+# s2320 EN reverses the clause
+Wanachaguliwa kuleta mabadiliko lakini wanashindwa, wakati sisi raia tunawashinikiza.
+# s2347 EN does not match
+Kwenye mstari wa mbele, wasiwasi unakumba pande zote.
+# s2436 EN "lives pass by us" vs hayakuathiriwa
+Kushikiliwa gerezani kulitufanya kujisikia kuwa maisha yetu hayakuathiriwa.
+# s2440 EN adds Somalia/Kenya
+Na ndipo aliposafiri kuelekea kwenye kambi ya wakimbizi ya Dadaab.
+# s2446 interview prefix, EN loose
+MN: Ninafikiri kuwa kasi ya mtandao itapungua.
+# s2481 EN fragment
+Tunafanya lolote liwezekanalo kukuza uchumi wa nchi.
+# s2482 EN flashmob not in SW
+Tunaunga mkono harakati za wa-Belarusi!
+# s2543 EN typo "bigger that fear"
+Ndio, lakini wajibu ni mkubwa kuliko hofu hiyo.
+# s2576 EN fragment
+Mkuu wa ulinzi akasema haihitaji.
+# s2585 EN drops second clause
+Siwezi kuzungumzia uzoefu wa watu wengine lakini naweza kuzungumzia uzoefu wangu.
+# s2606 EN mismatch
+Bila shaka, suala la weledi, halifungwi na asili ya mtu, daraja na jinsia.
+# s2610 EN "thick skin" not in SW
+Lazima viongozi wa umma wategemee kuliendeleza hili?
+# s0310 EN question, alama ya kikomo is full stop
+Utaweka alama ya kikomo kabla ya majina ya wanafunzi waliofanikiwa.
+# s0505 anajitolea (volunteers) vs "panting"
+Anajitolea kucheza mpira wa kikapu.
+# s0584 EN adds ear
+Nilikutana na daktari wa pua na koo kwenye sherehe Jumapili.
+# s1558 "Dad A" handle
+Dad A, nashukuru kwa utani wako.
+# s1610 EN "fears sells"
+Vyombo vya habari siku zote hukuza hali ya mambo, kumbuka kwamba hofu huuza.
+# s1691 EN typo "fund out"
+Baadaye tuligundua kuwa ilikuwa kweli.
+# s1879 EN typos
+Katika umri wako na hicho unachokiita uzoefu hujui hata namna serikali inavyoendeshwa.
+# s1922 EN mismatch
+Ni kitendo cha halali?
+# s2104 EN typo
+Uharibifu ulikuwa wa kusikitisha kidogo wakati tunaingia manispaa ya Ivisan.
+# s2354 caption EN mismatch
+Kwa hisani ya MadhuMondol.
+# s2394 EN mismatch
+Labda kufanana kwa miili ni ndoto.
+# s2421 EN "reducing appreciably"
+Hata hivyo, hatari yake ni kupoteza lengo halisi la elimu.
+# s2453 EN "Bioscope"
+Watoto wakifurahia onesho la sinema.
+# s2469 EN garbled
+Tafadhali endelezeni ustaarabu mliouonesha kwa kipindi chote, msiguse raia wala mali zao.
+# s2497 wataozea jela vs "cram the jails"
+Waandishi wa habari za kiuchunguzi wataozea jela.
+# s2539 EN mismatch
+Hatimaye nilifikia uamuzi wa kulivunja kabati na kuchoma nguo zilizokuwemo.
+# s1611 EN garbled
+Ningeelewa sehemu ya kuchangia mkahawa.
+# s2526 EN "high way"
+Mitandao ya kijamii ni barabara kuu.
+# s2467 EN mismatch
+Hakuna taarifa za mwenye picha kwenye tovuti hiyo.
+# s1983 EN "divide the people" vs mgogoro
+Hii itapelekea mgogoro miongoni mwa watu na pia katika jeshi.
+# s0005 EN "surprised that when"
+Nilistaajabu niliposikia kuwa kweli watu hawali mboga za majani.
+# s0053 EN "anti-science poverty"
+Nimetosha na umaskini wako wa kupinga sayansi.
+# s0074 mizimu (spirits) vs "monster"
+Kusikia nyayo za mizimu, wakaanza kukimbia pande zote.
+# s0092 Mfalme (king) vs "prince"
+Mfalme aligeuzwa na uchawi kuwa chura.
+# s0118 idiom calque "fifth wheel"
+Robert ndiye gurudumu la tano kwenye kamati ya usalama.
+# s0119 calque "sherehe ya mshtuko"
+Sherehe ya mshtuko kwa Laura sio usiku wa leo, lakini kesho usiku.
+# s0156 twiga vs "tiger"
+Dubu ni mnyama mwenye urafiki akilinganishwa na twiga.
+# s0222 utendaji vs "treatment"
+Utendaji huo ungefanya mtu yeyote kuasi.
+# s0231 masafa (distance) vs "frequency"
+Masafa ya uhalifu mjini ni kubwa.
+# s0246 EN garbled
+Ningependa viti viwe karibu na yadi hamsini kutoka kwa bustani.
+# s0250 EN "rough material" not in SW
+Kitu kilimuumiza mtoto ngozi yake nyororo.
+# s0259 EN "has his secretary type"
+Katibu wa Bw. Wood alimwandikia barua zake.
+# s0291 EN "relative terms"
+Maneno 'mrembo' na 'mbaya' ni maneno ya kawaida.
+# s0306 EN ad agency mismatch
+Shirika lina hela nyingi kwenye akaunti hii.
+# s0324 EN "made for a pond"
+Tulitengeneza bwawa chini ya kilima.
+# s0352 gurudumu la kuruka vs "spinning wheel"
+Sijui jinsi ya kuendesha gurudumu la kuruka.
+# s0419 ghorofa ya chini vs "underground"
+Kuna eneo la ununuzi kwenye ghorofa ya chini.
+# s0504 calque "funny bone"
+Anapiga mayowe hata ukimgusa mfupa wake wa kuchekesha.
+# s0565 EN proverb mismatch
+Kulipiza kisasi ni jambo linalofanywa kwa utaratibu.
+# s0593 calque "turned green"
+Alipogundua mafanikio ya wengine, alibadilika kijani kwa wivu.
+# s0601 vibaka (pickpockets) for fireworks
+Ghala lililojaa vibaka vya moto visivyo halali lililipuka na kuharibu jiji lote.
+# s0631 ghali (expensive) vs "rare"
+Almasi kamili ni Vito ghali sana.
+# s0641 nguo baridi vs "wet clothes"
+Hoteli ilitoa waya bafuni kwa kuanika nguo baridi.
+# s0642 EN "world's largest zoo"
+Mbuga kubwa sana ya wanyama iko Berlin, Ujerumani.
+# s0648 EN mask/ball vs kofia
+Ulimwengu ni mpira mzuri ambao kila mtu amevaa kofia.
+# s0653 idiom calque
+Kwa kweli mwalimu wangu wa zamani wa Kiingereza anaganda kaburini mwake.
+# s0655 calque "shahidi wa tahadhari"
+Shahidi wa tahadhari alimtambua mhalifu.
+# s0723 yataangaziwa vs "upper hand"
+Inaonekana kwamba maambukizi yataangaziwa, lakini bado ninapambana nayo.
+# s0748 EN mismatch
+Bila shauku alijitolea kwa vyovyote vile kwa ajili ya kuwalea watoto wake.
+# s0751 chini ya mawimbi vs "above the waves"
+Punde, niliweza kuona shingo yake ikiwa chini ya mawimbi.
+# s0767 nyenzo (tools) vs "material"
+Nyenzo sio sumu yenyewe.
+# s0809 idiom mismatch
+Anataka kishindo kikuu kwa mume wake.
+# s0828 utakuwa (you) vs "they"
+Je, utakuwa huru Ijumaa alasiri?
+# s0852 Kiingereza vs "English Channel"
+Kiingereza ndicho kinachotofautisha Uingereza na Ulaya.
+# s0853 EN idiom added
+Hakikisha ubongo unafanya kazi kabla ya kuzungumza.
+# s0862 chai vs "coffee"
+Mbona usiingie ili tunywe chai?
+# s0891 ushawishi vs "bargain"
+Kitabu hiki kilikuwa ushawishi mkubwa.
+# s0906 EN "Hello Kitty"
+Ninataka bodi ya penseli ya Hello.
+# s0958 calque "Uokoaji muda"
+Uokoaji muda huanza mwezi wa nne, tarehe 3.
+# s0975 EN garbled
+Miaka kumi na mitano, hakuna urembo au talanta iliyoko: mwanamke ni ahadi tu.
+# s0991 ghorofa ya chini vs "two floors below"
+Mkahawa uko kwenye ghorofa ya chini, ghorofa mbili chini.
+# s1010 headline, ameaga ambiguous
+Rubani kijana anayeendesha ndege kote ameaga.
+# s1020 EN nonsense
+Malkia hutabasamu kwa furaha. England inaruhusiwa kubaki sehemu ya Scotland.
+# s1027 calque "kandanda ya mguu moja"
+Kama kawaida timu za Uhispania zinaonyesha ustadi wao kwenye kandanda ya mguu moja.
+# s1028 EN typo "broke drown"
+Gari yetu iliyokodishwa iliharibika wakati wa safari.
+# s1032 kivuli (shade) vs "shed"
+Niliziba mwanya mdogo kwenye paa la kivuli chake.
+# s1095 bata mzinga (turkey) vs "goose"
+Dada yangu hajui tofauti kati ya bata mzinga na bata.
+# s1109 EN second clause mismatch
+Inaonekana kwamba swali lilikuwa rahisi sana kwako. Wakati ujao nitajitahidi zaidi.
+# s1110 kando na (beside) vs "opposite"
+Daktari alikaa katika nafasi yake ya kawaida, kando na Grace.
+# s1148 EN "This stuff is terrific"
+Msongamano huu wa magari ni mkubwa.
+# s1187 EN mismatch
+Ni upuuzi gani huu! Nilisahau funguo zangu!
+# s1200 siagi/chungwa vs sugar/lemon
+Siagi ni tamu, chungwa ni kali ... na ni nini chungu?
+# s1226 EN "Punch & Judy"
+Natumai kuwa onyesho hili la Punch & Judy limekaribia kukamilika.
+# s1257 EN "far left/right"
+Pembeni mwa kushoto na kulia zinafanana kuliko unavyodhania.
+# s1342 mjukuu (grandchild) vs "nephew"
+Yeye ni mjomba mzuri kwa mjukuu wake.
+# s1436 calque "eneo la risasi"
+Muigizaji aliondoka eneo la risasi haraka haraka.
+# s1451 EN typo
+Wanafunzi wengi walisitishwa kwa kukosa sare ya shule.
+# s1462 archaic EN "ye"
+Lakini nitateka maji kidogo, na kunawa miguu yenu, na mpumzike chini ya mti.
+# s1487 EN "The Negro"
+Mtu mweusi aling'olewa kutoka katika ardhi yake na kuuzwa kama bidhaa, utumwani.
+# s1488 EN mismatch
+Alibanwa pande zote na alikuwa hana pa kutokea zaidi ya kukumbana na hatima yake.
+# s1520 EN garbled
+Napita maishani nikiwa na jicho linalolenga kutengeneza historia na kuiorodhesha.
+# s1521 EN duplicated word
+Rais Ravalomanana alikwenda kwenye moja ya maeneo yaliathirika na kimbunga ili kutathmini madhara yaliyotokea.
+# s1533 EN garbled
+Giza na mvua ya moto inanyesha.
+# s1540 EN "and nothing"
+Hakuna intaneti wala setilaiti za idhaa za televisheni.
+# s1564 EN mismatch
+Magonjwa yaambukizwayo yana historia ndefu na Hija.
+# s1570 wanahimizwa vs "yelling"
+Wauza samaki wanahimizwa kurejea kazini.
+# s1585 EN mismatch
+Hata hivyo, si wanablogu wote wamepokea uteuzi huo kwa ukosoaji mkali.
+# s1598 EN mismatch
+Hautakuwa mpira wa Afrika kusini mwaka ujao.
+# s1619 EN typo
+Mwelimishe yeyote asiyejua suala hili.
+# s1627 EN garbled
+Mwishowe, uhaba wa maji huchangia katika kuongeza umaskini na vyote hivyo husababisha maradhi.
+# s1633 EN nonsense
+Uadilifu unatafsiriwa vibaya zaidi na maumbile.
+# s1671 waandamanaji vs "participants"
+Wengi wa waandamanaji wameshawasili mjini Cairo kwa ajili ya maandalizi.
+# s1689 EN fragment
+Yote ni katika kubana matumizi.
+# s1802 EN "guaranteed"
+Kama mashaka yangu yana msingi, basi nawasilisha rambirambi zangu.
+# s1858 EN mismatch
+Kuna kejeli kubwa sana inayonifanya nizidiwe na hisia.
+# s1894 EN mismatch
+Pengine wangejifunza kutumia njia mbadala ya kuchukua hatua za kinga dhidi ya watuhumiwa.
+# s1899 EN txt-speak
+Ninajivunia sana kwa ajili yako wewe ni mwana wetu ...umetengenezwa kwa chuma cha pua.
+# s1929 EN "its the high time"
+....Hata hivyo, Kenya yafaa itathmini upya kanuni zake za ukarimu.
+# s1935 EN "my mind feel"
+Sifahamu ni kwa nini akili yangu inajisikia kuchanganyikiwa, yenye huzuni na masikitiko.
+# s1975 EN agreement "continue"
+Kubana uhuru wa kujieleza katika nchi ya Yemeni kunaendelea.
+# s1983 EN "aesthetic"
+Huu ni muonekano wa matokeo ya mkusanyiko wa mawazo chanya.
+# s2016 EN carries a photo credit
+Vijana washikilia mabango nje ya Bunge, kupinga sera ya kubana matumizi ya serikali.
+# s2018 EN mismatch
+Na nilivyopigwa, hakuna mtu mtaani angekuwa tayari kutoa ushahidi namna walivyoninyanyasa namna ile.
+# s2052 EN "inflicted everyone"
+Mawazo ya kimadhehebu ya aina hii yamemtesa kila mmoja.
+# s2060 EN mismatch
+Lakini kuliendelea kuwa na maneno ya ugomvi wa hapa na pale.
+# s2074 EN mismatch
+China inategemea pembe za ndovu kuzalisha bidhaa hizo.
+# s2079 EN mismatch
+Ni mapema mno kuongelea kama wao watafanya kazi kama watumwa.
+# s2114 imeshatangazwa vs "lifted"
+Kimbunga hiki kimeshatulia na hali ya hatari imeshatangazwa kisiwani humo.
+# s2139 EN mismatch
+Unajua kuwa bajeti halisi za nchi zetu haziendani na hali hii?
+# s2175 idiom calque
+Chungu kuliita jiko kuwa ni jeusi.
+# s2188 chui vs "leopard cat"
+Chui wameorodheshwa kama wanyama wanaoishi kwenye mazingira magumu nchini Taiwan.
+# s2260 EN "act pathetic"
+Watu muache kufanya mahitimisho hapa na kuilaani na kukejeli sheria yetu.
+# s2284 EN mismatch
+Sisi tunatengeneza uhai na tunatafuta majibu.
+# s2301 Naija vs "Niger"
+Kijana mmoja wa Naija alisukumwa kujibu mapigo.
+# s2302 EN "ritual"
+Hakuna kilichokuwa muhimu zaidi ya kuwaenzi marehemu hao.
+# s2307 EN mismatch
+Tunawatakia majeruhi wa shambulio kupona kwa haraka.
+# s2311 EN mismatch
+Lakini nina wasiwasi kwamba hadhira hii inaweza isimsaidie mwanablogu.
+# s2320 vifo vya watoto vs "maternal mortality"
+Vifo vya watoto ni suala kuu linalohusiana moja kwa moja na mimba za utotoni.
+# s2336 EN mismatch
+Ni kupitia matendo haya, ubinadamu wetu unahuishwa.
+# s2338 EN duplicated "naming"
+Kumtaja marehemu kwa jina lake ni jambo kubwa kwenye utamaduni wa Afrika.
+# s2366 EN mismatch
+Hapakuwa na yeyote aliyethubutu kuhoji mila hiyo.
+# s2382 EN mismatch
+Fasihi inatufundisha kwamba lazima tuandae uchaguzi kubadilisha mambo.
+# s2393 interview prefix MN:
+MN: Uhuru wa kujieleza unaambatana na wajibu wake.
+# s2399 EN "crime" vs ufisadi
+Kuandika habari za ufisadi nao ni ufisadi nchini Botswana?
+# s2413 EN adds Accra
+Kwa nini kwa sasa kuna misururu mingi ya magari ya raia na ya kijeshi?
+# s2427 calque "get undressed"
+Lazima tuvue nguo tuchape kazi.
+# s2474 EN mismatch
+Walitolea ufafanuzi wa nyuso za wasichana wa Guatemala.
+# s2477 damu vs "death"
+Uanahabari wa Mexico, wakati wote wino unanuka harufu ya damu.
+# s2480 -fisadi vs "bigot"
+Utawala wa kifisadi unaweza kuutumia kuunyamazisha upinzani.
+# s2498 EN garbled
+Mara zote tumekuwa wa ajabu sana halafu tunatumia kama kisingizio cha uhuru wa kujieleza.
+# s2557 chuki vs "insult"
+Nani anaweza kuamua ufafanuzi wa chuki?
+# s2582 mmea (plant, vegetation) vs power plant
+Ripoti kwenye televisheni zinaonyesha moshi mweupe unaotoka kwenye mmea huo.
+# s0525 film title in quotes
+Kufikiria juu ya vitu vya aina hiyo, niliangalia tena "supu ya bata".
+# s0719 EN "stuffed bear" not in SW
+Nilitaka kununua dubu kubwa iliyokuwa imejaa duka la Ken, lakini haikuuzwa.
+# s0916 mfalme vs "princess"
+Wezi waliingia ndani ya kasri na kuiba almasi za mfalme.
+# s1255 upepo vs "path winds"
+Njia za upepo kando ya barabara.
+# s1507 EN "buzzzzing"
+Lipo pale ili kutengeneza mandhari yenye kelele.
+# s1536 EN garbled
+Kuna mambo mengine yanayochangia katika ugumu wa kupata maji.
+# s1594 EN "flied"
+Tulikuwa tumeketi mwishoni mwa behewa na mikoba yote ilipaa ikituelekea.
+# s1601 EN garbled
+Picha zake za watu wenye ushawishi ulimwengu zimefanywa kwa hisia ambazo mtu anaweza kuzigusa.
+# s1697 EN garbled
+Nina uhakika ungeweza kutumia pesa hizo kwa matumizi mazuri zaidi!
+# s1798 EN mismatch
+Wametenda dhambi lakini hawakutenda kosa la jinai, ni kufanya uamuzi.
+# s1837 EN mismatch
+Ni kwa vipi mambo yote haya hayatamfanya kuwa lolote bali mbarikiwa wa utumwa?
+# s1842 EN typo "nature talent"
+Hakuna miongozo mizuri ya kukuza talanta kwa kujitayarisha kwa utumishi kwa nchi.
+# s1893 EN "cadaver"
+Watu wakiwa wamekaa na maiti za wapendwa wao huko Quetta.
+# s1931 EN mismatch
+Amejitetea kwa kutengeneza mfumo wa kuwanufaisha wafanyakazi pamoja na juhudi za serikali kuzalisha ajira.
+# s1934 EN mismatch
+Ninaweza kunusa harufu ya ushindi maili chache hivi kwa mcheza kriketi huyu.
+# s1957 EN mismatch
+Utawala wa sheria unaziacha mbali nchi nyingi ambazo zingestahili.
+# s2101 EN mismatch
+Waislamu hawadanganyi ...Hatuna siku ya wajinga.
+# s2115 kina (deep) vs "shallows"
+Pia kuna mifupa mingi iliyozikwa katika matope ya kina, lakini watu hawatoi taarifa tena.
+# s2176 EN "my introduction"
+Sasa ni vyema nitoe ufafanuzi kuhusiana na kundi hili la Waislamu.
+# s2285 calque "prison of conscience"
+Alaa si gereza pekee la dhamira.
+# s2457 EN contradicts SW
+Ubinadamu ni kuwaombea na kuwa na matumaini.
+# s2052 EN mismatch
+Tunawatakia matumizi mema ya fedha walizolipwa kwa kazi ya ziada.
+# s2409 EN garbled
+Watalazimika kumbeba kila mwanamke anayepoteza damu mpaka kufa kwa ajili ya dhamira zao.
+# s2485 mandhari vs "theme"
+Njia za maji za barani zinaweza kuwa mandhari mzuri ya kufanyia likizo.
+
+# policy: content policy (romance/dating, alcohol, music/dancing, gambling, mockery of religion, violence)
+# s0900 QA policy
+Nilisikia kuwa Mr Collins alikuomba akuoe.
+# s1110 QA policy
+Sikuchezei. Watu wengine kweli wanaamini kuwa ulimwengu una miaka elfu sita tu.
+# s2440 QA policy
+Nilikutana na ndugu wa vijana waliokuwa wakilitangaza kundi la ISIS kwenye mitandao ya kijamii.
+# s0420 QA policy
+Sijamwona Karen tangu tuachane mwezi uliopita.
+# s0991 QA policy
+Ni majira ya joto kila mwaka ninapokuwa nawe.
+# s0939 QA policy
+Waitaliano wa Kimarekani wanajulikana kwa kutoweza kuongea Kitaliano. Ni aibu kweli!
+# s1275 QA policy
+Hapo zamani, watu walikwenda kanisani ili kukiri. Siku hizi wanaandika kwenye Facebook.
+# s1352 QA policy
+Walikuwa wamefungwa kwa kukumbatiana sana.
+# s0691 QA policy
+Sio mahali pa hatari kabisa, ni kama baa za kuruka.
+# s0989 QA policy
+Farasi anatembea ndani ya baa. Bartender anauliza, "Kwa nini umekasirika?"
+# s1327 QA policy
+Je, unaniambia kuwa ni kawaida kabisa kumdanganya mke wangu?
+# s1877 QA policy
+Na huwa tunajazana kwenye sehemu hizo mpaka mtu unapata shida kupita ili kujinunulia kinywaji.
+# s2325 QA policy
+Baadhi yao ni walevi, hata kama wanajua pombe ni haramu kidini.
+# s1902 QA policy
+Ninawapenda, tafadhali msipoteze matumaini. Tunaweza kuonana tena, tunawaombea.
+# s2245 QA policy
+Kwa hiyo Yesu ni mzungu kila anapotokea.
+# s1032 QA policy
+Ukweli, katika masuala ya dini, ni maoni tu yaliyosalia.
+# s1507 QA policy
+Pesa, ajenda za kisiasa na dini ndizo sababu ya chuki na vita vingi.
+# s2096 QA policy
+Zaidi, utoaji mimba una madhara ya afya ya kisaikolojia na kimwili kwa wote waliohusika.
+# s2097 QA policy
+Ninapinga kabisa utoaji wa mimba.
+# s2217 QA policy
+-Theluthi ya mimba zote hazikutarajiwa, na theluthi ya mimba hizi husababisha utoaji wa mimba.
+# s1012 prayer to the Virgin
+Omba kwa Bikira Mtakatifu.
+# s1308 alcohol (drunk); kaa for onekana
+Unakaa kuwa umekunywa pombe.
+# s0018 alcohol (kunywa pombe)
+Yeye amekwisha kunywa pombe.
+# s0113 romantic adventure (kuvinjari kimahaba)
+Nilikwenda Kusini mwa Pasifiki kuvinjari kimahaba wakati wa majira ya joto.
+# s0118 scripture quotation (Kristo)
+Mimi si Kristo, bali nimetumwa ili nimtangulie.
+# s0272 marriage proposal
+Anne amekubali ombi la Henry.
+# s0811 argument about scripture authorship
+Kwa kweli Bibilia ni maandishi magumu ambayo haingeweza kuandikwa na mwandishi mmoja.
+# s0907 marijuana
+Bangi ya matibabu ni halali katika jimbo hili.
+# s1073 Halloween costumes
+Watoto wanaruhusiwa kuvaa mavazi yao ya Halloween shuleni kwa Halloween.
+# s1525 inflammatory political claim
+Amerika ni nchi ya kigaidi.
+# s1618 secret relationship (affair)
+Pia alikiri uhusiano wa muda mrefu na Carillo.
+# s1940 sexual-orientation penalties
+Ramani ikionyesha adhabu zilizokusudiwa kwa mashoga na wasagaji nchini AFrika.
+# s2023 family violence
+Loubna alipokataa kurudi, baba yake alitimiza adhabu aliyoipanga.
+# s1724 encourages slapping someone
+Kama unaweza kumpiga kofi, fanya hivyo.
+# s0144 romance relationship
+Brian anajuta kuanza uhusiano na yeye na anataka kumtoroka.
+# s0544 meeting an online contact at a bar
+Nilimtafuta kwenye baa mtu niliyekutana naye mtandaoni, lakini hakukuwa na mtu aliyeonekana kama huyo.
+# s0589 music gig at a club
+Tunaye tamasha kwenye kilabu kesho usiku.
+# s0714 dating
+Fred alimpenda Jane na wakaanza kuonana.
+# s0735 Christian revelation testimony
+Ghafla, Roho Mtakatifu alianza kuniambia mambo yaliyofunuliwa katika ushuhuda huu.
+# s0736 Bible narrative (Isaac sacrifice)
+Basi, Abraham alimuamuru Isaka alete kuni mahali pale, naye akaleta upanga wake na moto.
+# s0745 beauty contest
+Anapanga kushiriki katika mashindano ya urembo.
+# s0755 lucky saint charm
+Ninaweka mtakatifu huyu mdogo kwenye mkoba wangu kwa sababu ananiletea bahati nzuri.
+# s0947 romance
+Romeo alimpenda sana Juliet kuliko vile alivyofikiria, na hakuweza kuvumilia kumpoteza.
+# s1096 Christian devotional
+Unakaribia Yesu kwa nyakati za gumu, sio nyakati za urahisi.
+# s1431 romance
+Upendo utawafanya wanaume kuthubutu kufa kwa wapendwa wao.
+# s1464 Bible narrative
+Tazama, malaika wa Bwana kutoka mbinguni akamwita, akisema, "Ibrahamu, Ibrahimu!" Naye akajibu:Mimi hapa.
+# s1469 dismembering a corpse
+Ni bora kugawa maiti vipande vitano.
+# s1472 Genesis, "paradise of pleasure"
+Bwana Mungu akamtuma kutoka paradiso ya raha, ili atunze ardhi ambayo alitwaliwa.
+# s1616 promotes homosexuality
+Mimi ninautangaza ushoga kwa hasira katika blogu hii, nikilalamikia sheria kama hii.
+# s1706 wapenzi (lovers)
+Linaweza kuwa na manufaa kwa wapenzi waliotengana lakini watoto wao ndio watakaoteseka zaidi.
+# s2200 dog eating a corpse
+Tulipowasili, mbwa alikuwa akila mabaki ya maiti.
+# s2210 domestic violence scene
+Alimfungia mlango na kuchapa kibao.
+# s2211 sexual-violence implication
+Alimwamuru kuwa kimya na kuvua nguo.
+# s2344 assisted dying
+Bila sheria hizo mgonjwa atapaswa kwenda mahakamani kupata ruhusa ya kusaidiwa kufa.
+# s2514 body-image protest context
+Mungu aliwaumba wanaume na wanawake na kuwapa uzuri unaofanana.
+# s0578 "birds and the bees" talk
+Punde si punde, kila mzazi atabidi azungumze na watoto wake kuhusu ndege na nyuki.
+# s0856 falling in love
+Ninakumbuka vyema shauku ya kupenda ambayo ilimiliki mwili na roho yangu yote nilipoanza kupenda.
+# s1044 "sins are not wrong" joke
+Ndio, nilisema kuwa kuua ni dhambi, lakini sikusema kuwa madhambi ni mbaya.
+# s1092 Christian teaching
+Yesu alituambia tuwageuzie shavu lingine, tuwapende maadui zetu, na tuwaombee.
+# s1160 marching band (music)
+Naweza kujiunga na bendi ya kuandamana.
+# s1869 mocks God's creation
+Kama kweli uliiumba hii mbingu, kwanini usingewaita watu nchini Iran waje waione?
+
+# link: token linked to the wrong pack word, no general rule fixes it
+# s0563 QA link (swala "the point" read as prayer)
+Swala ni kuwa ni wadogo sana.
+# s2332 QA link: waathirika read as a verb, wakubwa linked as mkubwa (noun); war scene
+Ndege za kivita zinalipua majengo, lakini watu na watoto wadogo ndio waathirika wakubwa.
+# s0327 Kifo capitalised mid-sentence, unlinked
+Rafiki na adui mbaya zaidi ni Kifo.
+# s0550 siku za usoni "future" linked as uso "face"
+Ningependa kushiriki katika biashara ya kigeni, siku za usoni.
+# s0571 aje (how) linked as kuja
+Mapato ya kijumla ya mwaka uliopita yalikuwa aje?
+# s1296 karibuni (welcome) linked as "soon; recently"
+Mabibi na mabwana, karibuni tuwe pamoja.
+# s1913 kutumiwa (be sent) linked as kutumia (use)
+Hata kama hautapenda kutumiwa bango, tutakushukuru kwa mchango wako.
+# s1964 kukatiwa (be cut off) linked as kutia
+Katika kujiandaa na matarajio ya kukatiwa mtandao, huduma ya Kutwiti kwa kuongea maneno imetengenezwa.
+# s2283 wape (give them) linked as kuapa
+Wape wazee wa namna hii muda wako mdogo.
+# s2589 thamana (bail) linked as thamani
+Muda mfupi baadaye mtu huyo alitolewa kwa thamana.
+# s1774 miongoni linked as mwongo (decade)
+Takwimu zinaonyesha kiwango kikubwa cha kushuka kwa mwenendo miongoni mwa wafanyakazi vijana.
+# s0546 kwa undani linked as kuunda
+Historia yake ya uhalifu ni ya mauaji, lakini hawezi kuongelea kwa undani.
+# s0797 Kulia kwa nyuki (buzzing) linked as kulia "right"
+Kulia kwa nyuki kunanifanya kuwa na wasiwasi kidogo.
+# s0696 dhamiri linked as dhamira
+Sayansi bila dhamiri ni uharibifu wa roho tu.
+# s0740 zimepagawa linked as kugawa
+Kulingana na hadithi, kuni hizo zilikuwa zimepagawa, kwa hivyo watu wangeepuka kuingia.
+# s0798 hisi (senses) linked as kuhisi
+Wanadamu wana hisi tano: kuona, kusikia, kugusa, kuonja na kunusa.
+# s1097 kulevya linked as kulewa
+Dani aliuza madawa ya kulevya kwa muuzaji hatari wa madawa za kulevya.
+# s1591 Karibia (welcome) linked as kukaribia
+Karibia kwenye blogu ya Afrika plastiki.
+# s1816 ziwafikie linked as kuafiki
+Rambirambi zangu ziwafikie familia yake na watu wa Montserrat ambao wanaomboleza kifo chake.
+# s2202 Kizito (name) linked as -zito
+Kizito Mihigo, hata hivyo, anafahamika kwa uanaharakati wake kwa masuala ya amani.
+# s2219 kulipa (give it) linked as kulipa "pay"
+Tatizo hili haliwezi tena kumalizwa kwa kulipa msisitizo hafifu.
+# s2261 mitoko (outings) linked as mto
+Chakula kizuri, mitoko, utamaduni na sherehe hupata nafasi kwenye ratiba.
+# s2065 kivile linked as kula
+Si kumaanisha kufungulia bomba la fedha kivile, ila namna unavyogawanya na kutumia fedha hizi.
+
+# agreement: wrong noun-class agreement
+# s0826 Venus ni kidogo (ndogo)
+Venus ni kidogo kuliko Dunia na Mars ni kubwa kuliko nusu ya Dunia.
+# s0026 farasi hii (huyu) si mweupe
+Farasi hii si mweupe.
+# s0840 Tulikuwa unatarajia
+Tulikuwa unatarajia jambo la kufurahisha litafanyika.
+# s1070 Ujerumani wa Mashariki (ya)
+Bado kuna tofauti nyingi za kitamaduni kati ya Ujerumani wa Mashariki na ya Magharibi.
+# s1436 nyota za sifuri haipo (hazipo)
+Ninatoa tu nyota hii nusu kwa sababu nyota za sifuri haipo.
+# s1824 yalikuwa jirani zangu (walikuwa)
+Wakati tulipokuwa tunaishi Uganda, yalikuwa jirani zangu.
+# s2192 Picha ya mikusanyiko ... zimekuwa
+Picha ya mikusanyiko hiyo zimekuwa zikisambaa kwenye mitandao ya kijamii.
+# s2566 maneno ambavyo yangeweza
+Muda mwingine ukimya unazungumza zaidi ya maneno ambavyo yangeweza.
+# s0035 farasi nyeupe (animal takes mweupe)
+Msichana ana farasi nyeupe.
+# s1004 chakula iliyotengenezwa
+Mkahawa huu huandaa chakula iliyotengenezwa kutoka kwa matunda na mboga za kikaboni.
+# s1075 Kisiwa hiki ni kubwa
+Kisiwa hiki ni kubwa mara sita kuliko Manhattan.
+# s0921 miongoni mwa ya Ulaya
+Mabenki ya Ujerumani ni miongoni mwa ya Ulaya yenye shida zaidi.
+# s0060 ubora ... inafurahisha
+Ikiwa ubora wa bidhaa yako inafurahisha wateja wetu, tutaweka maagizo ya kila mara.
+# s0085 Mpango uliotangazwa ... inatoa
+Mpango uliotangazwa Jumanne inatoa wito wa dola bilioni 54 kwa kupunguzwa kwa ushuru.
+# s0110 Kiasi cha karatasi inayozalishwa
+Kiasi cha karatasi inayozalishwa na nchi inahusiana sana na viwango vyao vya kitamaduni.
+# s0228 nyoka nyingi ... hawadhuru
+Nyoka nyingi katika kisiwa hiki hawadhuru.
+# s0232 mwili ... yenye afya
+Mvulana huyu ana mwili thabiti na yenye afya.
+# s0359 Mwenyeji waliwachinjia
+Mwenyeji waliwachinjia wageni bata mzinga.
+# s0414 nyongeza mkubwa
+Nilipata nyongeza mkubwa wa mshahara.
+# s0503 mkoba ... ambao imepotea
+Anatafuta mkoba wake ambao imepotea.
+# s0550 Upasuaji ... ilikuwa
+Upasuaji uliofanywa katika kliniki yetu, ilikuwa zaidi ya nusu saa.
+# s0629 Gwaride ilijumuisha
+Gwaride ilijumuisha bendi sita za kutembea.
+# s0633 Mandhari ... ulikuwa
+Mandhari ya bahari kutoka kwa barabara ulikuwa maridadi.
+# s0808 wezi mkubwa
+Anatafutwa kwa wezi mkubwa wa magari.
+# s0905 miradi hizi ... zimekamilishwa
+Hivi sasa, miradi hizi zote miwili zimekamilishwa.
+# s0953 Uwezo ... zinaweza
+Uwezo wa ukosefu wa uhusiano kati ya hafla zinaweza kufutiliwa mbali mara moja.
+# s1017 maamuzi zinazojulishwa
+Sote hufanya maamuzi zinazojulishwa na uzoefu wetu wa kibinafsi.
+# s1044 Kumekauka for machungwa
+Siwezi kufinya juisi nje ya machungwa haya. Kumekauka.
+# s1051 wasiwasi wetu kuu
+Wasiwasi wetu kuu ni usalama wa waliotekwa nyara.
+# s1151 malkia ambaye walikuwa
+Zamani za kale kuliishi mfalme na malkia ambaye walikuwa na mabinti watatu warembo sana.
+# s1180 Mpito ... iliporomoka
+Mpito wa baiskeli iliporomoka huko Rio.
+# s1423 duka hiyo
+Wanauza tarakilishi kwa bei nzuri sana kwenye duka hiyo.
+# s1795 mimi ... hawawezi
+Lakini mimi, na wengine wengi kama mimi hawawezi kudanganywa.
+# s2070 vumbi ... kimekwisha
+Kwa bahati nzuri, vumbi lilikuwa tayari kimekwisha mwishoni mwa wiki iliyopita.
+
+# sense: sentence does not illustrate the linked word's sense
+# s1896 pole (sympathy) for an apology
+Pole, hiyo ndiyo nyenzo pekee ya utambulisho wa wazi duniani kote.
+# s0175 hila (trick) for "subtle"
+Kuna tofauti hila kati ya mambo haya mawili.
+
+# register: register too advanced for its level
+# s0566 crude toilet-seat joke
+Waungwana, nyanyua kiti cha choo! Mabibi pia hupenda kukaa pakavu.
+# s0831 EN profanity
+Ni nani anayeandika upuuzi huu?
