@@ -4,8 +4,6 @@ These are the residuals from the sentence review, passages round and QA fix wave
 
 ## Before publishing
 
-- Merge branch engine-sw (through dda1561: `langs/sw.py`, the base `tools/bad_sentences.txt` hook and the `standalone_intj_ok` hook) to vocab-engine main. Then bump `engine/` to that main sha, rebuild, and run check.sh without `PACKBUILDER_PATH`.
-- Create the GitHub repo and publish only on a new user instruction. The user decision of 2026-09-27 is to hold.
 - Get a native-speaker review. No native speaker has read the sentences, glosses or passages.
 
 ## Sentences
