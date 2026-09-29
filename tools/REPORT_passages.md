@@ -9,7 +9,7 @@ a pack lemma can go unlinked when the tagger reads it with another POS).
 words = the builder's word count (the band rule); ws_words = whitespace-separated
 tokens of the passage text, the count the app shows (report only).
 
-- **A1**: 20 passages; words/passage 62-73 (median 65.5); ws_words 62-73; coverage min 1.000, median 1.000 (rule >= 0.95); linked min 1.000; questions mc 40, tf 60
+- **A1**: 20 passages; words/passage 62-73 (median 65.0); ws_words 62-73; coverage min 1.000, median 1.000 (rule >= 0.95); linked min 1.000; questions mc 40, tf 60
 - **A2**: 20 passages; words/passage 92-117 (median 100.5); ws_words 92-117; coverage min 0.967, median 1.000 (rule >= 0.95); linked min 0.967; questions mc 40, tf 60
 - **B1**: 20 passages; words/passage 112-131 (median 122.5); ws_words 112-131; coverage min 0.973, median 1.000 (rule >= 0.93); linked min 0.973; questions mc 49, tf 45
 
@@ -24,7 +24,7 @@ tokens of the passage text, the count the app shows (report only).
 | p0007 | A1 | Mvua na jua | 65 | 65 | 1.000 | 1.000 | - | A2: mlima |
 | p0008 | A1 | Chakula cha asubuhi | 64 | 64 | 1.000 | 1.000 | - | A2: kisha |
 | p0009 | A1 | Barua kwa rafiki | 63 | 63 | 1.000 | 1.000 | - | A2: tembelea, zawadi |
-| p0010 | A1 | Paka wetu | 66 | 66 | 1.000 | 1.000 | - | - |
+| p0010 | A1 | Paka wetu | 65 | 65 | 1.000 | 1.000 | - | - |
 | p0011 | A1 | Safari ya Mombasa | 69 | 69 | 1.000 | 1.000 | - | A2: treni |
 | p0012 | A1 | Siku ya Jumapili | 73 | 73 | 1.000 | 1.000 | - | - |
 | p0013 | A1 | Duka la Ali | 69 | 69 | 1.000 | 1.000 | - | A2: kamwe |

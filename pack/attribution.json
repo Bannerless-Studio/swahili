@@ -37,14 +37,14 @@
   "written_examples": {
     "source": "written for this pack (tools/generated_examples.tsv) and reviewed; marked \"src\": \"gen\"",
     "licence": "CC-BY-SA-4.0",
-    "count": 680,
+    "count": 678,
     "note": "Example sentences only, for words whose corpus sentences are missing or dropped by policy; no audio."
   },
   "globalvoices": {
     "source": "OPUS GlobalVoices v2018q4 en-sw (Global Voices, globalvoices.org)",
     "licence": "CC-BY-3.0",
     "url": "https://object.pouta.csc.fi/OPUS-GlobalVoices/v2018q4/moses/en-sw.txt.zip",
-    "sentences_shipped": 901,
+    "sentences_shipped": 902,
     "note": "frequency corpus; short everyday sentences also used as examples, marked \"src\": \"gv\""
   },
   "flores": {
