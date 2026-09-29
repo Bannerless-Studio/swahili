@@ -15,11 +15,14 @@ mvua jua upepo baridi joto
 siku wiki mwezi mwaka saa dakika asubuhi mchana jioni usiku
 kichwa mkono mguu jicho sikio mdomo unywele mwili
 mbwa paka ng'ombe mti ua bahari mto nguo kiatu mfuko
+# QA 2026-09-29 closed-set gaps: family, body, colour, kitchen, answer (damu "blood" stays B1: lower_level_gloss_re); word@LEVEL ships at that level
+bibi babu ndugu mjomba@A2 shangazi@A2 uso pua tumbo jino nusu jibu unga kijani manjano@A2 shilingi
 [VERB]
 la nywa lala enda ja rudi fanya soma andika ona sikia sema zungumza nunua uza penda jua elewa
 kaa simama tembea kimbia ingia toka fungua funga ishi ngoja tafuta leta pa chukua vaa oga pika
 cheza anza maliza lipa uliza jibu saidia kumbuka sahau amka fika pata taka weza
 [ADJ]
 zuri baya kubwa dogo pya zee refu fupi safi chafu
+eupe eusi ekundu bluu@A2
 [ADV]
 vizuri haraka polepole mbali pamoja zaidi kidogo kabisa
