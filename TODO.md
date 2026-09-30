@@ -9,6 +9,7 @@ These are the residuals from the sentence review, passages round and QA fix wave
 ## Sentences
 
 - Republish 09e90bc: sentence spans (18870/18945 linked words placed in sentences, 5358/5358 in passages); inflected forms now cloze targets. kuwa na/kuna own their tokens (76 sentences, 25 passage sentences).
+- Republish ef44c6e: no words moved; deleted override keys itwa|verb, kanda|noun, maslahi|adj, mdogo|noun, mhanga|noun, taratibu|noun (none reached a record; pack/*.json byte-identical with and without them); set-counter and no-voice planner fixes.
 - 59 A1 sentences carry a relative form (-ye-, -cho-, amba-), which is above the A1 register. They were kept because a sentence's level follows its word, and dropping them would leave A1 words with no easy sentence. Fixing this needs a register-aware level rule, or written A1 sentences for those words.
 - All A2 and B1 corpus sentences were read three times across the two fix waves, at a strict bar in fix wave 2. The last 20% samples found under 1% defects. No native speaker has checked the reading.
 - ushoga stays in the pack (owner call, 2026-09-29). Its sentence is neutral news about a Ugandan bill; keep any replacement neutral.
