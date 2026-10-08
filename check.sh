@@ -20,6 +20,10 @@ echo "== engine/tools/validate_pack.py =="
 python3 engine/tools/validate_pack.py pack
 
 echo
+echo "== packbuilder enrich --check (ft tiers, port flag block, eta) =="
+PYTHONPATH="${PACKBUILDER_PATH:-engine/tools}" python3 -m packbuilder enrich --lang sw --repo . --check
+
+echo
 echo "== stale-build guard =="
 sh engine/tools/check_site.sh pack        # [page], default index.html
 
