@@ -33,7 +33,7 @@ Candidate pool: 4,562 (lemma, POS) keys in blended-rank order, one POS per lemma
 | numeral outside the taught number words | 3 | pili, kenda, mosi |
 
 Forced A1 items (closed sets, A1 core list): 309/309 included.
-Word ids reused from v1 for unchanged (lemma, pos): 1,976; the rest are new ids above w2000 (v1 ids of words whose POS/lemma was wrong are retired, not reassigned).
+Word ids reused from v1 for unchanged (lemma, pos): 2,000; the rest are new ids above w2000 (v1 ids of words whose POS/lemma was wrong are retired, not reassigned).
 
 Levels: {'A1': 600, 'A2': 700, 'B1': 700}. POS: {'noun': 1181, 'verb': 522, 'adj': 120, 'adv': 80, 'num': 22, 'prep': 17, 'conj': 16, 'intj': 15, 'det': 12, 'pron': 9, 'phrase': 5, 'part': 1}.
 
