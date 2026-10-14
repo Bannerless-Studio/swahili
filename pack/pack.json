@@ -110,6 +110,13 @@
   "rtl": false,
   "langTag": "sw",
   "spaced": true,
+  "credits": [
+    {
+      "name": "African Storybook stories (African Storybook Initiative and book creators)",
+      "licence": "CC BY 4.0",
+      "url": "https://www.africanstorybook.org/"
+    }
+  ],
   "typedFrom": [
     "written"
   ],

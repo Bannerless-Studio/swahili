@@ -23,7 +23,7 @@ This is a data pack (`key: "sw"`) for the shared [vocab-engine](https://github.c
 
 - **Words:** 2000 in all: A1 600, A2 700, B1 700. Levels are frequency bands with a forced A1 core, not an official CEFR list.
 - **Tagger:** Swahili has no ready statistical tagger. A rule-based tokeniser and lemmatiser over the Wiktionary data does the tagging at build time (vocab-engine `tools/packbuilder/langs/sw.py`).
-- **Sentences:** 2,777 in all (A1 522, A2 976, B1 1,279). Every word has at least 2. Most come from Tatoeba, OPUS GlobalVoices and FLORES-200; 678 are written for this pack and marked `"src": "gen"`.
+- **Sentences:** 3,699 in all (A1 793, A2 1,291, B1 1,615). Every word has at least 2. Most come from Tatoeba, OPUS GlobalVoices and FLORES-200; 681 are written for this pack and marked `"src": "gen"`; 912 come from African Storybook children's books (see below).
 - **Sentence review:** every level was read by hand across three QA rounds, each fixing what the last one's fresh sample turned up, plus a re-QA pass. The last confirming samples (20% of A2 and B1, freshly drawn) found under 1% content defects. The tables and counts are in `tools/REPORT.md`.
 - **Content policy:** passages and sentences keep to everyday East African life and respect Islamic principles. They leave out alcohol, dating and romance, music and dancing as entertainment, gambling and pork.
 - **Reading passages:** the 80 passages were written for this pack. They were checked by an automated QA pass, not by a native speaker. In-pack word coverage is at least 95% at A1/A2 and 93% at B1. Numbers per passage are in `tools/REPORT_passages.md`.
@@ -39,12 +39,13 @@ No native Swahili speaker has reviewed the pack yet. Known residuals are in `TOD
 | Example sentences and translations | [Tatoeba](https://tatoeba.org) Swahili-English | CC BY 2.0 FR | sentences; contributors listed in `pack/attribution.json` |
 | Parallel news sentences | [OPUS GlobalVoices](https://opus.nlpl.eu/GlobalVoices.php) en-sw v2018q4 | CC BY 3.0 | frequency corpus and short example sentences (`"src": "gv"`) |
 | Benchmark sentences | [FLORES-200](https://github.com/facebookresearch/flores) swh_Latn | CC BY-SA 4.0 | frequency corpus and short example sentences (`"src": "flores"`) |
+| Story sentences | [African Storybook](https://www.africanstorybook.org/) Kiswahili books and their English editions (authors, translators, illustrators and link per book in `pack/attribution.json`) | CC BY 4.0 | 912 sentences from 176 books marked `"src": "story"`; at most four examples per word |
 | Written sentences and passages | written for this pack | CC BY-SA 4.0 | examples where the corpus had none; all 80 passages |
 | Word frequency (fallback surfaces) | [`wordfreq`](https://github.com/rspeer/wordfreq) Python package | CC BY-SA 4.0 | word ranking for surfaces outside the tagged corpus |
 | UI font | [IBM Plex Sans](https://fonts.google.com/specimen/IBM+Plex+Sans) via Google Fonts | SIL Open Font License 1.1 | interface typeface |
 | Audio | none | - | browser TTS only |
 
-Licence: code MIT, pack data CC BY-SA 4.0. See LICENSE.
+Licence: code MIT, pack data CC BY-SA 4.0. See LICENSE. The CC BY 4.0 story sentences stay under CC BY 4.0 inside the pack (compatible with BY-SA); keep the credits. Changes made: text split into sentences, Swahili and English realigned sentence by sentence, typographic quotes made plain; nothing else.
 
 ## Rebuild
 

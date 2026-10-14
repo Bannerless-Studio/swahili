@@ -23,6 +23,7 @@
     "licence": "CC-BY 2.0 FR",
     "url": "https://downloads.tatoeba.org/exports/per_language/swh/swh_sentences_detailed.tsv.bz2",
     "contributor_usernames": [
+      "Alois",
       "Balamax",
       "diegohn",
       "ecorralest101",
@@ -44,7 +45,7 @@
     "source": "OPUS GlobalVoices v2018q4 en-sw (Global Voices, globalvoices.org)",
     "licence": "CC-BY-3.0",
     "url": "https://object.pouta.csc.fi/OPUS-GlobalVoices/v2018q4/moses/en-sw.txt.zip",
-    "sentences_shipped": 902,
+    "sentences_shipped": 903,
     "note": "frequency corpus; short everyday sentences also used as examples, marked \"src\": \"gv\""
   },
   "flores": {
@@ -53,5 +54,3222 @@
     "url": "https://dl.fbaipublicfiles.com/nllb/flores200_dataset.tar.gz",
     "sentences_shipped": 58,
     "note": "frequency corpus; short sentences also used as examples, marked \"src\": \"flores\""
+  },
+  "story_sentences": {
+    "source": "African Storybook Initiative, Kiswahili books with their English edition",
+    "licence": "CC-BY-4.0",
+    "url": "https://www.africanstorybook.org/",
+    "note": "Sentences are split out of the book text, Swahili and English realigned sentence by sentence; typographic quotes became plain, nothing else was changed.",
+    "count": 912,
+    "stories": [
+      {
+        "id": "10166",
+        "title": "Mwana wa Tumbili (Paka rangi)",
+        "english_title": "Monkey and the hunter's wife (Colour-in)",
+        "authors": [
+          "Wesley Kipkorir Rop"
+        ],
+        "translators": [
+          "Baraka Fatma"
+        ],
+        "illustrators": [
+          "Jesse Breytenbach"
+        ],
+        "copyright_holder": "African Storybook Initiative 2015",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=10166",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=9051"
+      },
+      {
+        "id": "10440",
+        "title": "Viatu vyangu vya kwanza",
+        "english_title": "My first pair of shoes",
+        "authors": [
+          "Ursula Nafula"
+        ],
+        "translators": [],
+        "illustrators": [
+          "Rob Owen"
+        ],
+        "copyright_holder": "African Storybook Initiative 2015",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=10440",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=10446"
+      },
+      {
+        "id": "10555",
+        "title": "Ajali mbaya",
+        "english_title": "Serious accident",
+        "authors": [
+          "Zanele Buthelezi",
+          "Thembani Dladla",
+          "Clare Verbeek"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Rob Owen"
+        ],
+        "copyright_holder": "School of Education and Development (Ukzn) and African Storybook Initiative 2007",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=10555",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=9672"
+      },
+      {
+        "id": "11139",
+        "title": "Siku tuliyouona upinde",
+        "english_title": "Rainbow visits our village",
+        "authors": [
+          "Ursula Nafula"
+        ],
+        "translators": [],
+        "illustrators": [
+          "Wiehan de Jager"
+        ],
+        "copyright_holder": "African Storybook Initiative 2015",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=11139",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=11142"
+      },
+      {
+        "id": "12428",
+        "title": "Basi kubwa la bluu",
+        "english_title": "Big blue bus",
+        "authors": [
+          "Mecelin Kakoro"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Mango Tree"
+        ],
+        "copyright_holder": "African Storybook Initiative 2015",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=12428",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=12083"
+      },
+      {
+        "id": "12600",
+        "title": "Mvulana aliyechukiwa na wote",
+        "english_title": "The boy who nobody loved",
+        "authors": [
+          "Phumy Zikode"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Wiehan de Jager"
+        ],
+        "copyright_holder": "African Storybook Initiative 2015",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=12600",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=9208"
+      },
+      {
+        "id": "12621",
+        "title": "Meno aina gani?",
+        "english_title": "What type of teeth?",
+        "authors": [
+          "Zanele Buthelezi",
+          "Thembani Dladla",
+          "Clare Verbeek"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Rob Owen"
+        ],
+        "copyright_holder": "School of Education and Development (Ukzn) and African Storybook Initiative 2007",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=12621",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=9653"
+      },
+      {
+        "id": "12652",
+        "title": "Mamangu alipanda",
+        "english_title": "My mother planted",
+        "authors": [
+          "Tom Sabwa"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Jonathan Field"
+        ],
+        "copyright_holder": "Text: Ugandan Community Libraries Association (Ugcla) Artwork: African Storybook Initiative 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=12652",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=9034"
+      },
+      {
+        "id": "12670",
+        "title": "Likizo kwa Bibi",
+        "english_title": "Holidays with grandmother",
+        "authors": [
+          "Violet Otieno"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Catherine Groenewald"
+        ],
+        "copyright_holder": "African Storybook Initiative 2015",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=12670",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=12084"
+      },
+      {
+        "id": "12687",
+        "title": "Nelima atajirika",
+        "english_title": "The girl who got rich",
+        "authors": [
+          "Salaama Wanale"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Mango Tree"
+        ],
+        "copyright_holder": "African Storybook Initiative 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=12687",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=9243"
+      },
+      {
+        "id": "12689",
+        "title": "Mtu na Simba",
+        "english_title": "Man and Lion",
+        "authors": [
+          "Mozambican folktale"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Hélder de Paz Alexandre"
+        ],
+        "copyright_holder": "Mozambican Folktale 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=12689",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=8205"
+      },
+      {
+        "id": "12692",
+        "title": "Nyumba ya Kobe",
+        "english_title": "Tortoise finds his house",
+        "authors": [
+          "Maya Fowler"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Katrin Coetzer"
+        ],
+        "copyright_holder": "Katrin Coetzer, Maya Fowler, Damian Gibbs, Bookdash.org and African Storybook Initiative 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=12692",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=9229"
+      },
+      {
+        "id": "12915",
+        "title": "Mtoto wa Kima (Paka rangi)",
+        "english_title": "Monkey and the hunter's wife (Colour-in)",
+        "authors": [
+          "Wesley Kipkorir Rop"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Jesse Breytenbach"
+        ],
+        "copyright_holder": "African Storybook Initiative 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=12915",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=9051"
+      },
+      {
+        "id": "12925",
+        "title": "Ah! Mpira!",
+        "english_title": "Ah! Football!",
+        "authors": [
+          "Stella Kihweo"
+        ],
+        "translators": [],
+        "illustrators": [
+          "Onesmus Kakungi"
+        ],
+        "copyright_holder": "African Storybook Initiative 2015",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=12925",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=12926"
+      },
+      {
+        "id": "13026",
+        "title": "Mlinzi na chekechea yake",
+        "english_title": "Keeper and his nursery",
+        "authors": [
+          "Ursula Nafula",
+          "Nina Orange"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Magriet Brink"
+        ],
+        "copyright_holder": "African Storybook Initiative 2015",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=13026",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=13025"
+      },
+      {
+        "id": "13303",
+        "title": "Uamuzi",
+        "english_title": "Decision",
+        "authors": [
+          "Ursula Nafula"
+        ],
+        "translators": [],
+        "illustrators": [
+          "Vusi Malindi"
+        ],
+        "copyright_holder": "African Storybook Initiative 2015",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=13303",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=13304"
+      },
+      {
+        "id": "13309",
+        "title": "Msitu wenye nyoka",
+        "english_title": "Forest of snakes",
+        "authors": [
+          "Joseph Sanchez Nadimo"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Rob Owen"
+        ],
+        "copyright_holder": "African Storybook Initiative 2015",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=13309",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=13265"
+      },
+      {
+        "id": "13544",
+        "title": "Khalai anapenda mimea",
+        "english_title": "Khalai talks to plants",
+        "authors": [
+          "Ursula Nafula"
+        ],
+        "translators": [],
+        "illustrators": [
+          "Jesse Pietersen"
+        ],
+        "copyright_holder": "African Storybook Initiative 2015",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=13544",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=13545"
+      },
+      {
+        "id": "14412",
+        "title": "Maguru apatiana miguu",
+        "english_title": "Maguru gives legs",
+        "authors": [
+          "Mutugi Kamundi"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Wiehan de Jager"
+        ],
+        "copyright_holder": "African Storybook Initiative 2015",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=14412",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=14415"
+      },
+      {
+        "id": "14419",
+        "title": "Bi Simu",
+        "english_title": "Ms Phone",
+        "authors": [
+          "Ursula Nafula"
+        ],
+        "translators": [],
+        "illustrators": [
+          "Marion Drew"
+        ],
+        "copyright_holder": "African Storybook Initiative 2015",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=14419",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=14420"
+      },
+      {
+        "id": "15558",
+        "title": "Paka wa Sigei",
+        "english_title": "Selemeng's cats",
+        "authors": [
+          "Khothatso Ranoosi",
+          "Marion Drew"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Jesse Breytenbach"
+        ],
+        "copyright_holder": "African Storybook Initiative 2015",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=15558",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=12155"
+      },
+      {
+        "id": "15611",
+        "title": "Mbuzi na kisu cha Fisi",
+        "english_title": "Goat and Hyena's knife",
+        "authors": [
+          "Wekunya Cornelius"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Wiehan de Jager"
+        ],
+        "copyright_holder": "African Storybook Initiative 2015",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=15611",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=13623"
+      },
+      {
+        "id": "15613",
+        "title": "Fisi na Kobe",
+        "english_title": "Hyena and Tortoise",
+        "authors": [
+          "Alice Mulwa"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Salim Kasamba"
+        ],
+        "copyright_holder": "African Storybook Initiative 2015",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=15613",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=13548"
+      },
+      {
+        "id": "15614",
+        "title": "Uji",
+        "english_title": "Porridge",
+        "authors": [
+          "Zimbili Dlamini",
+          "Hlengiwe Zondi"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Catherine Groenewald"
+        ],
+        "copyright_holder": "African Storybook Initiative and Molteno Institute 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=15614",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=13263"
+      },
+      {
+        "id": "15616",
+        "title": "Tembo na Kinyonga",
+        "english_title": "Elephant and Chameleon",
+        "authors": [
+          "Stella Badaru"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Wiehan de Jager"
+        ],
+        "copyright_holder": "African Storybook Initiative 2015",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=15616",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=10455"
+      },
+      {
+        "id": "15746",
+        "title": "Mamba aliye mwilini mwangu",
+        "english_title": "Crocodile in my body",
+        "authors": [
+          "Val Morris"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Felicity Bell"
+        ],
+        "copyright_holder": "Books In Homes 2013",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=15746",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=6111"
+      },
+      {
+        "id": "15942",
+        "title": "Ndizi za Bibi",
+        "english_title": "Grandma's bananas",
+        "authors": [
+          "Ursula Nafula"
+        ],
+        "translators": [
+          "Peter Chege",
+          "Alice Karichi",
+          "Michael Muriuki",
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Catherine Groenewald"
+        ],
+        "copyright_holder": "African Storybook Initiative 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=15942",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=2094"
+      },
+      {
+        "id": "16084",
+        "title": "Marafiki",
+        "english_title": "Friends",
+        "authors": [
+          "Zimbili Dlamini",
+          "Hlengiwe Zondi"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Catherine Groenewald"
+        ],
+        "copyright_holder": "African Storybook Initiative and Molteno Institute 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=16084",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=9879"
+      },
+      {
+        "id": "16341",
+        "title": "Mtoto wa Kima",
+        "english_title": "Monkey and the hunter's wife (Colour-in)",
+        "authors": [
+          "Wesley Kipkorir Rop"
+        ],
+        "translators": [],
+        "illustrators": [
+          "Jesse Breytenbach"
+        ],
+        "copyright_holder": "African Storybook Initiative 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=16341",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=9051",
+        "adapters": [
+          "Ursula Nafula"
+        ]
+      },
+      {
+        "id": "16766",
+        "title": "Mama abadilika",
+        "english_title": "Mother changes",
+        "authors": [
+          "Ursula Nafula"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Catherine Groenewald",
+          "Jesse Breytenbach",
+          "Rob Owen",
+          "Wiehan de Jager"
+        ],
+        "copyright_holder": "African Storybook Initiative 2016",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=16766",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=14836"
+      },
+      {
+        "id": "17031",
+        "title": "Kwa nini Ajao hakuzikwa",
+        "english_title": "Why Ajao was not buried",
+        "authors": [
+          "Taiwo Ẹhinẹni"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Jesse Breytenbach"
+        ],
+        "copyright_holder": "African Storybook Initiative 2016",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=17031",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=16988"
+      },
+      {
+        "id": "17135",
+        "title": "Hakimu asiyekuwa na busara",
+        "english_title": "Unwise judge",
+        "authors": [
+          "Magabi Eynew Gessesse",
+          "Elizabeth Laird"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Brian Wambi"
+        ],
+        "copyright_holder": "African Storybook Initiative 2016",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=17135",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=17115"
+      },
+      {
+        "id": "17533",
+        "title": "Sungura Mjanja",
+        "english_title": "Hare the Trickster",
+        "authors": [
+          "Dan Kaasha"
+        ],
+        "translators": [
+          "Olenkotila Primary School Teachers Kajiado"
+        ],
+        "illustrators": [
+          "Abraham Muzee"
+        ],
+        "copyright_holder": "African Storybook Initiative 2016",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=17533",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=17453"
+      },
+      {
+        "id": "17534",
+        "title": "Kuwahesabu Wanyama",
+        "english_title": "Counting animals",
+        "authors": [
+          "Zanele Buthelezi",
+          "Thembani Dladla",
+          "Clare Verbeek"
+        ],
+        "translators": [
+          "Susan Kavaya"
+        ],
+        "illustrators": [
+          "Rob Owen"
+        ],
+        "copyright_holder": "School of Education and Development (Ukzn) and African Storybook Initiative 2007",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=17534",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=9671"
+      },
+      {
+        "id": "17596",
+        "title": "Mayai ya Mamba",
+        "english_title": "Dog and Crocodile",
+        "authors": [
+          "Candiru Enzikuru Mary"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Rob Owen"
+        ],
+        "copyright_holder": "African Storybook Initiative 2016",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=17596",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=17572"
+      },
+      {
+        "id": "17937",
+        "title": "Urithi kutoka kwa baba",
+        "english_title": "Father's inheritance",
+        "authors": [
+          "Lemu Wachile",
+          "Elizabeth Laird"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Jacob Kono"
+        ],
+        "copyright_holder": "African Storybook Initiative 2016",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=17937",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=17523"
+      },
+      {
+        "id": "18342",
+        "title": "Sungura amdanganya Tembo",
+        "english_title": "Hare tricks Elephant, again",
+        "authors": [
+          "Agnes Gichaba"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Wiehan de Jager"
+        ],
+        "copyright_holder": "African Storybook Initiative 2015",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=18342",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=13093"
+      },
+      {
+        "id": "18418",
+        "title": "Sungura na Fisi",
+        "english_title": "Hare and Hyena",
+        "authors": [
+          "Mutugi Kamundi"
+        ],
+        "translators": [],
+        "illustrators": [
+          "Rob Owen"
+        ],
+        "copyright_holder": "African Storybook Initiative 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=18418",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=9796",
+        "adapters": [
+          "Ursula Nafula"
+        ]
+      },
+      {
+        "id": "18804",
+        "title": "Kima na kiangazi",
+        "english_title": "Monkey and the Drought",
+        "authors": [
+          "Alice Edui"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Salim Kasamba"
+        ],
+        "copyright_holder": "African Storybook Initiative 2016",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=18804",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=18803"
+      },
+      {
+        "id": "19092",
+        "title": "Ngurumo na Radi",
+        "english_title": "Thunder and Lightning",
+        "authors": [
+          "Ogot Owino"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Jesse Breytenbach"
+        ],
+        "copyright_holder": "African Storybook Initiative 2016",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=19092",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=19074"
+      },
+      {
+        "id": "19094",
+        "title": "Akadeli abahatika",
+        "english_title": "Akadeli's Lucky Day",
+        "authors": [
+          "Simon Ipoo"
+        ],
+        "translators": [],
+        "illustrators": [
+          "Rob Owen"
+        ],
+        "copyright_holder": "African Storybook Initiative 2016",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=19094",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=19095"
+      },
+      {
+        "id": "19110",
+        "title": "Bibi atusimulia hadithi",
+        "english_title": "Grandmother's stories",
+        "authors": [
+          "Mutai Chepkoech"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Marleen Visser"
+        ],
+        "copyright_holder": "African Storybook Initiative 2016",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=19110",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=19109"
+      },
+      {
+        "id": "19193",
+        "title": "Fisi, Sungura na beseni",
+        "english_title": "Hyena, Hare and their basins",
+        "authors": [
+          "Charles Katiwa Kiema"
+        ],
+        "translators": [],
+        "illustrators": [
+          "Salim Kasamba"
+        ],
+        "copyright_holder": "African Storybook Initiative 2016",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=19193",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=19194"
+      },
+      {
+        "id": "1932",
+        "title": "Nitajie majina ya rangi",
+        "english_title": "Colours",
+        "authors": [
+          "Madhav Chavan"
+        ],
+        "translators": [
+          "Mutugi Kamundi"
+        ],
+        "illustrators": [
+          "Rijuta Ghate"
+        ],
+        "copyright_holder": "Pratham Books 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=1932",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=1927"
+      },
+      {
+        "id": "19386",
+        "title": "Jambazi",
+        "english_title": "The bandit",
+        "authors": [
+          "DiresGebre-Meskel",
+          "Elizabeth Laird"
+        ],
+        "translators": [
+          "Susan Kavaya"
+        ],
+        "illustrators": [
+          "Jacob Kono"
+        ],
+        "copyright_holder": "African Storybook Initiative 2016",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=19386",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=17757"
+      },
+      {
+        "id": "19400",
+        "title": "Mwanamume aliyeota manyoya",
+        "english_title": "Man who grew feathers",
+        "authors": [
+          "Worku Debele",
+          "Elizabeth Laird"
+        ],
+        "translators": [
+          "Susan Kavaya"
+        ],
+        "illustrators": [
+          "Tadesse Teshome"
+        ],
+        "copyright_holder": "African Storybook Initiative 2016",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=19400",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=18147"
+      },
+      {
+        "id": "19401",
+        "title": "Mbuni na Simba",
+        "english_title": "Ostrich and Lioness",
+        "authors": [
+          "Daniel Nanok"
+        ],
+        "translators": [
+          "Susan Kavaya"
+        ],
+        "illustrators": [
+          "Brian Wambi"
+        ],
+        "copyright_holder": "African Storybook Initiative 2016",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=19401",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=19292"
+      },
+      {
+        "id": "19402",
+        "title": "Paka na Panya",
+        "english_title": "Cats and mice",
+        "authors": [
+          "Merga Debelo",
+          "Elizabeth Laird"
+        ],
+        "translators": [
+          "Susan Kavaya"
+        ],
+        "illustrators": [
+          "Jacob Kono"
+        ],
+        "copyright_holder": "African Storybook Initiative 2016",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=19402",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=18942"
+      },
+      {
+        "id": "19403",
+        "title": "Mawaidha kutoka kwa Baba",
+        "english_title": "Father's advice",
+        "authors": [
+          "Mohammed Kuyu",
+          "Elizabeth Laird"
+        ],
+        "translators": [
+          "Susan Kavaya"
+        ],
+        "illustrators": [
+          "Jacob Kono"
+        ],
+        "copyright_holder": "African Storybook Initiative 2016",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=19403",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=17266"
+      },
+      {
+        "id": "19404",
+        "title": "Marafiki wawili wadogo",
+        "english_title": "Two little friends",
+        "authors": [
+          "Belainesh Woubishet"
+        ],
+        "translators": [
+          "Susan Kavaya"
+        ],
+        "illustrators": [
+          "Jesse Pietersen"
+        ],
+        "copyright_holder": "African Storybook Initiative 2016",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=19404",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=18420"
+      },
+      {
+        "id": "19586",
+        "title": "Madola mjanja",
+        "english_title": "Cunning Madola",
+        "authors": [
+          "Mariam Yusuf"
+        ],
+        "translators": [
+          "African Storybook"
+        ],
+        "illustrators": [
+          "Brian Juma"
+        ],
+        "copyright_holder": "African Storybook Initiative 2017",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=19586",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=19585"
+      },
+      {
+        "id": "20022",
+        "title": "Kiumbe cha ajabu",
+        "english_title": "Creature with two",
+        "authors": [
+          "Mlungisi Madlala",
+          "Ntombikayise Ngidi"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Jesse Breytenbach"
+        ],
+        "copyright_holder": "African Storybook Initiative 2016",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=20022",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=19467"
+      },
+      {
+        "id": "20374",
+        "title": "Sokwe na Mamba",
+        "english_title": "Ape and Crocodile",
+        "authors": [
+          "Mulualem Daba"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Abraham Muzee"
+        ],
+        "copyright_holder": "African Storybook Initiative 2016",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=20374",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=19749"
+      },
+      {
+        "id": "20431",
+        "title": "Binti mpendwa",
+        "english_title": "Beloved daughter",
+        "authors": [
+          "Ritah Katetemera",
+          "Mulongo Bukheye"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Brian Wambi"
+        ],
+        "copyright_holder": "African Storybook Initiative 2016",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=20431",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=19752"
+      },
+      {
+        "id": "20434",
+        "title": "Chura na Nyoka",
+        "english_title": "Frog and Snake",
+        "authors": [
+          "John Emongot"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Rob Owen"
+        ],
+        "copyright_holder": "African Storybook Initiative 2016",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=20434",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=19762"
+      },
+      {
+        "id": "20438",
+        "title": "Anansi mvivu",
+        "english_title": "Lazy Anansi",
+        "authors": [
+          "Ghanaian folktale"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Wiehan de Jager"
+        ],
+        "copyright_holder": "African Storybook Initiative 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=20438",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=19765"
+      },
+      {
+        "id": "20440",
+        "title": "Kima na kiangazi kibaya",
+        "english_title": "Monkey and the Drought",
+        "authors": [
+          "Alice Edui"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Salim Kasamba"
+        ],
+        "copyright_holder": "African Storybook Initiative 2016",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=20440",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=19767"
+      },
+      {
+        "id": "2069",
+        "title": "Kwa nini buibui ana miguu myembamba",
+        "english_title": "Lazy Anansi",
+        "authors": [
+          "Ghanaian folktale"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Wiehan de Jager"
+        ],
+        "copyright_holder": "African Storybook Initiative 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=2069",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=1077"
+      },
+      {
+        "id": "21006",
+        "title": "Fana na wanyama wake",
+        "english_title": "Fana and her animals",
+        "authors": [
+          "Foziya Mohammed"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Jesse Breytenbach"
+        ],
+        "copyright_holder": "African Storybook Initiative 2017",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=21006",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=21004"
+      },
+      {
+        "id": "21610",
+        "title": "Biantaka na chungu kilichokufa",
+        "english_title": "Byantaka and the dead pot",
+        "authors": [
+          "Peter Kisakye"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Emily Berg"
+        ],
+        "copyright_holder": "Text: Uganda Community Libraries Association (Ugcla) Artwork: African Storybook Initiative 2015",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=21610",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=14497"
+      },
+      {
+        "id": "21863",
+        "title": "Kuhesabu Kabichi",
+        "english_title": "Counting cabbages",
+        "authors": [
+          "Penelope Smith"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Magriet Brink"
+        ],
+        "copyright_holder": "African Storybook Initiative 2016",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=21863",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=19421"
+      },
+      {
+        "id": "2197",
+        "title": "Samaki Mkarimu",
+        "english_title": "The generous fish",
+        "authors": [
+          "Kholeka Mabeta"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Jemma Kahn",
+          "Wiehan de Jager"
+        ],
+        "copyright_holder": "African Storybook Initiative 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=2197",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=1885"
+      },
+      {
+        "id": "22061",
+        "title": "Mzozo wa Fisi na Kima",
+        "english_title": "Hyena and Monkey",
+        "authors": [
+          "Mulualem Daba"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Salim Kasamba"
+        ],
+        "copyright_holder": "African Storybook Initiative 2017",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=22061",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=20155"
+      },
+      {
+        "id": "22062",
+        "title": "Kadogo na nduguze",
+        "english_title": "Sinziro and his brothers",
+        "authors": [
+          "Magabi Eynew Gessesse",
+          "Elizabeth Laird"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Vusi Malindi"
+        ],
+        "copyright_holder": "African Storybook Initiative 2016",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=22062",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=19621"
+      },
+      {
+        "id": "22067",
+        "title": "Utata baina ya kazi tofauti",
+        "english_title": "Disagreement among occupations",
+        "authors": [
+          "Beatrice Inzikuru"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Wiehan de Jager"
+        ],
+        "copyright_holder": "African Storybook Initiative 2015",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=22067",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=10537"
+      },
+      {
+        "id": "22068",
+        "title": "Mwanamke mlafi",
+        "english_title": "Greedy woman",
+        "authors": [
+          "Alungho Rose",
+          "Annet Ssebaggala"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Abraham Muzee"
+        ],
+        "copyright_holder": "African Storybook Initiative 2016",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=22068",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=19149"
+      },
+      {
+        "id": "22078",
+        "title": "Rafiki yangu, Adui yangu",
+        "english_title": "My friend, my enemy",
+        "authors": [
+          "Smangaliso Molebale"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Thulani Mhlanga"
+        ],
+        "copyright_holder": "African Storybook Initiative 2017",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=22078",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=21786"
+      },
+      {
+        "id": "22079",
+        "title": "Mke-mwenza mwenye wivu",
+        "english_title": "Jealous co-wife",
+        "authors": [
+          "Mary Narebon"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Jacob Kono"
+        ],
+        "copyright_holder": "African Storybook Initiative 2017",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=22079",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=21749"
+      },
+      {
+        "id": "22080",
+        "title": "Leah, Roba na Ng'ombe",
+        "english_title": "Lerato, Thabo and Cow",
+        "authors": [
+          "Matlotlisang Tenane"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Marion Drew"
+        ],
+        "copyright_holder": "African Storybook Initiative 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=22080",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=15905"
+      },
+      {
+        "id": "22081",
+        "title": "Jua, Mwezi, na Maji",
+        "english_title": "Sun, Moon, and Water",
+        "authors": [
+          "Owino Ogot"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Salim Kasamba"
+        ],
+        "copyright_holder": "African Storybook Initiative 2017",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=22081",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=21974"
+      },
+      {
+        "id": "22083",
+        "title": "Panya",
+        "english_title": "The rat",
+        "authors": [
+          "Nambi Sseppuuya Community Resource Centre"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Zablon Alex Nguku"
+        ],
+        "copyright_holder": "Text: Ugandan Community Libraries Association (Ugcla; Illusrations: African Storybook Initiative 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=22083",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=7769"
+      },
+      {
+        "id": "22084",
+        "title": "Chui na Swara",
+        "english_title": "Leopard and Antelope",
+        "authors": [
+          "Magabi Enyew Gessesse",
+          "Elizabeth Laird"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Isaac Okwir"
+        ],
+        "copyright_holder": "African Storybook Initiative 2016",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=22084",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=17659"
+      },
+      {
+        "id": "22085",
+        "title": "Mchungaji",
+        "english_title": "Teret",
+        "authors": [
+          "Beza"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [],
+        "copyright_holder": "Bezawork Lindlöf 2017",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=22085",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=19854"
+      },
+      {
+        "id": "22087",
+        "title": "Mamba anasubiri bongo",
+        "english_title": "Crocodile waits for brains",
+        "authors": [
+          "Northern Cape Teacher's Workshop 2016"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Tawanda Mhandu"
+        ],
+        "copyright_holder": "African Storybook Initiative 2017",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=22087",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=21643"
+      },
+      {
+        "id": "22088",
+        "title": "Kwa nini Nzi humsumbua Ng'ombe",
+        "english_title": "Why Fly pesters Cow",
+        "authors": [
+          "Jaco Jacobs"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Stephen Wallace"
+        ],
+        "copyright_holder": "Lapa 2016",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=22088",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=19258"
+      },
+      {
+        "id": "22111",
+        "title": "Zawadi ya Sisanda",
+        "english_title": "Sisanda's gift",
+        "authors": [
+          "Gcina Mhlophe"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [],
+        "copyright_holder": "Text: Gcina Mhlophe; Illustrations: Jiggs Snaddon-Wood 2015",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=22111",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=17470"
+      },
+      {
+        "id": "2229",
+        "title": "Mwezi na kofia",
+        "english_title": "The moon and the cap",
+        "authors": [
+          "Noni"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Angie",
+          "Upesh"
+        ],
+        "copyright_holder": "Pratham Books 2007",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=2229",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=2154"
+      },
+      {
+        "id": "22352",
+        "title": "Musa na paka",
+        "english_title": "Musa and the cat",
+        "authors": [
+          "Zainab Muhd Kazaure"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Tawanda Mhandu"
+        ],
+        "copyright_holder": "African Storybook Initiative 2018",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=22352",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=22325"
+      },
+      {
+        "id": "22462",
+        "title": "Masanduku matatu yenye mali",
+        "english_title": "Three boxes of wealth",
+        "authors": [
+          "ሰለሙን",
+          "ተኹሉ ይግዛው"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Adonay Gebru"
+        ],
+        "copyright_holder": "African Storybook Initiative 2018",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=22462",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=22261"
+      },
+      {
+        "id": "22530",
+        "title": "Pa Nase buibui, na wanawake",
+        "english_title": "Pa Nase the spider and the village women",
+        "authors": [
+          "Abdul Koroma"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Kenneth Boyowa Okitikpi"
+        ],
+        "copyright_holder": "African Storybook Initiative 2018",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=22530",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=22510"
+      },
+      {
+        "id": "22533",
+        "title": "Wanamuziki stadi",
+        "english_title": "Skillful musicians",
+        "authors": [
+          "Athieno Gertrude",
+          "Owino Ogot"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Salim Kasamba"
+        ],
+        "copyright_holder": "African Storybook Initiative 2017",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=22533",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=22194"
+      },
+      {
+        "id": "22536",
+        "title": "Kunguru na Mbweha",
+        "english_title": "Raven and Fox",
+        "authors": [
+          "ሰለሙን ግደይ",
+          "ገ/ኣምላኽ ገ/መደህን"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Isaac Okwir"
+        ],
+        "copyright_holder": "African Storybook Initiative 2017",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=22536",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=22184"
+      },
+      {
+        "id": "22557",
+        "title": "Jinsi rangi zilivyokuja pamoja angani",
+        "english_title": "How colours came together in the sky",
+        "authors": [
+          "Zainab Ayoza Omaki"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Offei Tettey Eugene"
+        ],
+        "copyright_holder": "African Storybook Initiative 2018",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=22557",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=22550"
+      },
+      {
+        "id": "22560",
+        "title": "Aku, rafiki ya Jua",
+        "english_title": "Aku the Sun Maker",
+        "authors": [
+          "Aisha Nelson"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Idowu Abayomi Oluwasegun"
+        ],
+        "copyright_holder": "African Storybook Initiative 2018",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=22560",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=22552"
+      },
+      {
+        "id": "22567",
+        "title": "Kiangazi na Mto wenye Baraka",
+        "english_title": "Drought and the River of Blessings",
+        "authors": [
+          "Also Mohammed Sale"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Awwalu Sakiwa"
+        ],
+        "copyright_holder": "African Storybook Initiative 2018",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=22567",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=22565"
+      },
+      {
+        "id": "22572",
+        "title": "Mto wa Upinde wenye miujiza",
+        "english_title": "Magical rainbow river",
+        "authors": [
+          "Mimi Werna"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Edwin Irabor"
+        ],
+        "copyright_holder": "African Storybook Initiative 2018",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=22572",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=22542"
+      },
+      {
+        "id": "22582",
+        "title": "Maswali aliyouliza Katiti",
+        "english_title": "Kariza's questions",
+        "authors": [
+          "Jean de Dieu Bavugempore"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Rob Owen"
+        ],
+        "copyright_holder": "African Storybook Initiative 2017",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=22582",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=22197"
+      },
+      {
+        "id": "22806",
+        "title": "Anayenipenda, hujua ninachopenda",
+        "english_title": "The one who loves me, knows what I love",
+        "authors": [
+          "Palmesi Katangambo"
+        ],
+        "translators": [],
+        "illustrators": [
+          "Natalie Propa",
+          "Rob Owen",
+          "Wiehan de Jager"
+        ],
+        "copyright_holder": "African Storybook Initiative 2018",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=22806",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=24194"
+      },
+      {
+        "id": "23033",
+        "title": "Ulemavu si utepetevu",
+        "english_title": "Disability is not inability",
+        "authors": [
+          "Agnes Mabururu"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Wiehan de Jager"
+        ],
+        "copyright_holder": "African Storybook Initiative 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=23033",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=10416"
+      },
+      {
+        "id": "23035",
+        "title": "Kuku amfanyia Tai hila",
+        "english_title": "Hen tricks Eagle",
+        "authors": [
+          "Nathan Higenyi"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Rob Owen"
+        ],
+        "copyright_holder": "African Storybook Initiative 2015",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=23035",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=10544"
+      },
+      {
+        "id": "2305",
+        "title": "Anansi, Kunguru na Mamba",
+        "english_title": "Anansi, the Crows, and the Crocodiles",
+        "authors": [
+          "Ghanaian folktale"
+        ],
+        "translators": [
+          "Mutugi Kamundi"
+        ],
+        "illustrators": [
+          "Wiehan de Jager"
+        ],
+        "copyright_holder": "African Storybook Initiative 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=2305",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=1946"
+      },
+      {
+        "id": "2310",
+        "title": "Anansi na Kasa",
+        "english_title": "Anansi and Turtle",
+        "authors": [
+          "Ghanaian folktale"
+        ],
+        "translators": [
+          "Mutugi Kamundi"
+        ],
+        "illustrators": [
+          "Wiehan de Jager"
+        ],
+        "copyright_holder": "African Storybook Initiative 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=2310",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=40170"
+      },
+      {
+        "id": "23107",
+        "title": "Pembe ya Chifu",
+        "english_title": "Little Jojo's long tall tale",
+        "authors": [
+          "Leo Daly"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Marleen Visser"
+        ],
+        "copyright_holder": "African Storybook Initiative 2017",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=23107",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=20147"
+      },
+      {
+        "id": "23109",
+        "title": "Sherehe ya kuzaliwa kwa Lina asiyoitarajia",
+        "english_title": "Lynne's birthday surprise",
+        "authors": [
+          "Leo Daly"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Marleen Visser"
+        ],
+        "copyright_holder": "African Storybook Initiative 2017",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=23109",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=20159"
+      },
+      {
+        "id": "23156",
+        "title": "Sima na Samaki",
+        "english_title": "Ugali and Fish",
+        "authors": [
+          "Melanie Bulouza"
+        ],
+        "translators": [],
+        "illustrators": [
+          "Ben Terarc"
+        ],
+        "copyright_holder": "African Storybook Initiative 2018",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=23156",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=24477"
+      },
+      {
+        "id": "23158",
+        "title": "Kinywa na Mkono",
+        "english_title": "Mouth and Hand",
+        "authors": [
+          "Espoir Ntinda"
+        ],
+        "translators": [],
+        "illustrators": [
+          "Espoir Ntinda"
+        ],
+        "copyright_holder": "African Storybook Initiative 2018",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=23158",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=24467"
+      },
+      {
+        "id": "2340",
+        "title": "Mulongo na Fisi",
+        "english_title": "Mulongo and the Hyenas",
+        "authors": [
+          "Sarah Nangobi"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Wiehan de Jager"
+        ],
+        "copyright_holder": "African Storybook Initiative, 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=2340",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=2136"
+      },
+      {
+        "id": "2397",
+        "title": "Sayari Jua ya Saba",
+        "english_title": "The Seventh Sun: A Tribal Tale From Odisha, India",
+        "authors": [
+          "Indian Folktale"
+        ],
+        "translators": [
+          "Kamundi Mutugi"
+        ],
+        "illustrators": [
+          "Pratham Books"
+        ],
+        "copyright_holder": "Pratham Books 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=2397",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=2327"
+      },
+      {
+        "id": "24734",
+        "title": "Asiyetii wazee",
+        "english_title": "Whoever doesn't obey elders",
+        "authors": [
+          "Yakubu Aliyu Malumri"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Kenneth Boyowa Okitikpi"
+        ],
+        "copyright_holder": "African Storybook Initiative 2018",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=24734",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=24215"
+      },
+      {
+        "id": "24746",
+        "title": "Watu waliosahau",
+        "english_title": "People who forgot",
+        "authors": [
+          "Edwin Irabor"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Edwin Irabor"
+        ],
+        "copyright_holder": "African Storybook Initiative 2018",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=24746",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=24732"
+      },
+      {
+        "id": "24748",
+        "title": "Tembo na Kiboko",
+        "english_title": "Elephant and Hippo",
+        "authors": [
+          "Terkule Aorabee"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Awwalu Sakiwa",
+          "Idowu Abayomi Oluwasegun"
+        ],
+        "copyright_holder": "African Storybook Initiative 2018",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=24748",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=23860"
+      },
+      {
+        "id": "24750",
+        "title": "Mdiria na bahari",
+        "english_title": "The kingfisher and the sea",
+        "authors": [
+          "Peter Omoko"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Idowu Abayomi Oluwasegun"
+        ],
+        "copyright_holder": "African Storybook Initiative 2018",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=24750",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=22642"
+      },
+      {
+        "id": "24751",
+        "title": "Kondoo aliyechoka na maisha ya jijini",
+        "english_title": "Sheep who got tired of city life",
+        "authors": [
+          "Mohammed Alhaji Modu"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Kenneth Boyowa Okitikpi"
+        ],
+        "copyright_holder": "African Storybook Initiative 2018",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=24751",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=22971"
+      },
+      {
+        "id": "24752",
+        "title": "Abby, dereva wa kike wa tuktuk",
+        "english_title": "Abebech, the female bajaj driver",
+        "authors": [
+          "Dawit Girma"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Yirgalem Birhanu"
+        ],
+        "copyright_holder": "African Storybook Initiative 2018",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=24752",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=23862"
+      },
+      {
+        "id": "24771",
+        "title": "Mojo na Kobe",
+        "english_title": "Mojo and Tortoise",
+        "authors": [
+          "Monica Oyovwevotu Dale"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Edwin Irabor"
+        ],
+        "copyright_holder": "African Storybook Initiative 2018",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=24771",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=23172"
+      },
+      {
+        "id": "2505",
+        "title": "Watoto walioumbwa kwa nta",
+        "english_title": "Children of wax",
+        "authors": [
+          "Southern African Folktale"
+        ],
+        "translators": [
+          "Mutugi Kamundi"
+        ],
+        "illustrators": [
+          "Wiehan de Jager"
+        ],
+        "copyright_holder": "African Storybook Initiative 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=2505",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=2181"
+      },
+      {
+        "id": "2823",
+        "title": "Nieleze: Furaha na Huzuni",
+        "english_title": "Happy and Sad",
+        "authors": [
+          "Madhav Chavan"
+        ],
+        "translators": [
+          "Mutugi Kamundi"
+        ],
+        "illustrators": [
+          "Rijuta Ghate"
+        ],
+        "copyright_holder": "Pratham Books 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=2823",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=1904"
+      },
+      {
+        "id": "2830",
+        "title": "Banti na Sabuni",
+        "english_title": "Bunty and Bubbly",
+        "authors": [
+          "Sorit Gupto"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Sorit Gupto"
+        ],
+        "copyright_holder": "Pratham Books 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=2830",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=913"
+      },
+      {
+        "id": "3003",
+        "title": "Ng'ombe wa Sokoni",
+        "english_title": "Cows at the market",
+        "authors": [
+          "Ursula Nafula"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Catherine Groenewald"
+        ],
+        "copyright_holder": "African Storybook Initiative, 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=3003",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=2408"
+      },
+      {
+        "id": "3127",
+        "title": "Kato Mwakili, na Shida Kubwa",
+        "english_title": "Clever Kato and the Big Trouble",
+        "authors": [
+          "Herminder Ohri"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Herminder Ohri"
+        ],
+        "copyright_holder": "Pratham Books 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=3127",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=3125"
+      },
+      {
+        "id": "31301",
+        "title": "Ninafurahi kufanya hivi",
+        "english_title": "I enjoy doing",
+        "authors": [
+          "Ursula Nafula"
+        ],
+        "translators": [
+          "African Storybook"
+        ],
+        "illustrators": [
+          "Wiehan de Jager"
+        ],
+        "copyright_holder": "African Storybook Initiative 2015",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=31301",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=15575"
+      },
+      {
+        "id": "3140",
+        "title": "Mke Mti",
+        "english_title": "The tree wife",
+        "authors": [
+          "Southern African Folktale"
+        ],
+        "translators": [
+          "Mutugi Kamundi"
+        ],
+        "illustrators": [
+          "Jemma Kahn"
+        ],
+        "copyright_holder": "African Storybook Initiative 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=3140",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=2595"
+      },
+      {
+        "id": "31407",
+        "title": "Vifungo",
+        "english_title": "Buttons",
+        "authors": [
+          "Nahyuha Sarah",
+          "Kukiriza Deborah",
+          "Wamigambe Brenda"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "African Storybook",
+          "Natalie Propa",
+          "Wiehan de Jager"
+        ],
+        "copyright_holder": "Busolwe Public Library 2016",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=31407",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=18810"
+      },
+      {
+        "id": "31418",
+        "title": "Petro na mbwa wake",
+        "english_title": "Petros and his dog",
+        "authors": [
+          "Bethelihem Waltenegus"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Brian Wambi"
+        ],
+        "copyright_holder": "African Storybook Initiative 2017",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=31418",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=20771"
+      },
+      {
+        "id": "31503",
+        "title": "Biashara ya Akoro ya ndizi",
+        "english_title": "Akoro's banana business",
+        "authors": [
+          "Mele Joab"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Atilabachew Reda",
+          "Natalie Propa"
+        ],
+        "copyright_holder": "Creative Commons Attribution (Cc-By 4.0) 2015",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=31503",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=14171"
+      },
+      {
+        "id": "3159",
+        "title": "Nozibele na Nywele Tatu",
+        "english_title": "Nozibele and the three hairs",
+        "authors": [
+          "Tessa Welch"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Wiehan de Jager"
+        ],
+        "copyright_holder": "African Storybook Initiative, 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=3159",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=1880"
+      },
+      {
+        "id": "31999",
+        "title": "Jumanne zenye furaha",
+        "english_title": "Happy Tuesdays",
+        "authors": [
+          "Aisha Muamba"
+        ],
+        "translators": [
+          "African Storybook"
+        ],
+        "illustrators": [
+          "Aisha Muamba"
+        ],
+        "copyright_holder": "African Storybook Initiative 2018",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=31999",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=31985"
+      },
+      {
+        "id": "32008",
+        "title": "Wakati",
+        "english_title": "Time",
+        "authors": [
+          "Mimi Werna"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Joe Werna"
+        ],
+        "copyright_holder": "African Storybook Initiative 2018",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=32008",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=31995"
+      },
+      {
+        "id": "32068",
+        "title": "Nyota wa Soka",
+        "english_title": "Soccer star",
+        "authors": [
+          "David J Maguruka"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "David J Maguruka"
+        ],
+        "copyright_holder": "African Storybook Initiative 2018",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=32068",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=32046"
+      },
+      {
+        "id": "32200",
+        "title": "Mama yangu",
+        "english_title": "My Mom",
+        "authors": [
+          "Merville Mabula"
+        ],
+        "translators": [
+          "African Storybook"
+        ],
+        "illustrators": [
+          "Merville Mabula"
+        ],
+        "copyright_holder": "African Storybook Initiative 2018",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=32200",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=31878"
+      },
+      {
+        "id": "32201",
+        "title": "Mchezo wa Chesi na majukumu ya familia",
+        "english_title": "Chess and family roles",
+        "authors": [
+          "Jamie Luketa"
+        ],
+        "translators": [
+          "African Storybook"
+        ],
+        "illustrators": [
+          "Jamie Luketa"
+        ],
+        "copyright_holder": "African Storybook Initiative 2018",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=32201",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=32045"
+      },
+      {
+        "id": "32202",
+        "title": "Pahali pangu pa furaha",
+        "english_title": "My happy place",
+        "authors": [
+          "Summayya Muamba"
+        ],
+        "translators": [
+          "African Storybook"
+        ],
+        "illustrators": [
+          "Summayya Muamba"
+        ],
+        "copyright_holder": "African Storybook Initiative 2018",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=32202",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=31939"
+      },
+      {
+        "id": "32252",
+        "title": "Feni na Nyoka Kijani Kibichi",
+        "english_title": "Fati and the Green Snake",
+        "authors": [
+          "Osu Library Fund"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Therson Boadu"
+        ],
+        "copyright_holder": "African Storybook Initiative 2018",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=32252",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=31836"
+      },
+      {
+        "id": "32335",
+        "title": "Je, kuna mwingine kama mimi?",
+        "english_title": "Is there anyone like me?",
+        "authors": [
+          "Fred Strydom"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Jess Jardim-Wedepohl"
+        ],
+        "copyright_holder": "Fred Strydom, Jess Jardim-Wedepohl, Stephen Wallace, Book Dash 2015",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=32335",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=15363"
+      },
+      {
+        "id": "32596",
+        "title": "Maisha ya maharagwe",
+        "english_title": "Life story of beans",
+        "authors": [
+          "Nina Orange"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Nina Orange"
+        ],
+        "copyright_holder": "African Storybook Initiative 2019",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=32596",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=32460"
+      },
+      {
+        "id": "32600",
+        "title": "Neema ananunua uzi",
+        "english_title": "Nema buys thread",
+        "authors": [
+          "Little Zebra Books"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Mirjam Gyger"
+        ],
+        "copyright_holder": "African Storybook Initiative 2018",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=32600",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=31612"
+      },
+      {
+        "id": "33172",
+        "title": "Mwalimu Akinyi",
+        "english_title": "Teacher Akinyi",
+        "authors": [
+          "Lawrence A. Konjuro"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Vusi Malindi"
+        ],
+        "copyright_holder": "African Storybook Initiative 2015",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=33172",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=9700"
+      },
+      {
+        "id": "33250",
+        "title": "Nguo zangu za shule",
+        "english_title": "My school clothes",
+        "authors": [
+          "African Storybook",
+          "Clare Verbeek",
+          "Limbali Muyendekwa",
+          "Maureen Musale",
+          "Thembani Dladla",
+          "Zanele Buthelezi"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Mlungisi Dlamini"
+        ],
+        "copyright_holder": "School of Education (UKZN) and African Storybook Initiative 2018",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=33250",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=31708"
+      },
+      {
+        "id": "33291",
+        "title": "Siafu na Njiwa mvivu",
+        "english_title": "Big-head Ant and lazy Pigeon",
+        "authors": [
+          "Terkule Aorabee"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Joe Werna"
+        ],
+        "copyright_holder": "African Storybook Initiative 2018",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=33291",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=32520"
+      },
+      {
+        "id": "33354",
+        "title": "Fana na wanyama wake (Paka rangi)",
+        "english_title": "Fana and her animals",
+        "authors": [
+          "Foziya Mohammed"
+        ],
+        "translators": [],
+        "illustrators": [
+          "Jesse Breytenbach"
+        ],
+        "copyright_holder": "African Storybook Initiative 2017",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=33354",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=21004",
+        "adapters": [
+          "Ursula Nafula"
+        ]
+      },
+      {
+        "id": "33533",
+        "title": "Mbuzi, Mbwa na Ng'ombe",
+        "english_title": "Goat, Dog and Cow",
+        "authors": [
+          "Fabian Wakholi"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Marleen Visser"
+        ],
+        "copyright_holder": "African Storybook Initiative 2018",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=33533",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=31498"
+      },
+      {
+        "id": "33656",
+        "title": "Hisia huja na kwenda",
+        "english_title": "Emotions come and go",
+        "authors": [
+          "Mimi Werna"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Joe Werna"
+        ],
+        "copyright_holder": "African Storybook Initiative 2019",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=33656",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=33352"
+      },
+      {
+        "id": "33659",
+        "title": "Familia yangu",
+        "english_title": "Maria's Family",
+        "authors": [
+          "Little Zebra Books"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Leo Daly",
+          "Magriet Brink"
+        ],
+        "copyright_holder": "African Storybook Initiative 2019",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=33659",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=33152"
+      },
+      {
+        "id": "33725",
+        "title": "Wanyama tulioona",
+        "english_title": "Animals we saw",
+        "authors": [
+          "Penuel K"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Penuel K"
+        ],
+        "copyright_holder": "African Storybook Initiative 2019",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=33725",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=33720"
+      },
+      {
+        "id": "33726",
+        "title": "Mbwa wa Dennis",
+        "english_title": "Dennis's dog",
+        "authors": [
+          "Merdi K"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Merdi K"
+        ],
+        "copyright_holder": "African Storybook Initiative 2019",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=33726",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=33721"
+      },
+      {
+        "id": "33755",
+        "title": "Lazima kusitokee tena",
+        "english_title": "Nothing must happen",
+        "authors": [
+          "Suzette T"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Suzette T"
+        ],
+        "copyright_holder": "African Storybook Initiative 2019",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=33755",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=33742"
+      },
+      {
+        "id": "33757",
+        "title": "Kila mmoja anakwenda Malawi",
+        "english_title": "Everyone goes to Malawi",
+        "authors": [
+          "Jacquiline K"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Jacquiline K"
+        ],
+        "copyright_holder": "African Storybook Initiative 2019",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=33757",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=33735"
+      },
+      {
+        "id": "33758",
+        "title": "Soka ni maisha",
+        "english_title": "Soccer is life",
+        "authors": [
+          "Pimville Library Soccer"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Pimville Library Soccer"
+        ],
+        "copyright_holder": "African Storybook Initiative 2019",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=33758",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=33730"
+      },
+      {
+        "id": "33759",
+        "title": "Mti wenye amani",
+        "english_title": "The peace tree",
+        "authors": [
+          "Mpumelelo Mlangeni",
+          "Tshiamo Msimanga",
+          "Tumi Mofokane"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Tshiamo Msimanga",
+          "Tumi Mofokane",
+          "Mpumelelo Mlangeni"
+        ],
+        "copyright_holder": "African Storybook Initiative 2019",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=33759",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=33731"
+      },
+      {
+        "id": "33835",
+        "title": "Ajenti wa Siri",
+        "english_title": "Secret agent",
+        "authors": [
+          "Linda Liphondo",
+          "Sbusiso Boikanyo"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Linda Liphondo",
+          "Sbusiso Boikanyo"
+        ],
+        "copyright_holder": "African Storybook Initiative 2019",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=33835",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=33732"
+      },
+      {
+        "id": "33837",
+        "title": "Bustani iliyokuwa Kongo",
+        "english_title": "A garden in Congo",
+        "authors": [
+          "Christelle X"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Christelle X"
+        ],
+        "copyright_holder": "African Storybook Initiative 2019",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=33837",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=33736"
+      },
+      {
+        "id": "33838",
+        "title": "Kucheza Kidalipo",
+        "english_title": "Hide and Seek",
+        "authors": [
+          "Mary Z"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Mary Z"
+        ],
+        "copyright_holder": "African Storybook Initiative 2019",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=33838",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=33737"
+      },
+      {
+        "id": "33839",
+        "title": "Ninapenda",
+        "english_title": "I love",
+        "authors": [
+          "Patience M"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Patience M"
+        ],
+        "copyright_holder": "African Storybook Initiative 2019",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=33839",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=33738"
+      },
+      {
+        "id": "33840",
+        "title": "Josia ananunua kinywaji",
+        "english_title": "Josias goes shopping",
+        "authors": [
+          "Josias M"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Josias M"
+        ],
+        "copyright_holder": "African Storybook Initiative 2019",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=33840",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=33739"
+      },
+      {
+        "id": "33841",
+        "title": "Mbwa wangu wa kupdendeza",
+        "english_title": "My lovely dogs",
+        "authors": [
+          "Priscilla K"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Priscilla K"
+        ],
+        "copyright_holder": "African Storybook Initiative 2019",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=33841",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=33740"
+      },
+      {
+        "id": "33842",
+        "title": "Wazazi wangu",
+        "english_title": "My parents",
+        "authors": [
+          "Gloria M"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Gloria M"
+        ],
+        "copyright_holder": "African Storybook Initiative 2019",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=33842",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=33741"
+      },
+      {
+        "id": "34030",
+        "title": "Methali za jamii ya Nyungwe",
+        "english_title": "Proverbs of the Nyungwe People",
+        "authors": [
+          "Little Zebra Books"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Max Okoto"
+        ],
+        "copyright_holder": "African Storybook Initiative 2019",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=34030",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=33183"
+      },
+      {
+        "id": "34079",
+        "title": "Piga hatua uoshe!",
+        "english_title": "Step and wash!",
+        "authors": [
+          "Jean de Dieu Bavugempore"
+        ],
+        "translators": [],
+        "illustrators": [
+          "Rob Owen"
+        ],
+        "copyright_holder": "African Storybook Initiative 2017",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=34079",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=34080",
+        "adapters": [
+          "African Storybook"
+        ]
+      },
+      {
+        "id": "34202",
+        "title": "Ariana anataka kutembelea Kenya",
+        "english_title": "Ariana wants to visit Kenya",
+        "authors": [
+          "Kez Badi"
+        ],
+        "translators": [],
+        "illustrators": [
+          "Brian Wambi",
+          "Catherine Groenewald",
+          "Isaac Okwir",
+          "Jesse Breytenbach",
+          "Rob Owen",
+          "Salim Kasamba"
+        ],
+        "copyright_holder": "African Storybook Initiative 2020",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=34202",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=34291"
+      },
+      {
+        "id": "34487",
+        "title": "Abeli na mwanasesere wa dadake",
+        "english_title": "Abel and his sister's doll",
+        "authors": [
+          "Eyobi Kitaw"
+        ],
+        "translators": [
+          "Geraldine Nanjala"
+        ],
+        "illustrators": [
+          "Jesse Breytenbach"
+        ],
+        "copyright_holder": "African Storybook Initiative 2017",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=34487",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=21513"
+      },
+      {
+        "id": "34488",
+        "title": "Mamba na Nyani",
+        "english_title": "Crocodile and Baboon",
+        "authors": [
+          "Basilio Gimo"
+        ],
+        "translators": [
+          "Geraldine Nanjala"
+        ],
+        "illustrators": [
+          "Jeremiah Dube",
+          "Little Zebra Books"
+        ],
+        "copyright_holder": "Little Zebra Books 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=34488",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=7357"
+      },
+      {
+        "id": "34511",
+        "title": "Kuku na Jongoo",
+        "english_title": "Chicken and Millipede",
+        "authors": [
+          "Winny Asara"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Magriet Brink"
+        ],
+        "copyright_holder": "African Storybook Initiative 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=34511",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=9094"
+      },
+      {
+        "id": "34653",
+        "title": "Maisha ya viatu",
+        "english_title": "Life of shoes",
+        "authors": [
+          "Nozuko Mkizwana"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Nozuko Mkizwana"
+        ],
+        "copyright_holder": "African Storybook Initiative 2020",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=34653",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=34426"
+      },
+      {
+        "id": "34782",
+        "title": "Amara na wanyama",
+        "english_title": "Amara and animals",
+        "authors": [
+          "Judy B. Maranga"
+        ],
+        "translators": [
+          "Geraldine Nanjala"
+        ],
+        "illustrators": [
+          "Sarah Bouwer"
+        ],
+        "copyright_holder": "Judy B.maranga 2015",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=34782",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=14479"
+      },
+      {
+        "id": "34791",
+        "title": "Laana au Baraka?",
+        "english_title": "A Curse or a Blessing?",
+        "authors": [
+          "Alfred Esinyen"
+        ],
+        "translators": [
+          "Geraldine Nanjala"
+        ],
+        "illustrators": [
+          "Marleen Visser",
+          "Natalie Propa",
+          "Silva Afonso",
+          "Vusi Malindi"
+        ],
+        "copyright_holder": "Lolupe Pilot Site 2015",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=34791",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=13317"
+      },
+      {
+        "id": "37595",
+        "title": "Kuwa Salama",
+        "english_title": "Stay safe",
+        "authors": [
+          "Ubongo"
+        ],
+        "translators": [
+          "Ubongo"
+        ],
+        "illustrators": [
+          "Ubongo"
+        ],
+        "copyright_holder": "African Storybook Initiative 2021",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=37595",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=49286"
+      },
+      {
+        "id": "39939",
+        "title": "Cheko cha furaha cha Samweli",
+        "english_title": "Sizwe's smile",
+        "authors": [
+          "Vianne Venter"
+        ],
+        "translators": [
+          "Amani Bisimwa",
+          "Contes Libres RDC",
+          "Wivine Chofi"
+        ],
+        "illustrators": [
+          "Genevieve Terblanche"
+        ],
+        "copyright_holder": "Vianne Venter, Genevieve Terblanche, Lauren Rycroft and Bookdash.org 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=39939",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=8978"
+      },
+      {
+        "id": "39975",
+        "title": "Tabasamu la Samweli",
+        "english_title": "Sizwe's smile",
+        "authors": [
+          "Vianne Venter"
+        ],
+        "translators": [],
+        "illustrators": [
+          "Genevieve Terblanche"
+        ],
+        "copyright_holder": "Vianne Venter, Genevieve Terblanche, Lauren Rycroft and Bookdash.org 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=39975",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=8978",
+        "adapters": [
+          "Vianne Venter"
+        ]
+      },
+      {
+        "id": "40030",
+        "title": "Daisy wa ajabu!",
+        "english_title": "Amazing Daisy",
+        "authors": [
+          "Nozizwe Herero"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Siya Masuku"
+        ],
+        "copyright_holder": "Nozizwe Herero, Siya Masuku, Leona Ingram, Book Dash 2015",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=40030",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=15321"
+      },
+      {
+        "id": "48877",
+        "title": "Tunaishi katika Manyatta",
+        "english_title": "We live in a manyatta",
+        "authors": [
+          "Nina Orange",
+          "Ursula Nafula"
+        ],
+        "translators": [
+          "Anne Kamau"
+        ],
+        "illustrators": [
+          "Arthur Makali"
+        ],
+        "copyright_holder": "African Storybook Initiative 2023",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=48877",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=47022"
+      },
+      {
+        "id": "48884",
+        "title": "Ann anahoji Akiliunde (AI)",
+        "english_title": "Ann interviews AI",
+        "authors": [
+          "Nina Orange"
+        ],
+        "translators": [
+          "Anne Kamau"
+        ],
+        "illustrators": [
+          "Kenneth Boyowa Okitikpi"
+        ],
+        "copyright_holder": "African Storybook Initiative 2023",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=48884",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=47073"
+      },
+      {
+        "id": "53400",
+        "title": "Mbona kichwa cha Nita kinaning'inia chini?",
+        "english_title": "Why is Nita upside down?",
+        "authors": [
+          "Roxana Bouwer"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Sarah Bouwer"
+        ],
+        "copyright_holder": "Roxana Bouwer, Sarah Bouwer, Emma Hearne, Book Dash 2015",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=53400",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=16535"
+      },
+      {
+        "id": "7860",
+        "title": "Mkeka wa Akai",
+        "english_title": "Akai's special mat",
+        "authors": [
+          "Ursula Nafula"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Catherine Groenewald"
+        ],
+        "copyright_holder": "African Storybook Initiative 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=7860",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=6008"
+      },
+      {
+        "id": "7871",
+        "title": "Mimi na familia yangu",
+        "english_title": "My family and I",
+        "authors": [
+          "Waako Joshua",
+          "Cornelius Gulere"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Wiehan de Jager"
+        ],
+        "copyright_holder": "Ugandan Community Libraries Association 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=7871",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=5266"
+      },
+      {
+        "id": "7874",
+        "title": "Namukaywa",
+        "english_title": "Namukhaywa",
+        "authors": [
+          "Matthews M Wanga"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Wiehan de Jager"
+        ],
+        "copyright_holder": "African Storybook Initiative 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=7874",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=5859"
+      },
+      {
+        "id": "8040",
+        "title": "Hamisi abahatika",
+        "english_title": "Hamisi's lucky day",
+        "authors": [
+          "Adelheid Marie Bwire"
+        ],
+        "translators": [],
+        "illustrators": [
+          "Rob Owen"
+        ],
+        "copyright_holder": "African Storybook Initiative and Molteno Institute 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=8040",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=11990"
+      },
+      {
+        "id": "8433",
+        "title": "Siku niliyopotea sokoni",
+        "english_title": "My first day at the market",
+        "authors": [
+          "Timothy Kabare",
+          "Ursula Nafula"
+        ],
+        "translators": [
+          "Pete Mhunzi"
+        ],
+        "illustrators": [
+          "Catherine Groenewald"
+        ],
+        "copyright_holder": "African Storybook Initiative, 2014 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=8433",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=2109"
+      },
+      {
+        "id": "8438",
+        "title": "Sungura chini ya mti",
+        "english_title": "Rabbit under the tree",
+        "authors": [
+          "Phumy Zikode"
+        ],
+        "translators": [
+          "Pete Mhunzi"
+        ],
+        "illustrators": [
+          "Wiehan de Jager"
+        ],
+        "copyright_holder": "African Storybook Initiative 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=8438",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=7734"
+      },
+      {
+        "id": "8690",
+        "title": "Jinsi usiku uliingia kijijini kwa kina Opio",
+        "english_title": "How night came to Opio's village",
+        "authors": [
+          "Robert Ekuka"
+        ],
+        "translators": [
+          "Mutugi Kamundi"
+        ],
+        "illustrators": [
+          "Wiehan de Jager"
+        ],
+        "copyright_holder": "African Storybook Initiative 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=8690",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=2102"
+      },
+      {
+        "id": "8707",
+        "title": "Siafu amwokoa Njiwa",
+        "english_title": "How Ant saved Dove",
+        "authors": [
+          "Kholeka Mabeta",
+          "Judith Baker"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Wiehan de Jager"
+        ],
+        "copyright_holder": "African Storybook Initiative 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=8707",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=2076"
+      },
+      {
+        "id": "8712",
+        "title": "Sababu ya chura kuwa na sura mbaya",
+        "english_title": "Why Frog is so ugly",
+        "authors": [
+          "Mozambican folktale"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Hélder de Paz Alexandre"
+        ],
+        "copyright_holder": "Mozambican Writers 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=8712",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=7205"
+      },
+      {
+        "id": "8713",
+        "title": "Teksi ya Nanu",
+        "english_title": "Nanu's taxi",
+        "authors": [
+          "Marion Drew"
+        ],
+        "translators": [
+          "Brigid Simiyu"
+        ],
+        "illustrators": [
+          "Marion Drew"
+        ],
+        "copyright_holder": "Marion Drew 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=8713",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=7590"
+      },
+      {
+        "id": "8877",
+        "title": "Paka mwerevu",
+        "english_title": "Clever cat",
+        "authors": [
+          "Ursula Nafula"
+        ],
+        "translators": [],
+        "illustrators": [
+          "Catherine Groenewald"
+        ],
+        "copyright_holder": "African Storybook Initiative 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=8877",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=8878"
+      },
+      {
+        "id": "9259",
+        "title": "Kalabushe, Chiriku",
+        "english_title": "Kalabushe the talkative",
+        "authors": [
+          "Gaspah Juma"
+        ],
+        "translators": [],
+        "illustrators": [
+          "Jesse Breytenbach"
+        ],
+        "copyright_holder": "African Storybook Initiative 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=9259",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=9526"
+      },
+      {
+        "id": "9480",
+        "title": "Tembo na Vyura",
+        "english_title": "The Elephant and the Frogs",
+        "authors": [
+          "Mozambican folktale"
+        ],
+        "translators": [
+          "Caren Echesa"
+        ],
+        "illustrators": [
+          "Amir Bachir António Necas"
+        ],
+        "copyright_holder": "Mozambican Writers 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=9480",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=8204"
+      },
+      {
+        "id": "9527",
+        "title": "Rafiki ninayemkosa",
+        "english_title": "The friend I miss",
+        "authors": [
+          "Ursula Nafula"
+        ],
+        "translators": [
+          "Ursula Nafula"
+        ],
+        "illustrators": [
+          "Benjamin Mitchley",
+          "Catherine Groenewald",
+          "Rijuta Ghate"
+        ],
+        "copyright_holder": "African Storybook Initiative 2014",
+        "licence": "CC-BY-4.0",
+        "url": "https://www.africanstorybook.org/newviewer/index.php?id=9527",
+        "english_url": "https://www.africanstorybook.org/newviewer/index.php?id=2278"
+      }
+    ]
   }
 }

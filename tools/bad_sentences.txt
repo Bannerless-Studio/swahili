@@ -4076,3 +4076,77 @@ Waisraeli walimpigia simu na kumwambia kuwa wangeipiga mabomu nyumba yake katika
 Nilibakiza vitu vichache sana ambavyo ningeweza kusafiri navyo.
 # s1495 (entered on the round-2 rebuild) police beating at A2, content policy
 Ndipo kundi la maafisa wa polisi lilipomgeukia Mwangosi, kwa kumpiga vibaya kwa dakika kadhaa.
+
+# story sentences (African Storybook) dropped after the full hand audit of 2026-10-15: translation differs from the Swahili (renamed character, extra or missing content, wrong meaning)
+"Unasumbuliwa na nini mke wangu mrembo?"
+Kofia ilizuiliwa katika matawi ya mti wenye miiba.
+Ni kofia gani ambayo nimevaa leo?
+Likawauliza, "Ni nani kati yenu anayependwa na wazazi wote wawili?"
+Wakaanza kuwakosoa watu! Watu walishangaa na kupiga hatua nyuma wakiwaogopa ng'ombe.
+Mimi, kima na nyani wangu tunakula ndizi kila siku.
+Mimi na Kobe tunaenda nyumbani polepole pamoja na nyoka.
+Baba na mjomba wanarekebisha gari.
+Opio alijipata katika kijiji tofauti.
+Aliwatuma wanyama kukomesha kelele zilizofanywa na vyura.
+Dereva wa lori hakuwa mwangalifu.
+Niliwapata wakiwa nje. Wote walitazama juu kwa mshangao.
+Aliwaona watu wengi zaidi wakiingia ndani ya basi.
+Bibi aliwakaribisha kwa kucheza na kuimba kwa furaha.
+Mkite alikuwa wa kwanza kufika.
+Alikuwa mtoto mwingine wa tembo. Alifunikwa kwa blanketi.
+Wasichana wadogo walifanya kazi za nyumbani pale mtaani.
+Juma alikuwa amepanda juu ya mti.
+Walimwona Unyalego akiwa kinywa wazi, tayari kuwameza.
+Wanyama walifurahi. Sasa wangeweza kutembea na kukimbia.
+Hapo kale aliishi mzee mmoja aliyeitwa Lotum.
+Jina lake ni Ukosefu-Kinga-Mwilini.
+Tulienda pamoja sokoni kununua mboga.
+Walitimiza mahitaji yao kutokana na juhudi zao.
+Kazi yake ilikuwa rahisi.
+"Asante bibi," tulimjibu. Tuliweka vikombe vyetu vya maziwa.
+Siku hiyo, maombi yake yalijibiwa.
+Kiumbe hicho kilikuwa na macho mawili, mapua mawili, viganja viwili na mikono miwili.
+Kilikuwa na macho mawili, mapua mawili, viganja viwili na mikono miwili.
+Aliacha kucheza akakimbia kuelekea mahali watoto wale walikokuwa.
+Aliishi maisha ya upweke mbali na waliompenda.
+Mwenye chungu alimsubiri Biantaka arejeshe chungu chake bila mafanikio.
+Niliruka juu na kuondoka kitandani.
+Usiku huo, nduguze Kadogo walimchukua punda wakaenda kwa adui yao.
+Hapo kale, kulikuwa na mtu aliyeitwa Pepe.
+Siku moja Pepe alikuwa mgonjwa.
+Pepe alikuwa tayari kuanza maisha mapya pamoja na mkewe na mbwa wake.
+Pepe alimkasirikia sana mkewe.
+Pepe alistaajabu kumpata mkewe na chungu mdomoni.
+Watoto hujitayarisha kurudi shuleni baada ya wikendi.
+Basi alianza kumpikia mke mwenziwe chakula.
+Aliamua kuwauza ili wapate chakula na makazi bora.
+Aliwaalika wanafunzi wa darasa la Sisanda kumtembelea Furaha.
+Walitaka sana kuchezea kwenye mvua hiyo.
+Siku moja, Tai alimkuta Kuku akiwa anapumzika chini ya mti.
+Jojo alifika nyumbani kwake akanywa maji baridi kabla kuendelea na safari.
+Samaki alimwambia rafiki yake Sima waende pamoja baharini waogelee.
+Kinywa alianza kumwita, "Mtumishi! Mtumishi! Uko wapi?"
+Alipochoka, alisema kwa hasira, "Mbwa huyu ni gaidi sana."
+Siku moja vijina wa kijijini Raha waliamka na kukuta kuwa chakula chote kilikuwa kimeisha.
+Tembo aliongozwa na Fimbo akamfuata Kiboko.
+"Kabla ya kuamua kutenda jambo, tafadhali fikirieni kinachoweza kutokea. Mnaweza kuwaumiza wenzenu."
+Hakuwa ameanza kwenda shuleni.
+Baba akasema, "Feni, uko salama. Twende tumwambie mama kuhusu yule nyoka kijani kibichi."
+Neema anahitaji kununua uzi zaidi.
+Neema anahitaji pesa za kununua uzi.
+Walipewa chakula. Baada ya kula, Njiwa na familia yake walirudi kwao.
+Hiyo ndiyo sababu, siku zote, Mbwa hulikimbilia gari.
+Lakini Yadoo anaweza kuomba msaada.
+Je! Unaweza kujibu swali lake?
+Alimwonea Kocha Sepo wivu sana kwa sababu ya mafanikio yake.
+Chura wote huzaliwa kwa njia ile ile.
+Ilichukua muda mrefu sana kusafisha gari hilo chafu.
+Aliwahakikishia watu kwamba muumba angewapa mvua hivi karibuni.
+Usisogelee maji yenye kina kirefu, mito, maziwa na bahari...
+Zawadi alishikilia lile tabasamu kwani lilikuwa na thamani sana asingaliruhusu liondoke.
+Zawadi alifurahi sana mpaka tabasamu lake likapanda juu na kumwangaza mtu yule aliyeleta barua.
+
+
+# story replacements found bad in the audit of the post-drop picks
+"Hebu tuanze kula mlo."
+Wanaume na wanawake wa umri wake walimtazama kwa mshangao.
