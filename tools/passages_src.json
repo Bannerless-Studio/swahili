@@ -7728,6 +7728,2500 @@
      "sentence": 11
     }
    ]
+  },
+  {
+   "id": "p0061",
+   "lv": "A2",
+   "title": "Mazoezi ya dharura",
+   "oop": {},
+   "names": [
+    "Neema"
+   ],
+   "sentences": [
+    [
+     "Jana shuleni kwetu kulikuwa na mazoezi ya dharura.",
+     "Yesterday at our school there was an emergency drill."
+    ],
+    [
+     "Mwalimu mkuu alituambia kwamba tetemeko linaweza kutokea siku yoyote.",
+     "The head teacher told us that an earthquake can happen any day."
+    ],
+    [
+     "Tuliposikia ishara, tuliacha vitabu vyetu na kutoka darasani haraka.",
+     "When we heard the signal, we left our books and went out of the classroom quickly."
+    ],
+    [
+     "Tulishuka ngazi polepole bila kukimbia.",
+     "We went down the stairs slowly without running."
+    ],
+    [
+     "Kisha tulikusanyika uwanjani, mbali na majengo na miti.",
+     "Then we gathered in the field, far from the buildings and trees."
+    ],
+    [
+     "Walimu walitaja majina ya wanafunzi wote ili kujua kama kila mtu yupo.",
+     "The teachers called out all the students' names to know whether everyone was there."
+    ],
+    [
+     "Msichana mmoja aliogopa sana, lakini rafiki yake alimshika mkono.",
+     "One girl was very afraid, but her friend held her hand."
+    ],
+    [
+     "Mwalimu Neema alitukumbusha kwamba ishara ya hatari haitakiwi kupuuzwa.",
+     "Teacher Neema reminded us that a danger signal must not be ignored."
+    ],
+    [
+     "Baada ya dakika kumi tulirudi darasani, na mwalimu mkuu alituambia kwamba tumefanya vizuri.",
+     "After ten minutes we returned to the classroom, and the head teacher told us that we had done well."
+    ],
+    [
+     "Sasa kila mmoja wetu anajua cha kufanya tetemeko likitokea.",
+     "Now each one of us knows what to do if an earthquake happens."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Wanafunzi walifanya nini baada ya ishara?",
+     "en": "What did the students do after the signal?",
+     "type": "mc",
+     "options": [
+      "Walikaa kimya mezani",
+      "Walitoka nje haraka",
+      "Walikwenda kwa mwalimu",
+      "Walianza kusoma kitabu"
+     ],
+     "answer": 1,
+     "words": [
+      "acha",
+      "ishara"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "Wanafunzi walishuka ngazi kwa kukimbia.",
+     "en": "The students went down the stairs by running.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "ngazi"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "Wanafunzi walikusanyika wapi?",
+     "en": "Where did the students gather?",
+     "type": "mc",
+     "options": [
+      "Ndani ya darasa kubwa karibu na ofisi ya mwalimu",
+      "Chini ya ngazi",
+      "Kwenye uwanja wenye nafasi wazi",
+      "Karibu na jengo refu"
+     ],
+     "answer": 2,
+     "words": [
+      "uwanja",
+      "mbali"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "Walimu waliita wanafunzi kwa majina yao.",
+     "en": "The teachers called the students by their names.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "taja",
+      "jina"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "Rafiki wa msichana huyo alimwacha peke yake.",
+     "en": "The girl's friend left her alone.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "ogopa",
+      "shika"
+     ],
+     "sentence": 6
+    }
+   ]
+  },
+  {
+   "id": "p0062",
+   "lv": "A2",
+   "title": "Ombi la ruhusa",
+   "oop": {},
+   "names": [
+    "Fatuma",
+    "Omari",
+    "Salim"
+   ],
+   "sentences": [
+    [
+     "Kwa Bwana Omari,",
+     "To Mr Omari,"
+    ],
+    [
+     "Ninaandika kuomba ruhusa ya siku mbili wiki ijayo.",
+     "I am writing to ask for two days of leave next week."
+    ],
+    [
+     "Mama yangu mzee anakwenda hospitali kwa uchunguzi, na hakuna mtu mwingine wa kwenda naye.",
+     "My elderly mother is going to the hospital for an examination, and there is nobody else to go with her."
+    ],
+    [
+     "Dada yangu anaishi mbali na hawezi kuja.",
+     "My sister lives far away and cannot come."
+    ],
+    [
+     "Nimemaliza kazi zote muhimu za wiki hii, na nitafanya kazi ya ziada wikendi ili kila kitu kiwe tayari.",
+     "I have finished all the important work of this week, and I will do extra work this weekend so that everything is ready."
+    ],
+    [
+     "Mwenzangu Salim amekubali kunisaidia na wateja wangu.",
+     "My colleague Salim has agreed to help me with my customers."
+    ],
+    [
+     "Nitarudi kazini Jumatano asubuhi.",
+     "I will return to work on Wednesday morning."
+    ],
+    [
+     "Kama kuna hati yoyote ninayopaswa kujaza, tafadhali niambie.",
+     "If there is any document I must fill in, please tell me."
+    ],
+    [
+     "Daktari alisema kwamba uchunguzi huu ni muhimu sana kwa afya yake.",
+     "The doctor said that this examination is very important for her health."
+    ],
+    [
+     "Najua kwamba wiki ijayo kuna wateja wengi, lakini nitaandaa kazi zote mapema.",
+     "I know that next week there are many customers, but I will prepare all the work early."
+    ],
+    [
+     "Ninashukuru kwa uelewa wako.",
+     "I thank you for your understanding."
+    ],
+    [
+     "Wako, Fatuma.",
+     "Yours, Fatuma."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Fatuma anaomba nini?",
+     "en": "What does Fatuma ask for?",
+     "type": "mc",
+     "options": [
+      "Kupandishwa cheo",
+      "Kupewa mshahara zaidi",
+      "Kuhamia ofisi nyingine mjini",
+      "Kupumzika siku mbili kazini"
+     ],
+     "answer": 3,
+     "words": [
+      "omba",
+      "ruhusa"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "Mama wa Fatuma anakwenda hospitali kwa ajili ya uchunguzi.",
+     "en": "Fatuma's mother is going to the hospital for an examination.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "uchunguzi"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "Dada ya Fatuma anaweza kumpeleka mama hospitali.",
+     "en": "Fatuma's sister can take their mother to the hospital.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "dada",
+      "mbali"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "Salim atafanya nini wakati Fatuma hayupo?",
+     "en": "What will Salim do while Fatuma is away?",
+     "type": "mc",
+     "options": [
+      "Atawasaidia wateja wa Fatuma",
+      "Atamwandikia mama yake barua ndefu",
+      "Atakwenda hospitali",
+      "Atafunga ofisi"
+     ],
+     "answer": 0,
+     "words": [
+      "kubali",
+      "mteja"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "Fatuma yuko tayari kujaza hati ikihitajika.",
+     "en": "Fatuma is ready to fill in a document if needed.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "hati",
+      "jaza"
+     ],
+     "sentence": 7
+    }
+   ]
+  },
+  {
+   "id": "p0063",
+   "lv": "A2",
+   "title": "Ziara ya makumbusho",
+   "oop": {
+    "makumbusho": "museum, the place visited, no pack word"
+   },
+   "names": [],
+   "sentences": [
+    [
+     "Wiki iliyopita darasa letu lilifanya ziara ya makumbusho ya mji.",
+     "Last week our class made a visit to the town museum."
+    ],
+    [
+     "Mwongozo alitueleza historia ya nchi yetu tangu karne nyingi zilizopita.",
+     "The guide explained to us the history of our country from many centuries ago."
+    ],
+    [
+     "Katika chumba cha kwanza tuliona vyombo vya zamani vya kupikia na vazi la mfalme.",
+     "In the first room we saw old cooking pots and a king's garment."
+    ],
+    [
+     "Vazi hilo lilikuwa na rangi ya dhahabu na lilikuwa zito sana.",
+     "That garment was the colour of gold and was very heavy."
+    ],
+    [
+     "Chumba cha pili kilikuwa na ramani kubwa ya Afrika ukutani.",
+     "The second room had a big map of Africa on the wall."
+    ],
+    [
+     "Kwenye ramani hiyo kulikuwa na mstari mwekundu uliofuata njia ya biashara ya kale.",
+     "On that map there was a red line that followed an ancient trade route."
+    ],
+    [
+     "Mwalimu alituomba tuandike tuliyoyaona bila kugusa chochote.",
+     "The teacher asked us to write what we saw without touching anything."
+    ],
+    [
+     "Mimi nilipenda sana picha za wasanii wa zamani, hasa picha ya mashua ndogo baharini.",
+     "I liked very much the pictures by artists of old, especially the picture of a small boat at sea."
+    ],
+    [
+     "Kabla ya kuondoka tulinunua vitabu vidogo vya kumbukumbu.",
+     "Before leaving we bought small books as souvenirs."
+    ],
+    [
+     "Ziara hiyo ilitufundisha mengi, na sasa ninataka kurudi pamoja na familia yangu.",
+     "The visit taught us a lot, and now I want to go back with my family."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Mwongozo alieleza nini?",
+     "en": "What did the guide explain?",
+     "type": "mc",
+     "options": [
+      "Njia za kufika mjini",
+      "Mambo ya zamani za nchi",
+      "Bei za vitabu",
+      "Kazi za walimu"
+     ],
+     "answer": 1,
+     "words": [
+      "mwongozo",
+      "historia"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "Vazi la mfalme lilikuwa jepesi.",
+     "en": "The king's garment was light.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "vazi",
+      "mfalme"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "Mstari mwekundu kwenye ramani ulionyesha nini?",
+     "en": "What did the red line on the map show?",
+     "type": "mc",
+     "options": [
+      "Mpaka wa nchi",
+      "Mahali pa makumbusho",
+      "Njia ya kale ya biashara",
+      "Barabara kuu ya mji wa sasa"
+     ],
+     "answer": 2,
+     "words": [
+      "ramani",
+      "mstari"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "Wanafunzi hawakuruhusiwa kugusa vitu.",
+     "en": "The students were not allowed to touch things.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "gusa"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "Mwandishi alipenda picha ya mkulima shambani.",
+     "en": "The writer liked the picture of a farmer in the field.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "msanii",
+      "mashua"
+     ],
+     "sentence": 7
+    }
+   ]
+  },
+  {
+   "id": "p0064",
+   "lv": "A2",
+   "title": "Kambi ya shule",
+   "oop": {},
+   "names": [
+    "Baraka"
+   ],
+   "sentences": [
+    [
+     "Mwezi uliopita Baraka alikwenda kambi ya shule kwa siku tatu.",
+     "Last month Baraka went to a school camp for three days."
+    ],
+    [
+     "Kambi ilikuwa kwenye kilima kizuri karibu na ziwa.",
+     "The camp was on a beautiful hill near a lake."
+    ],
+    [
+     "Siku ya kwanza vijana walipanga mahema yao kwa mstari.",
+     "On the first day the young people set up their tents in a line."
+    ],
+    [
+     "Usiku kulikuwa na giza kubwa, lakini nyota nyingi zilionekana angani.",
+     "At night it was very dark, but many stars could be seen in the sky."
+    ],
+    [
+     "Siku ya pili kulikuwa na mashindano ya michezo.",
+     "On the second day there were sports competitions."
+    ],
+    [
+     "Walikimbia, walivuka mto mdogo kwa kutumia mbao na kuruka juu ya mashimo madogo.",
+     "They ran, crossed a small river using planks and jumped over small holes."
+    ],
+    [
+     "Baraka alianguka mara moja na kuumia mguu kidogo, lakini hakukata tamaa.",
+     "Baraka fell once and hurt his leg a little, but he did not give up."
+    ],
+    [
+     "Kikundi chake kilifanya juhudi kubwa na kushika nafasi ya kwanza.",
+     "His group made a great effort and took first place."
+    ],
+    [
+     "Walimu waliwapa tuzo na bendera ndogo.",
+     "The teachers gave them a prize and a small flag."
+    ],
+    [
+     "Siku ya mwisho walisafisha eneo lote kabla ya kuondoka.",
+     "On the last day they cleaned the whole area before leaving."
+    ],
+    [
+     "Baraka alirudi nyumbani amechoka lakini ana furaha, na ana hadithi nyingi za kusimulia.",
+     "Baraka came home tired but happy, and with many stories to tell."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Baraka alikaa kambini kwa muda gani?",
+     "en": "How long did Baraka stay at the camp?",
+     "type": "mc",
+     "options": [
+      "Wiki mbili",
+      "Mwezi mzima",
+      "Siku moja",
+      "Siku tatu"
+     ],
+     "answer": 3,
+     "words": [
+      "kambi"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "Usiku nyota zilionekana angani.",
+     "en": "At night the stars could be seen in the sky.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "giza",
+      "nyota"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "Baraka alipata shida gani kwenye mashindano?",
+     "en": "What trouble did Baraka have in the competition?",
+     "type": "mc",
+     "options": [
+      "Aliumia mguu baada ya kuanguka",
+      "Alipoteza viatu vyake vyote usiku",
+      "Alichelewa kuamka",
+      "Alipotea msituni"
+     ],
+     "answer": 0,
+     "words": [
+      "anguka",
+      "mguu"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "Kikundi cha Baraka kilimaliza mwisho.",
+     "en": "Baraka's group finished last.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "kikundi",
+      "nafasi"
+     ],
+     "sentence": 7
+    },
+    {
+     "q": "Washindi walipewa tuzo na bendera.",
+     "en": "The winners were given a prize and a flag.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "tuzo",
+      "bendera"
+     ],
+     "sentence": 8
+    }
+   ]
+  },
+  {
+   "id": "p0065",
+   "lv": "A2",
+   "title": "Safari ya mashua",
+   "oop": {},
+   "names": [
+    "Pemba",
+    "Hamisi"
+   ],
+   "sentences": [
+    [
+     "Jumamosi iliyopita baba yangu alinipeleka Pemba kwa mashua pamoja na mjomba Hamisi.",
+     "Last Saturday my father took me to Pemba by boat with uncle Hamisi."
+    ],
+    [
+     "Asubuhi bahari ilikuwa na utulivu na jua lilikuwa kali.",
+     "In the morning the sea was calm and the sun was strong."
+    ],
+    [
+     "Umbali kutoka mji hadi kisiwani ni maili kumi tu.",
+     "The distance from the town to the island is only ten miles."
+    ],
+    [
+     "Hata hivyo, upepo mkali ulikuja na mawimbi yakawa makubwa.",
+     "However, a strong wind came and the waves became big."
+    ],
+    [
+     "Mwenye mashua alituomba tukae chini na tusisimame.",
+     "The owner of the boat asked us to sit down and not stand."
+    ],
+    [
+     "Mimi niliogopa kidogo, lakini baba alinishika mkono na kunieleza kwamba mashua ni imara.",
+     "I was a little afraid, but my father held my hand and explained to me that the boat is strong."
+    ],
+    [
+     "Baada ya saa moja dhoruba ilipita na anga likawa safi tena.",
+     "After an hour the storm passed and the sky became clear again."
+    ],
+    [
+     "Nilichukua kamera ya baba na kupiga picha za samaki wakiruka juu ya maji.",
+     "I took my father's camera and took pictures of fish jumping above the water."
+    ],
+    [
+     "Tulipowasili kisiwani, mjomba alitupokea na kutupa chakula kizuri.",
+     "When we arrived on the island, my uncle received us and gave us good food."
+    ],
+    [
+     "Siku hiyo nilijifunza kwamba tahadhari ni muhimu baharini.",
+     "That day I learned that caution is important at sea."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Baba na mtoto walisafiri kwa nini?",
+     "en": "How did the father and child travel?",
+     "type": "mc",
+     "options": [
+      "Kwa basi kubwa la abiria",
+      "Kwa mashua ya baharini",
+      "Kwa ndege ndogo",
+      "Kwa gari la mjomba"
+     ],
+     "answer": 1,
+     "words": [
+      "mashua"
+     ],
+     "sentence": 0
+    },
+    {
+     "q": "Umbali wa kwenda kisiwani ni mrefu sana.",
+     "en": "The distance to the island is very long.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "umbali",
+      "maili"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "Mwenye mashua aliwaomba abiria wafanye nini?",
+     "en": "What did the owner of the boat ask the passengers to do?",
+     "type": "mc",
+     "options": [
+      "Kuvua samaki",
+      "Kula chakula",
+      "Kukaa chini",
+      "Kupiga kelele"
+     ],
+     "answer": 2,
+     "words": [
+      "kaa",
+      "omba"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "Hali ya hewa ilirudi kuwa nzuri baadaye.",
+     "en": "The weather became good again later.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "dhoruba",
+      "anga"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "Mtoto alipiga picha za samaki.",
+     "en": "The child took pictures of fish.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "kamera",
+      "ruka"
+     ],
+     "sentence": 7
+    }
+   ]
+  },
+  {
+   "id": "p0066",
+   "lv": "A2",
+   "title": "Simu mpya",
+   "oop": {},
+   "names": [
+    "Rashidi"
+   ],
+   "sentences": [
+    [
+     "Rashidi alihitaji simu mpya kwa sababu simu yake ya zamani ilivunjika.",
+     "Rashidi needed a new phone because his old phone broke."
+    ],
+    [
+     "Jumamosi asubuhi alikwenda dukani na kuona simu nyingi za bei tofauti.",
+     "On Saturday morning he went to the shop and saw many phones of different prices."
+    ],
+    [
+     "Mwenye duka alimwonyesha simu ya bei kubwa yenye kamera nzuri sana.",
+     "The shopkeeper showed him an expensive phone with a very good camera."
+    ],
+    [
+     "Rashidi alisoma maelezo kwenye sanduku, lakini bei ilikuwa kubwa kuliko pesa alizokuwa nazo.",
+     "Rashidi read the explanation on the box, but the price was higher than the money he had."
+    ],
+    [
+     "Aliuliza kama kuna chaguo jingine la bei ndogo.",
+     "He asked whether there was another choice at a lower price."
+    ],
+    [
+     "Mwenye duka alimpa simu ya kawaida yenye teknolojia nzuri.",
+     "The shopkeeper gave him an ordinary phone with good technology."
+    ],
+    [
+     "Rashidi alibonyeza vifungo vichache ili kuijaribu na kuona programu zote.",
+     "Rashidi pressed a few buttons to try it and see all the programs."
+    ],
+    [
+     "Hakuna kitu cha ajabu kilichomvutia, lakini simu ilifanya kazi vizuri.",
+     "Nothing amazing attracted him, but the phone worked well."
+    ],
+    [
+     "Alilipa kupitia akaunti yake ya benki, kisha akaondoka dukani akiwa na furaha.",
+     "He paid through his bank account, then left the shop happy."
+    ],
+    [
+     "Anaamini kwamba amefanya uamuzi mzuri.",
+     "He believes that he made a good decision."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Simu ya zamani ya Rashidi ilikuwa katika hali gani?",
+     "en": "What state was Rashidi's old phone in?",
+     "type": "mc",
+     "options": [
+      "Ilikuwa imepotea",
+      "Ilikuwa imeuzwa",
+      "Ilikuwa chafu sana",
+      "Ilikuwa imevunjika"
+     ],
+     "answer": 3,
+     "words": [
+      "vunjika",
+      "simu"
+     ],
+     "sentence": 0
+    },
+    {
+     "q": "Rashidi alikuwa na pesa nyingi kuliko bei ya simu ya kwanza.",
+     "en": "Rashidi had more money than the price of the first phone.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "bei",
+      "pesa"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "Rashidi aliuliza nini?",
+     "en": "What did Rashidi ask?",
+     "type": "mc",
+     "options": [
+      "Kama kuna simu ya bei ndogo",
+      "Kama duka litafungwa",
+      "Kama anaweza kulipa kesho",
+      "Kama simu ina rangi nyingine"
+     ],
+     "answer": 0,
+     "words": [
+      "chaguo",
+      "bei"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "Rashidi alilipa kwa njia ya benki.",
+     "en": "Rashidi paid by way of the bank.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "akaunti",
+      "lipa"
+     ],
+     "sentence": 8
+    },
+    {
+     "q": "Rashidi ameridhika na uamuzi wake.",
+     "en": "Rashidi is satisfied with his decision.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "uamuzi"
+     ],
+     "sentence": 9
+    }
+   ]
+  },
+  {
+   "id": "p0067",
+   "lv": "A2",
+   "title": "Mkutano wa mtaa",
+   "oop": {},
+   "names": [],
+   "sentences": [
+    [
+     "Tangazo kwa wakazi wote wa mtaa wetu.",
+     "Announcement to all residents of our neighbourhood."
+    ],
+    [
+     "Kutakuwa na mkutano Jumamosi hii saa nne asubuhi kwenye ukumbi wa shule.",
+     "There will be a meeting this Saturday at ten in the morning in the school hall."
+    ],
+    [
+     "Mada kuu ni hali ya maji na barabara za mtaa.",
+     "The main topic is the state of the water and the roads of the neighbourhood."
+    ],
+    [
+     "Kila familia inaombwa kutuma mtu mmoja angalau.",
+     "Every family is asked to send at least one person."
+    ],
+    [
+     "Wenye malalamiko wanaweza kuyaandika kwenye orodha ofisini kabla ya Ijumaa.",
+     "Those with complaints can write them on the list in the office before Friday."
+    ],
+    [
+     "Mazungumzo yataanza kwa dakika kumi za maelezo, kisha kila mtu atapewa nafasi ya kusema.",
+     "The talks will begin with ten minutes of explanation, then everyone will be given a chance to speak."
+    ],
+    [
+     "Tunaomba wote mfuate kanuni za mkutano na kuheshimu maoni ya wengine.",
+     "We ask everyone to follow the rules of the meeting and respect the opinions of others."
+    ],
+    [
+     "Watoto wadogo hawaruhusiwi kuingia, kwa hiyo tafadhali waache nyumbani.",
+     "Small children are not allowed to enter, so please leave them at home."
+    ],
+    [
+     "Mkutano utamalizika kabla ya saa sita mchana.",
+     "The meeting will end before twelve noon."
+    ],
+    [
+     "Kuhudhuria kwenu ni muhimu kwa maendeleo ya mtaa wetu.",
+     "Your attendance is important for the progress of our neighbourhood."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Mkutano utazungumzia nini?",
+     "en": "What will the meeting discuss?",
+     "type": "mc",
+     "options": [
+      "Michezo ya vijana wa shule za mtaa",
+      "Huduma za maji na barabara",
+      "Bei za nyumba",
+      "Harusi za mtaani"
+     ],
+     "answer": 1,
+     "words": [
+      "mada"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "Kila familia inatakiwa kutuma watu watano.",
+     "en": "Every family is required to send five people.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "familia"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "Mtu mwenye malalamiko afanye nini?",
+     "en": "What should a person with complaints do?",
+     "type": "mc",
+     "options": [
+      "Ayaseme mtaani",
+      "Ayapeleke polisi wa kituo cha mtaa",
+      "Ayaweke kwenye orodha ya ofisi",
+      "Ayatume kwa simu"
+     ],
+     "answer": 2,
+     "words": [
+      "lalamiko",
+      "orodha"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "Watoto wadogo wataachwa nyumbani.",
+     "en": "Small children will be left at home.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "ruhusu"
+     ],
+     "sentence": 7
+    },
+    {
+     "q": "Mkutano hautaendelea hadi jioni.",
+     "en": "The meeting will not continue until the evening.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "malizika"
+     ],
+     "sentence": 8
+    }
+   ]
+  },
+  {
+   "id": "p0068",
+   "lv": "A2",
+   "title": "Mbio za shule",
+   "oop": {},
+   "names": [
+    "Zuhura"
+   ],
+   "sentences": [
+    [
+     "Zuhura ni msichana mwenye kasi sana shuleni kwao.",
+     "Zuhura is a girl who is very fast at her school."
+    ],
+    [
+     "Kila asubuhi hukimbia kwa nusu saa kabla ya kwenda darasani.",
+     "Every morning she runs for half an hour before going to class."
+    ],
+    [
+     "Mwezi huu shule yao ilifanya mbio za mita mia mbili.",
+     "This month their school held a two-hundred-metre race."
+    ],
+    [
+     "Wasichana kumi walishiriki, na kila mmoja alitaka kuwa mshindi.",
+     "Ten girls took part, and each one wanted to be the winner."
+    ],
+    [
+     "Zuhura alianza vizuri, lakini nusu ya njia aligonga jiwe na kuanguka.",
+     "Zuhura started well, but halfway she hit a stone and fell."
+    ],
+    [
+     "Alipata jeraha dogo kwenye mguu, lakini hakulia.",
+     "She got a small injury on her leg, but she did not cry."
+    ],
+    [
+     "Hata hivyo, alisimama haraka na kuendelea kukimbia.",
+     "However, she stood up quickly and kept running."
+    ],
+    [
+     "Alimaliza mbio katika nafasi ya pili, nyuma ya msichana mwenye urefu mkubwa.",
+     "She finished the race in second place, behind a tall girl."
+    ],
+    [
+     "Mwalimu wa michezo alisema kwamba ujasiri wake ni mkubwa na kumpa zawadi.",
+     "The sports teacher said that her courage is great and gave her a gift."
+    ],
+    [
+     "Zuhura anasema kwamba mwaka ujao atafanya mazoezi zaidi na kushinda.",
+     "Zuhura says that next year she will practise more and win."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Mbio za shule zilikuwa za umbali gani?",
+     "en": "How long was the school race?",
+     "type": "mc",
+     "options": [
+      "Mita elfu moja",
+      "Maili kumi",
+      "Mita ishirini",
+      "Mita mia mbili"
+     ],
+     "answer": 3,
+     "words": [
+      "mbio",
+      "mita"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "Wasichana kumi walishiriki kwenye mbio.",
+     "en": "Ten girls took part in the race.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "shiriki",
+      "mshindi"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "Zuhura alipata shida gani njiani?",
+     "en": "What problem did Zuhura have on the way?",
+     "type": "mc",
+     "options": [
+      "Aliumia mguu alipoanguka",
+      "Alipoteza kiatu",
+      "Alichoka na kusimama",
+      "Alikosea njia na kupotea barabarani"
+     ],
+     "answer": 0,
+     "words": [
+      "jeraha",
+      "mguu"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "Zuhura alishinda mbio.",
+     "en": "Zuhura won the race.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "maliza",
+      "nafasi"
+     ],
+     "sentence": 7
+    },
+    {
+     "q": "Mwalimu alifurahia ujasiri wa Zuhura.",
+     "en": "The teacher was pleased with Zuhura's courage.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "ujasiri",
+      "mwalimu"
+     ],
+     "sentence": 8
+    }
+   ]
+  },
+  {
+   "id": "p0069",
+   "lv": "A2",
+   "title": "Mchoraji wa mtaani",
+   "oop": {},
+   "names": [
+    "Sauda",
+    "Kariakoo"
+   ],
+   "sentences": [
+    [
+     "Sauda ni msanii anayeishi karibu na soko la Kariakoo.",
+     "Sauda is an artist who lives near the Kariakoo market."
+    ],
+    [
+     "Anapenda kuchora picha za maisha ya kila siku, kama watu sokoni na watoto wanaocheza.",
+     "She likes to draw pictures of daily life, such as people at the market and playing children."
+    ],
+    [
+     "Alianza sanaa hii alipokuwa mtoto mdogo, ingawa familia yake haikuwa na pesa ya kununua rangi.",
+     "She began this art when she was a small child, though her family had no money to buy paint."
+    ],
+    [
+     "Mama yake alimpa karatasi za zamani na kalamu, na Sauda akaendelea kuchora.",
+     "Her mother gave her old paper and a pen, and Sauda kept on drawing."
+    ],
+    [
+     "Mwaka jana jarida moja la mjini lilimhoji kuhusu ndoto zake.",
+     "Last year a city magazine interviewed her about her dreams."
+    ],
+    [
+     "Alisema kwamba anataka kufundisha vijana wengi mbinu za kuchora.",
+     "She said that she wants to teach many young people drawing methods."
+    ],
+    [
+     "Sasa ana darasa dogo la watoto kila Jumamosi, na wanafunzi wake wameanza kuuza picha.",
+     "Now she has a small class of children every Saturday, and her students have begun to sell pictures."
+    ],
+    [
+     "Picha moja ya Sauda ina rangi ya manjano na bluu na inaonyesha mashua kwenye bandari.",
+     "One of Sauda's pictures has yellow and blue colours and shows a boat in the port."
+    ],
+    [
+     "Mtalii mmoja aliinunua kwa bei nzuri na kuipeleka nchini kwake.",
+     "A tourist bought it at a good price and took it to his country."
+    ],
+    [
+     "Sauda anaamini kwamba kila mtu ana kipaji, ila wengi hawapati nafasi.",
+     "Sauda believes that everyone has a talent, but many do not get a chance."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Sauda anafanya kazi gani?",
+     "en": "What work does Sauda do?",
+     "type": "mc",
+     "options": [
+      "Anauza samaki",
+      "Anachora picha",
+      "Anafundisha hesabu",
+      "Anapika chakula"
+     ],
+     "answer": 1,
+     "words": [
+      "msanii"
+     ],
+     "sentence": 0
+    },
+    {
+     "q": "Familia ya Sauda ilikuwa na pesa nyingi za rangi.",
+     "en": "Sauda's family had a lot of money for paint.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "pesa",
+      "rangi"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "Sauda anataka kuwafundisha vijana nini?",
+     "en": "What does Sauda want to teach young people?",
+     "type": "mc",
+     "options": [
+      "Njia za kupika",
+      "Njia za biashara",
+      "Njia za kuchora",
+      "Njia za kusoma"
+     ],
+     "answer": 2,
+     "words": [
+      "mbinu"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "Sauda anafundisha watoto kila Jumamosi.",
+     "en": "Sauda teaches children every Saturday.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "darasa",
+      "Jumamosi"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "Picha ya Sauda ilinunuliwa na mgeni kutoka nje.",
+     "en": "A picture by Sauda was bought by a visitor from abroad.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "mtalii",
+      "nunua"
+     ],
+     "sentence": 8
+    }
+   ]
+  },
+  {
+   "id": "p0070",
+   "lv": "A2",
+   "title": "Mahali papya pa kuishi",
+   "oop": {},
+   "names": [
+    "Yusufu"
+   ],
+   "sentences": [
+    [
+     "Familia ya Yusufu ilihamia makazi mapya mwezi uliopita.",
+     "Yusufu's family moved to a new home last month."
+    ],
+    [
+     "Nyumba ya zamani ilikuwa ndogo mno kwa watu sita.",
+     "The old house was too small for six people."
+    ],
+    [
+     "Sasa wanaishi kwenye nyumba kubwa yenye ghorofa moja na uwanja mpana.",
+     "Now they live in a big house with one floor and a wide yard."
+    ],
+    [
+     "Siku ya kwanza walipata shida kidogo kwa sababu hawakujua mtaa vizuri.",
+     "On the first day they had a little trouble because they did not know the area well."
+    ],
+    [
+     "Yusufu alitumia ramani ya simu kutafuta duka la karibu.",
+     "Yusufu used a map on his phone to look for a nearby shop."
+    ],
+    [
+     "Jirani mmoja mwema alimwonyesha njia ya kwenda sokoni na kituo cha basi.",
+     "One good neighbour showed him the way to the market and the bus stop."
+    ],
+    [
+     "Mama alikuwa na wasiwasi kuhusu usalama, lakini mlinzi wa mtaa alimhakikishia kuwa hakuna tatizo.",
+     "Mother was worried about safety, but the neighbourhood guard assured her that there was no problem."
+    ],
+    [
+     "Baada ya wiki mbili watoto walizoea shule mpya na kupata marafiki.",
+     "After two weeks the children got used to the new school and made friends."
+    ],
+    [
+     "Baba anasema kwamba nyumba ni kubwa, ila ni mbali kidogo na kazini.",
+     "Father says that the house is big, but it is a little far from work."
+    ],
+    [
+     "Hata hivyo, wote wana furaha kwa sababu wana nafasi zaidi ya kucheza na kupumzika.",
+     "Even so, everyone is happy because they have more room to play and rest."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Kwa nini familia ilihamia nyumba mpya?",
+     "en": "Why did the family move to a new house?",
+     "type": "mc",
+     "options": [
+      "Baba alipata kazi mjini",
+      "Mtaa wa zamani ulikuwa na kelele",
+      "Walipenda jirani wapya",
+      "Ya zamani haikutosha watu wote"
+     ],
+     "answer": 3,
+     "words": [
+      "nyumba",
+      "dogo"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "Yusufu alitumia simu yake kutafuta duka.",
+     "en": "Yusufu used his phone to look for a shop.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "ramani",
+      "duka"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "Nani alimwonyesha Yusufu njia ya sokoni?",
+     "en": "Who showed Yusufu the way to the market?",
+     "type": "mc",
+     "options": [
+      "Jirani mwema",
+      "Mwalimu wake",
+      "Mlinzi wa mtaa",
+      "Dereva wa basi"
+     ],
+     "answer": 0,
+     "words": [
+      "jirani",
+      "njia"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "Watoto hawakupenda shule mpya.",
+     "en": "The children did not like the new school.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "zoea"
+     ],
+     "sentence": 7
+    },
+    {
+     "q": "Nyumba mpya iko mbali na kazi ya baba.",
+     "en": "The new house is far from father's work.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "mbali",
+      "kazi"
+     ],
+     "sentence": 8
+    }
+   ]
+  },
+  {
+   "id": "p0071",
+   "lv": "B1",
+   "title": "Bajeti ya familia",
+   "oop": {},
+   "names": [
+    "Rukia",
+    "Selemani",
+    "Tanga"
+   ],
+   "sentences": [
+    [
+     "Rukia na mume wake Selemani wanaishi Tanga na watoto watatu.",
+     "Rukia and her husband Selemani live in Tanga with three children."
+    ],
+    [
+     "Mwanzoni mwa mwaka waliona kwamba pesa zao zinaisha kabla ya mwisho wa mwezi.",
+     "At the start of the year they saw that their money was running out before the end of the month."
+    ],
+    [
+     "Kipato cha Selemani ni cha kawaida, na mapato ya duka dogo la Rukia hubadilika kila wiki.",
+     "Selemani's income is ordinary, and the earnings of Rukia's small shop change every week."
+    ],
+    [
+     "Kwa hiyo walikaa pamoja jioni moja na kuandika orodha ya matumizi yote.",
+     "So they sat together one evening and wrote a list of all their spending."
+    ],
+    [
+     "Walishangaa kugundua kwamba wanatumia pesa nyingi kwa vitu visivyo vya lazima.",
+     "They were surprised to find that they spend a lot of money on things that are not necessary."
+    ],
+    [
+     "Waliamua kutenga kiasi fulani cha mshahara kwenye akaunti ya benki mara tu wanapolipwa.",
+     "They decided to set aside a certain amount of the salary in a bank account as soon as they are paid."
+    ],
+    [
+     "Pia walilipa deni dogo la mwaka jana kidogo kidogo.",
+     "They also paid a small debt from last year little by little."
+    ],
+    [
+     "Mara ya kwanza ilikuwa vigumu kwa sababu watoto walitaka mavazi mapya, lakini wazazi waliwaeleza hali halisi.",
+     "At first it was difficult because the children wanted new clothes, but the parents explained the real situation to them."
+    ],
+    [
+     "Baada ya miezi sita walikuwa wamekusanya pesa za kutosha kwa dharura yoyote.",
+     "After six months they had collected enough money for any emergency."
+    ],
+    [
+     "Rukia anasema kwamba bajeti si adhabu bali ni ramani ya kufikia malengo.",
+     "Rukia says that a budget is not a punishment but a map for reaching goals."
+    ],
+    [
+     "Mwaka ujao wanapanga kutumia pesa hizo kufungua duka kubwa zaidi.",
+     "Next year they plan to use that money to open a bigger shop."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Rukia ana watoto watatu.",
+     "en": "Rukia has three children.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "ishi"
+     ],
+     "sentence": 0
+    },
+    {
+     "q": "Mapato ya duka la Rukia ni ya aina gani?",
+     "en": "What kind of earnings does Rukia's shop have?",
+     "type": "mc",
+     "options": [
+      "Ni makubwa kila siku",
+      "Si sawa kila wiki",
+      "Ni sawa kila mwezi",
+      "Hayapatikani kamwe"
+     ],
+     "answer": 1,
+     "words": [
+      "kipato",
+      "mapato"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "Waliamua kufanya nini na sehemu ya mshahara?",
+     "en": "What did they decide to do with part of the salary?",
+     "type": "mc",
+     "options": [
+      "Kununua nguo mpya",
+      "Kumpa jirani",
+      "Kuiweka benki",
+      "Kujenga nyumba"
+     ],
+     "answer": 2,
+     "words": [
+      "tenga",
+      "akaunti"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "Watoto walikubali mpango huo mara moja.",
+     "en": "The children accepted the plan immediately.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "vazi",
+      "mzazi"
+     ],
+     "sentence": 7
+    },
+    {
+     "q": "Baada ya miezi sita familia ilikuwa na pesa za dharura.",
+     "en": "After six months the family had emergency money.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "dharura",
+      "kusanya"
+     ],
+     "sentence": 8
+    }
+   ]
+  },
+  {
+   "id": "p0072",
+   "lv": "B1",
+   "title": "Mkulima na ukame",
+   "oop": {},
+   "names": [
+    "Bakari",
+    "Dodoma"
+   ],
+   "sentences": [
+    [
+     "Mzee Bakari ana shamba dogo karibu na Dodoma, ambako hupanda mahindi na mboga.",
+     "Old Bakari has a small farm near Dodoma, where he plants maize and vegetables."
+    ],
+    [
+     "Mwaka huu mvua zilichelewa kwa wiki nyingi, na ukame ulianza kuonekana.",
+     "This year the rains came late by many weeks, and a drought began to show."
+    ],
+    [
+     "Majani ya mimea yalianza kuwa makavu, na mbegu zilizopandwa mapema hazikuota vizuri.",
+     "The leaves of the plants began to be dry, and the seeds planted early did not sprout well."
+    ],
+    [
+     "Maji ya kijiji yalikuwa machache, na watu walipanga foleni ndefu kuyatafuta.",
+     "The village's water was little, and people formed long queues to look for it."
+    ],
+    [
+     "Mzee Bakari hakukata tamaa, bali alijitahidi kutafuta suluhisho.",
+     "Old Bakari did not give up but tried hard to find a solution."
+    ],
+    [
+     "Alikwenda kwa afisa wa kilimo, ambaye alimshauri kuchimba bwawa dogo shambani.",
+     "He went to the agriculture officer, who advised him to dig a small pond on the farm."
+    ],
+    [
+     "Majirani walijitolea kumsaidia, na baada ya siku kumi bwawa lilikuwa tayari.",
+     "The neighbours volunteered to help him, and after ten days the pond was ready."
+    ],
+    [
+     "Mvua ya kwanza ilipofika, bwawa lilijaa maji na yakatosha kwa wiki kadhaa.",
+     "When the first rain came, the pond filled with water and it was enough for several weeks."
+    ],
+    [
+     "Pia alipanda mbegu mpya ambazo hazihitaji maji mengi.",
+     "He also planted new seeds that do not need much water."
+    ],
+    [
+     "Ingawa mimea ya mwaka huu haikuwa mingi, familia yake haikukosa chakula.",
+     "Although this year's crops were not many, his family did not lack food."
+    ],
+    [
+     "Sasa Mzee Bakari huwafundisha vijana wa kijiji jinsi ya kutunza maji.",
+     "Now Old Bakari teaches the young people of the village how to look after water."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Tatizo kuu la mwaka huu lilikuwa nini?",
+     "en": "What was the main problem this year?",
+     "type": "mc",
+     "options": [
+      "Wadudu walikula mimea",
+      "Soko lilifungwa",
+      "Barabara ilikatika",
+      "Maji ya mvua yalikuja kuchelewa"
+     ],
+     "answer": 3,
+     "words": [
+      "mvua",
+      "chelewa"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "Kijijini kulikuwa na maji mengi.",
+     "en": "There was plenty of water in the village.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "maji",
+      "foleni"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "Afisa wa kilimo alimshauri Mzee Bakari nini?",
+     "en": "What did the agriculture officer advise Old Bakari?",
+     "type": "mc",
+     "options": [
+      "Achimbe bwawa dogo",
+      "Auze shamba lake na ahamie mjini",
+      "Ahamie mjini",
+      "Anunue ng'ombe"
+     ],
+     "answer": 0,
+     "words": [
+      "afisa",
+      "bwawa"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "Majirani walimsaidia kuchimba bwawa.",
+     "en": "The neighbours helped him dig the pond.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "jirani",
+      "saidia"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "Familia ya Mzee Bakari ilikosa chakula.",
+     "en": "Old Bakari's family lacked food.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "chakula"
+     ],
+     "sentence": 9
+    }
+   ]
+  },
+  {
+   "id": "p0073",
+   "lv": "B1",
+   "title": "Safari ya kwenda Nairobi",
+   "oop": {},
+   "names": [
+    "Nairobi",
+    "Halima"
+   ],
+   "sentences": [
+    [
+     "Halima alipanga kusafiri kwenda Nairobi kuhudhuria mkutano wa kazi wa siku tatu.",
+     "Halima planned to travel to Nairobi to attend a three-day work meeting."
+    ],
+    [
+     "Siku moja kabla ya safari aliangalia pasipoti yake na kugundua kwamba muda wake umekwisha.",
+     "One day before the trip she looked at her passport and found that its time had expired."
+    ],
+    [
+     "Alishangaa sana, lakini hakuogopa kwa sababu alikumbuka kwamba ofisi ya pasipoti inafunguliwa Jumamosi.",
+     "She was very surprised, but she did not panic because she remembered that the passport office opens on Saturday."
+    ],
+    [
+     "Asubuhi alifika mapema na kukuta foleni ndefu ya watu wengi.",
+     "In the morning she arrived early and found a long queue of many people."
+    ],
+    [
+     "Baada ya kujaza fomu, alilipa ada na kuambiwa kwamba atapata pasipoti mpya baada ya saa mbili.",
+     "After filling in a form, she paid a fee and was told that she would get a new passport after two hours."
+    ],
+    [
+     "Wakati akisubiri alikaa kwenye kiti na kusoma ratiba ya ndege kwenye simu yake.",
+     "While waiting she sat on a chair and read the flight schedule on her phone."
+    ],
+    [
+     "Ndege ya mapema ilikuwa imejaa, kwa hiyo alichagua ndege ya jioni.",
+     "The early flight was full, so she chose the evening flight."
+    ],
+    [
+     "Alipopokea pasipoti, alikimbilia nyumbani kuchukua sanduku lake, kisha akaenda uwanja wa ndege kwa teksi.",
+     "When she received the passport, she hurried home to get her suitcase, then went to the airport by taxi."
+    ],
+    [
+     "Mhudumu wa uwanjani alikagua hati zake na kumruhusu kupanda ndege.",
+     "The airport attendant checked her documents and allowed her to board the plane."
+    ],
+    [
+     "Ndege ilipoondoka kwa wakati, Halima alikuwa na furaha, na alifika Nairobi usiku akiwa amechoka lakini ameridhika.",
+     "When the plane left on time, Halima was happy, and she arrived in Nairobi at night, tired but satisfied."
+    ],
+    [
+     "Tangu siku hiyo huangalia hati zake mapema kabla ya kila safari.",
+     "Since that day she checks her documents early before every journey."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Halima alikuwa anakwenda Nairobi kwa nini?",
+     "en": "Why was Halima going to Nairobi?",
+     "type": "mc",
+     "options": [
+      "Kumtembelea mama yake na ndugu zake",
+      "Kwenda kwenye mkutano wa kazi",
+      "Kununua nguo",
+      "Kuanza masomo"
+     ],
+     "answer": 1,
+     "words": [
+      "panga",
+      "mkutano"
+     ],
+     "sentence": 0
+    },
+    {
+     "q": "Pasipoti ya Halima ilikuwa bado inafaa.",
+     "en": "Halima's passport was still valid.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "pasipoti"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "Halima alifanya nini baada ya kujaza fomu?",
+     "en": "What did Halima do after filling in the form?",
+     "type": "mc",
+     "options": [
+      "Alikwenda uwanja wa ndege",
+      "Alirudi nyumbani",
+      "Alilipa ada ya pasipoti",
+      "Alipiga simu ofisini"
+     ],
+     "answer": 2,
+     "words": [
+      "fomu",
+      "ada"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "Halima alisafiri kwa ndege ya jioni.",
+     "en": "Halima travelled on the evening plane.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "ndege",
+      "jioni"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "Halima sasa huangalia hati zake mapema.",
+     "en": "Halima now checks her documents early.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "angalia",
+      "mapema"
+     ],
+     "sentence": 10
+    }
+   ]
+  },
+  {
+   "id": "p0074",
+   "lv": "B1",
+   "title": "Fainali ya mpira",
+   "oop": {},
+   "names": [
+    "Mwinyi"
+   ],
+   "sentences": [
+    [
+     "Jumamosi iliyopita ilikuwa siku kubwa kwa kilabu cha mpira cha mtaa wetu.",
+     "Last Saturday was a big day for our neighbourhood football club."
+    ],
+    [
+     "Timu ya vijana ilifika fainali ya mashindano ya wilaya kwa mara ya kwanza.",
+     "The youth team reached the final of the district competition for the first time."
+    ],
+    [
+     "Kocha Mwinyi aliwaambia wachezaji wasiogope bali wacheze kwa utulivu.",
+     "Coach Mwinyi told the players not to be afraid but to play calmly."
+    ],
+    [
+     "Uwanja ulijaa mashabiki, na kila mpira ulipokaribia lango, kelele zilikuwa nyingi.",
+     "The field was full of fans, and each time the ball came near the gate there was a lot of noise."
+    ],
+    [
+     "Katika dakika ya kumi timu nyingine ilitangulia kufunga.",
+     "In the tenth minute the other team scored first."
+    ],
+    [
+     "Hata hivyo, wachezaji wetu hawakukata tamaa na waliendelea kucheza kwa nguvu.",
+     "However, our players did not give up and kept playing hard."
+    ],
+    [
+     "Kipindi cha pili kilipoanza, kijana mmoja mwenye kipaji alipiga mpira mrefu na timu zikalingana.",
+     "When the second half began, a talented young man kicked a long ball and the teams were level."
+    ],
+    [
+     "Mchezo uliisha sare, kwa hiyo walicheza dakika zingine kumi na tano.",
+     "The game ended in a draw, so they played another fifteen minutes."
+    ],
+    [
+     "Kijana mwingine wa timu yetu alifunga tena kwa mguu wa kushoto, na tukashinda.",
+     "Another young man of our team scored again with his left foot, and we won."
+    ],
+    [
+     "Baada ya mchezo mashabiki walimbeba kocha juu kwa furaha.",
+     "After the game the fans carried the coach up in joy."
+    ],
+    [
+     "Nahodha wa timu alipokea kikombe na kusema kwamba ushindi huo ni wa mtaa mzima.",
+     "The captain of the team received the cup and said that the victory belonged to the whole neighbourhood."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Kwa mara ya kwanza, vijana wa mtaa walifika fainali.",
+     "en": "For the first time, the young people of the neighbourhood reached the final.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "fainali"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "Kocha aliwashauri wachezaji wafanye nini?",
+     "en": "What did the coach advise the players to do?",
+     "type": "mc",
+     "options": [
+      "Wakimbie haraka",
+      "Wapumzike kwanza",
+      "Wasicheze kwa nguvu wala kukimbia",
+      "Wasiwe na hofu uwanjani"
+     ],
+     "answer": 3,
+     "words": [
+      "kocha",
+      "ogopa"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "Timu ya mtaa ilifunga kwanza.",
+     "en": "The neighbourhood team scored first.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "timu",
+      "tangulia"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "Nini kilitokea baada ya mchezo kuisha sare?",
+     "en": "What happened after the game ended in a draw?",
+     "type": "mc",
+     "options": [
+      "Walicheza muda zaidi",
+      "Walirudia siku nyingine",
+      "Walimaliza mchezo",
+      "Kocha alibadilishwa"
+     ],
+     "answer": 0,
+     "words": [
+      "sare",
+      "dakika"
+     ],
+     "sentence": 7
+    },
+    {
+     "q": "Nahodha alisema ushindi ni wa mtaa wote.",
+     "en": "The captain said the victory belonged to the whole neighbourhood.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "nahodha",
+      "kikombe"
+     ],
+     "sentence": 10
+    }
+   ]
+  },
+  {
+   "id": "p0075",
+   "lv": "B1",
+   "title": "Mama anapona",
+   "oop": {},
+   "names": [
+    "Tabu",
+    "Muhimbili"
+   ],
+   "sentences": [
+    [
+     "Mama yangu Tabu alianza kulalamika kuhusu maumivu makali ya mgongo mwezi wa tatu.",
+     "My mother Tabu began to complain about severe back pain in the third month."
+    ],
+    [
+     "Mwanzoni tulidhani ni kazi nyingi, kwa hiyo alipumzika wiki moja na kutumia dawa za maumivu.",
+     "At first we thought it was too much work, so she rested for a week and used painkillers."
+    ],
+    [
+     "Maumivu hayakupungua, bali yaliongezeka hadi akashindwa kutembea umbali mfupi.",
+     "The pain did not lessen but increased until she could not walk a short distance."
+    ],
+    [
+     "Tulimpeleka hospitali ya Muhimbili, ambako daktari alifanya vipimo kadhaa.",
+     "We took her to Muhimbili hospital, where a doctor did several tests."
+    ],
+    [
+     "Matokeo yalionyesha kwamba mfupa mmoja wa mgongo ulikuwa umeumia na alihitaji upasuaji.",
+     "The results showed that one bone of the back was injured and she needed surgery."
+    ],
+    [
+     "Mama aliogopa sana, na sisi pia tulikuwa na wasiwasi mkubwa.",
+     "Mother was very afraid, and we were also very worried."
+    ],
+    [
+     "Daktari alituhakikishia kwamba upasuaji huo ni wa kawaida na watu wengi hupona haraka.",
+     "The doctor assured us that the surgery is common and many people recover quickly."
+    ],
+    [
+     "Siku ya upasuaji tulisubiri nje kwa saa nne, tukinywa chai bila kuzungumza sana.",
+     "On the day of the surgery we waited outside for four hours, drinking tea without talking much."
+    ],
+    [
+     "Hatimaye daktari alitutangazia kwamba kila kitu kimeenda vizuri.",
+     "Finally the doctor announced to us that everything had gone well."
+    ],
+    [
+     "Mama alikaa hospitalini kwa wiki mbili, na tulimtembelea kila siku.",
+     "Mother stayed in hospital for two weeks, and we visited her every day."
+    ],
+    [
+     "Sasa anaendelea na mazoezi mepesi, na maumivu yamekwisha karibu kabisa.",
+     "Now she is continuing with light exercises, and the pain has almost completely gone."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Maumivu ya Tabu yalikuwa ya mguu.",
+     "en": "Tabu's pain was in the leg.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "mgongo"
+     ],
+     "sentence": 0
+    },
+    {
+     "q": "Mwanzoni familia ilidhani tatizo ni nini?",
+     "en": "What did the family think the problem was at first?",
+     "type": "mc",
+     "options": [
+      "Ugonjwa wa moyo uliokuwa mkali",
+      "Alikuwa amefanya kazi sana",
+      "Chakula kibaya",
+      "Baridi kali"
+     ],
+     "answer": 1,
+     "words": [
+      "dawa",
+      "kazi"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "Matokeo ya vipimo yalionyesha nini?",
+     "en": "What did the test results show?",
+     "type": "mc",
+     "options": [
+      "Alikuwa mzima kabisa na mwenye nguvu",
+      "Alihitaji dawa tu",
+      "Mfupa ulikuwa umeumia",
+      "Alihitaji kupumzika"
+     ],
+     "answer": 2,
+     "words": [
+      "mfupa",
+      "upasuaji"
+     ],
+     "sentence": 4
+    },
+    {
+     "q": "Daktari alisema watu wengi hupona haraka.",
+     "en": "The doctor said many people recover quickly.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "pona",
+      "kawaida"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "Mama ameanza mazoezi mepesi.",
+     "en": "Mother has begun light exercises.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "zoezi",
+      "maumivu"
+     ],
+     "sentence": 10
+    }
+   ]
+  },
+  {
+   "id": "p0076",
+   "lv": "B1",
+   "title": "Siku ya kuhitimu",
+   "oop": {},
+   "names": [
+    "Anna",
+    "Mlimani"
+   ],
+   "sentences": [
+    [
+     "Jumamosi iliyopita Anna alihitimu shahada ya kwanza katika chuo kikuu cha Mlimani.",
+     "Last Saturday Anna graduated with a first degree from Mlimani university."
+    ],
+    [
+     "Alikuwa mwanafunzi wa kwanza kuhitimu katika familia yao yote.",
+     "She was the first student to graduate in their whole family."
+    ],
+    [
+     "Bibi yake, ambaye hajui kusoma, alisafiri kwa basi kutoka kijijini ili kumwona.",
+     "Her grandmother, who does not know how to read, travelled by bus from the village to see her."
+    ],
+    [
+     "Asubuhi wahitimu wote walivaa kofia nyeusi na kukaa ukumbini.",
+     "In the morning all the graduates wore black caps and sat in the hall."
+    ],
+    [
+     "Mgeni rasmi alizungumza kwa dakika ishirini, akiwakumbusha vijana kuwa elimu ni jukumu la maisha yote.",
+     "The guest of honour spoke for twenty minutes, reminding the young people that education is a lifelong duty."
+    ],
+    [
+     "Jina la Anna lilipotajwa, wazazi wake walifurahi na bibi alilia kwa furaha.",
+     "When Anna's name was called, her parents were glad and her grandmother cried with joy."
+    ],
+    [
+     "Baada ya sherehe walipiga picha nyingi nje ya ukumbi.",
+     "After the ceremony they took many pictures outside the hall."
+    ],
+    [
+     "Rafiki zake wengi walimpongeza na kumpa maua madogo.",
+     "Many of her friends congratulated her and gave her small flowers."
+    ],
+    [
+     "Anna alimshukuru bibi yake kwa msaada wake na kwa mchango wa pesa za ada.",
+     "Anna thanked her grandmother for her help and for the money contribution towards fees."
+    ],
+    [
+     "Sasa anatafuta kazi ya kufundisha, na ana ndoto ya kufungua shule kijijini kwao.",
+     "Now she is looking for a teaching job, and she dreams of opening a school in their village."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Anna alimaliza shahada ya kwanza.",
+     "en": "Anna completed a first degree.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "hitimu",
+      "shahada"
+     ],
+     "sentence": 0
+    },
+    {
+     "q": "Anna alikuwa wa pekee katika familia yake kwa nini?",
+     "en": "What made Anna special in her family?",
+     "type": "mc",
+     "options": [
+      "Alikuwa mdogo kuliko wote",
+      "Alifanya kazi ya kufundisha",
+      "Alisoma nje ya nchi",
+      "Hakuna mwingine aliyehitimu kabla yake"
+     ],
+     "answer": 3,
+     "words": [
+      "familia",
+      "hitimu"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "Bibi alikwenda mjini kwa ndege.",
+     "en": "The grandmother went to town by plane.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "bibi",
+      "safiri"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "Wahitimu walivaa nini ukumbini?",
+     "en": "What did the graduates wear in the hall?",
+     "type": "mc",
+     "options": [
+      "Kofia za rangi nyeusi",
+      "Nguo za michezo za shule ya sekondari",
+      "Sare za shule",
+      "Mavazi ya kazi"
+     ],
+     "answer": 0,
+     "words": [
+      "kofia",
+      "vaa"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "Bibi alichangia pesa za ada ya Anna.",
+     "en": "The grandmother contributed money for Anna's fees.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "ada",
+      "mchango"
+     ],
+     "sentence": 8
+    }
+   ]
+  },
+  {
+   "id": "p0077",
+   "lv": "B1",
+   "title": "Safari porini",
+   "oop": {},
+   "names": [
+    "Tarangire",
+    "Kassim"
+   ],
+   "sentences": [
+    [
+     "Mwezi wa nane familia yetu ilikwenda kutembelea hifadhi ya Tarangire.",
+     "In August our family went to visit Tarangire national park."
+    ],
+    [
+     "Mwongozo wetu aliitwa Kassim, na alikuwa na uzoefu wa miaka kumi na tano.",
+     "Our guide was called Kassim, and he had fifteen years of experience."
+    ],
+    [
+     "Alituambia mapema kwamba hatupaswi kushuka kwenye gari wala kupiga kelele.",
+     "He told us early that we must not get out of the car or make noise."
+    ],
+    [
+     "Tulipoingia tu porini, tuliwaona tembo kumi wakila majani chini ya mti mkubwa.",
+     "As soon as we entered the wilderness we saw ten elephants eating leaves under a big tree."
+    ],
+    [
+     "Mtoto wa tembo alicheza na maji kwenye bwawa dogo, na dada yangu alipiga picha nyingi.",
+     "A baby elephant played with water in a small pond, and my sister took many pictures."
+    ],
+    [
+     "Baadaye tuliona ndege wengi wenye rangi nzuri.",
+     "Later we saw many birds with beautiful colours."
+    ],
+    [
+     "Kassim alieleza kuwa wanyama hawa wanahitaji maeneo makubwa ili kuishi vizuri.",
+     "Kassim explained that these animals need large areas to live well."
+    ],
+    [
+     "Saa sita mchana tulisimama chini ya mti kula chakula cha mchana, tukiwa makini sana.",
+     "At noon we stopped under a tree to eat lunch, being very careful."
+    ],
+    [
+     "Jioni, tulipokuwa tunarudi, msafara wa magari ulisimama kwa sababu simba walikuwa wamepumzika barabarani.",
+     "In the evening, as we were returning, the line of cars stopped because lions were resting on the road."
+    ],
+    [
+     "Tulisubiri kimya hadi walipoondoka wenyewe.",
+     "We waited quietly until they left by themselves."
+    ],
+    [
+     "Safari hiyo ilinifundisha kuheshimu mazingira na wanyama wote.",
+     "That trip taught me to respect the environment and all animals."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Kassim alikuwa nani?",
+     "en": "Who was Kassim?",
+     "type": "mc",
+     "options": [
+      "Dereva wa basi",
+      "Mwongozo wa wageni",
+      "Mkulima wa kijiji cha jirani",
+      "Mwalimu wa shule"
+     ],
+     "answer": 1,
+     "words": [
+      "mwongozo",
+      "uzoefu"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "Kassim aliruhusu abiria kushuka kwenye gari.",
+     "en": "Kassim allowed the passengers to get out of the car.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "shuka",
+      "kelele"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "Walipoingia porini waliona tembo wengi.",
+     "en": "When they entered the wilderness they saw many elephants.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "tembo",
+      "majani"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "Kwa nini msafara wa magari ulisimama?",
+     "en": "Why did the line of cars stop?",
+     "type": "mc",
+     "options": [
+      "Gari moja liliharibika njiani",
+      "Mvua ilianza",
+      "Simba walikuwa barabarani",
+      "Njia ilifungwa"
+     ],
+     "answer": 2,
+     "words": [
+      "simba",
+      "msafara"
+     ],
+     "sentence": 8
+    },
+    {
+     "q": "Familia ilisubiri kimya hadi simba waondoke.",
+     "en": "The family waited quietly until the lions left.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "subiri"
+     ],
+     "sentence": 9
+    }
+   ]
+  },
+  {
+   "id": "p0078",
+   "lv": "B1",
+   "title": "Treni ya mjini",
+   "oop": {},
+   "names": [
+    "Rehema"
+   ],
+   "sentences": [
+    [
+     "Kwa miaka mingi wakazi wa jiji letu wamekuwa wakipata shida kubwa ya msongamano wa magari.",
+     "For many years the residents of our city have been having great trouble with traffic congestion."
+    ],
+    [
+     "Watu wengi huamka alfajiri ili kuwahi kazini, na bado hufika wamechelewa.",
+     "Many people get up at dawn to be early at work, and still arrive late."
+    ],
+    [
+     "Mwaka huu serikali ilifungua reli mpya ya treni ya abiria kutoka kitongoji cha mbali hadi katikati ya mji.",
+     "This year the government opened a new passenger train line from a distant suburb to the centre of the city."
+    ],
+    [
+     "Nauli ni ndogo kuliko ya basi, na treni hufika kwa wakati kulingana na ratiba.",
+     "The fare is lower than the bus, and the train arrives on time according to the schedule."
+    ],
+    [
+     "Mama Rehema, ambaye ni mfanyabiashara, alianza kutumia treni mwezi uliopita.",
+     "Mama Rehema, who is a trader, began using the train last month."
+    ],
+    [
+     "Anasema kwamba safari iliyokuwa ikichukua saa mbili sasa inachukua dakika arobaini tu.",
+     "She says that the journey that used to take two hours now takes only forty minutes."
+    ],
+    [
+     "Hata hivyo, bado kuna changamoto kadhaa, kama vile vituo vichache na viti visivyotosha.",
+     "However, there are still several challenges, such as few stations and not enough seats."
+    ],
+    [
+     "Wakati wa asubuhi treni hujaa, na abiria wengi husimama njia nzima.",
+     "In the morning the train fills up, and many passengers stand the whole way."
+    ],
+    [
+     "Watu wenye ujuzi wanashauri kwamba serikali iongeze treni nyingine na iwafundishe abiria kupanga foleni.",
+     "People with expertise advise that the government add more trains and teach passengers to queue."
+    ],
+    [
+     "Wakazi wengi wanatumaini kuwa mradi huu utapunguza msongamano na kuokoa muda wa watu.",
+     "Many residents hope that this project will reduce congestion and save people's time."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Reli mpya ilifunguliwa mwaka huu.",
+     "en": "The new railway line was opened this year.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "reli",
+      "treni"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "Treni ina faida gani kuliko basi?",
+     "en": "What advantage does the train have over the bus?",
+     "type": "mc",
+     "options": [
+      "Viti vingi zaidi",
+      "Chakula cha bure",
+      "Njia ndefu zaidi ya basi la zamani",
+      "Nauli ndogo na wakati sahihi"
+     ],
+     "answer": 3,
+     "words": [
+      "nauli",
+      "ratiba"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "Safari ya Mama Rehema sasa inachukua saa mbili.",
+     "en": "Mama Rehema's journey now takes two hours.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "safari",
+      "dakika"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "Changamoto moja ya treni ni nini?",
+     "en": "What is one challenge of the train?",
+     "type": "mc",
+     "options": [
+      "Vituo ni vichache",
+      "Nauli ni kubwa",
+      "Treni hazifiki",
+      "Madereva ni wachache"
+     ],
+     "answer": 0,
+     "words": [
+      "changamoto",
+      "kituo"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "Abiria wengi husimama asubuhi.",
+     "en": "Many passengers stand in the morning.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "abiria",
+      "jaa"
+     ],
+     "sentence": 7
+    }
+   ]
+  },
+  {
+   "id": "p0079",
+   "lv": "B1",
+   "title": "Klabu ya vitabu",
+   "oop": {},
+   "names": [
+    "Pili"
+   ],
+   "sentences": [
+    [
+     "Kila Jumapili alasiri kundi la marafiki hukutana kwenye maktaba ya mji kusoma na kujadili vitabu.",
+     "Every Sunday afternoon a group of friends meets at the town library to read and discuss books."
+    ],
+    [
+     "Mwenyekiti wao ni Pili, mwalimu mstaafu anayependa sana fasihi ya Kiswahili.",
+     "Their chairperson is Pili, a retired teacher who loves Swahili literature very much."
+    ],
+    [
+     "Mwezi huu wanasoma riwaya fupi ya mwandishi mmoja maarufu wa Kiswahili.",
+     "This month they are reading a short novel by a famous Swahili writer."
+    ],
+    [
+     "Kitabu kinasimulia kisa cha mvulana maskini anayetaka kuendelea na masomo.",
+     "The book tells the story of a poor boy who wants to continue his studies."
+    ],
+    [
+     "Katika kilele cha hadithi, mvulana anapoteza kila kitu, lakini rafiki mwema anamsaidia kuinuka.",
+     "At the climax of the story, the boy loses everything, but a good friend helps him get back up."
+    ],
+    [
+     "Wanachama wengine walisema kwamba mwandishi anatumia lugha nzuri na maneno ya busara.",
+     "Other members said that the writer uses beautiful language and words of wisdom."
+    ],
+    [
+     "Pili aliwauliza kama wanakubaliana na uamuzi wa mhusika mkuu wa kuacha shule.",
+     "Pili asked them whether they agree with the main character's decision to leave school."
+    ],
+    [
+     "Majibu hayakufanana, na mdahalo mdogo ulianza kwa utulivu.",
+     "The answers were not alike, and a small debate began calmly."
+    ],
+    [
+     "Mwishoni kila mtu alichagua kitabu cha kuchukua nyumbani na kukisoma kwa wiki mbili.",
+     "At the end everyone chose a book to take home and read for two weeks."
+    ],
+    [
+     "Pili anaamini kwamba kusoma pamoja huleta urafiki na huongeza maarifa ya kila mtu.",
+     "Pili believes that reading together brings friendship and increases everyone's knowledge."
+    ],
+    [
+     "Wanapanga kufungua kundi kwa vijana wa shule ya sekondari mwakani.",
+     "They plan to open a group for secondary school youth next year."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Kundi hukutana maktabani kila Jumapili.",
+     "en": "The group meets at the library every Sunday.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "maktaba",
+      "kutana"
+     ],
+     "sentence": 0
+    },
+    {
+     "q": "Pili ni nani katika kundi?",
+     "en": "Who is Pili in the group?",
+     "type": "mc",
+     "options": [
+      "Mfanyakazi wa maktaba",
+      "Kiongozi wa kundi",
+      "Mwandishi wa kitabu",
+      "Mwanafunzi mpya"
+     ],
+     "answer": 1,
+     "words": [
+      "mwenyekiti",
+      "mstaafu"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "Riwaya inasimulia habari ya nani?",
+     "en": "Whose story does the novel tell?",
+     "type": "mc",
+     "options": [
+      "Mfalme wa zamani wa nchi kubwa",
+      "Mkulima tajiri",
+      "Mvulana asiye na pesa",
+      "Daktari wa kijiji"
+     ],
+     "answer": 2,
+     "words": [
+      "kisa",
+      "maskini"
+     ],
+     "sentence": 3
+    },
+    {
+     "q": "Wanachama walisema lugha ya kitabu ni ngumu mno.",
+     "en": "The members said the language of the book is far too hard.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "lugha",
+      "busara"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "Pili anaamini kusoma pamoja kuna faida.",
+     "en": "Pili believes that reading together has benefits.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "urafiki",
+      "maarifa"
+     ],
+     "sentence": 9
+    }
+   ]
+  },
+  {
+   "id": "p0080",
+   "lv": "B1",
+   "title": "Chakula cha ghafla",
+   "oop": {},
+   "names": [
+    "Amani",
+    "Zeinab"
+   ],
+   "sentences": [
+    [
+     "Amani alikuwa amechoka baada ya kazi ya siku nzima alipopata ujumbe kutoka kwa mke wake Zeinab.",
+     "Amani was tired after a whole day's work when he received a message from his wife Zeinab."
+    ],
+    [
+     "Aliandika kwamba wageni sita wangefika nyumbani baada ya saa mbili, na hakuwa amepika chochote.",
+     "She wrote that six guests would arrive home in two hours, and she had not cooked anything."
+    ],
+    [
+     "Amani aliacha kazi mapema, akapita sokoni na kununua kuku, mchele na mboga mbalimbali.",
+     "Amani left work early, passed through the market and bought chicken, rice and various vegetables."
+    ],
+    [
+     "Nyumbani Zeinab alikuwa tayari amesafisha sebule na sakafu.",
+     "At home Zeinab had already cleaned the living room and the floor."
+    ],
+    [
+     "Walichukua visu na kuanza kukata mboga zote.",
+     "They took knives and began to cut all the vegetables."
+    ],
+    [
+     "Zeinab alipika supu ya mboga yenye ladha nzuri, na Amani alipika wali kwa nyama ya kuku.",
+     "Zeinab cooked a tasty vegetable soup, and Amani cooked rice with chicken meat."
+    ],
+    [
+     "Dakika kumi kabla ya wageni kufika, walipanga vikombe na glasi mezani.",
+     "Ten minutes before the guests arrived, they arranged cups and glasses on the table."
+    ],
+    [
+     "Wageni walipofika, harufu ya chakula ilijaza nyumba nzima.",
+     "When the guests arrived, the smell of food filled the whole house."
+    ],
+    [
+     "Baada ya chakula, waliletewa chungwa na tufaha.",
+     "After the meal, they were brought oranges and apples."
+    ],
+    [
+     "Kila mmoja alisema chakula kilikuwa kitamu, na Amani na Zeinab walitabasamu kwa kuridhika.",
+     "Everyone said the food was tasty, and Amani and Zeinab smiled with satisfaction."
+    ],
+    [
+     "Walijifunza kwamba kushirikiana huokoa muda na hufanya kazi kuwa nyepesi.",
+     "They learned that cooperating saves time and makes work light."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Ujumbe wa Zeinab ulisema nini?",
+     "en": "What did Zeinab's message say?",
+     "type": "mc",
+     "options": [
+      "Gari lake limeharibika",
+      "Anaumwa nyumbani",
+      "Amechelewa kazini na hawezi kupika",
+      "Watu wangekuja kula hivi karibuni"
+     ],
+     "answer": 3,
+     "words": [
+      "andika",
+      "mgeni"
+     ],
+     "sentence": 1
+    },
+    {
+     "q": "Amani alinunua nyama ya ng'ombe pekee.",
+     "en": "Amani bought only beef.",
+     "type": "tf",
+     "options": null,
+     "answer": false,
+     "words": [
+      "nunua",
+      "mchele"
+     ],
+     "sentence": 2
+    },
+    {
+     "q": "Zeinab alipika supu iliyokuwa na mboga.",
+     "en": "Zeinab cooked a soup that had vegetables in it.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "supu",
+      "ladha"
+     ],
+     "sentence": 5
+    },
+    {
+     "q": "Amani na Zeinab walifanya nini kabla ya wageni kufika?",
+     "en": "What did Amani and Zeinab do before the guests arrived?",
+     "type": "mc",
+     "options": [
+      "Walipanga vyombo mezani",
+      "Walibadilisha nguo na kupumzika kidogo",
+      "Walitoka nje",
+      "Walilala kidogo"
+     ],
+     "answer": 0,
+     "words": [
+      "kikombe",
+      "glasi"
+     ],
+     "sentence": 6
+    },
+    {
+     "q": "Amani na Zeinab walijifunza faida ya kushirikiana.",
+     "en": "Amani and Zeinab learned the benefit of cooperating.",
+     "type": "tf",
+     "options": null,
+     "answer": true,
+     "words": [
+      "shirikiana"
+     ],
+     "sentence": 10
+    }
+   ]
   }
  ]
 }

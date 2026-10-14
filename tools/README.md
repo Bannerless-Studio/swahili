@@ -12,15 +12,15 @@ This directory holds the data Swahili owns: hand-maintained overrides, written s
 - `bad_sentences.txt`: **hand-maintained.** Corpus sentences dropped by exact text, one per line, each after a `# <id> <note>` comment. These are the sentence review drops of 2026-09-29, read by the base-spec hook (vocab-engine 6e72e4c).
 - `id_map_v1.json`: **generated, frozen.** The `"lemma|pos"` to word id map. Never hand-edit or renumber it; it keeps learner progress across rebuilds.
 - `langs_sw.py.snapshot`: **safekeeping copy** of vocab-engine `langs/sw.py` from before it was committed. The build does not read it.
-- `passages/a1.txt`, `passages/a2.txt`, `passages/b1.txt`: **hand-authored input.** Passage sources, 20 per level. The format is in the assemble.py docstring.
-- `passages/assemble.py`: **glue.** Turns the three .txt files into `passages_src.json`, cycles each mc key through positions 0-3, and prints the share of keys that are the unique-longest option.
+- `passages/a1.txt`, `passages/a2.txt`, `passages/b1.txt`, `passages/c_plus.txt`: **hand-authored input.** Passage sources: 20 per level, plus 10 A2 and 10 B1 in `c_plus.txt` (p0061-p0080). The assembler numbers files in name order, so a new batch goes in a later-sorting file and never renumbers earlier ids. The format is in the assemble.py docstring.
+- `passages/assemble.py`: **glue.** Turns the .txt files into `passages_src.json`, cycles each mc key through positions 0-3, and prints the share of keys that are the unique-longest option.
 - `passages_src.json`: **generated** by assemble.py. It is the input to `packbuilder passages`.
 - `REPORT.md`: **generated**, with the manual section kept across runs. It covers tagging stats, the word-selection funnel and levels, and holds the "Sentence review 2026-09-29" table.
 - `REPORT_passages.md`: **generated**, with the manual QA section kept across runs. It gives coverage, level budget and question counts per passage.
 
 ## Passages workflow
 
-1. Edit `passages/{a1,a2,b1}.txt`. Each block is `@ LV | Title | names: ... | oop: lemma=reason; ...`, then `S` sentence lines and `Q` question lines. Sentence indexes are 0-based.
+1. Edit `passages/*.txt`. Each block is `@ LV | Title | names: ... | oop: lemma=reason; ...`, then `S` sentence lines and `Q` question lines. Sentence indexes are 0-based.
 2. `.venv/bin/python tools/passages/assemble.py` writes `passages_src.json`.
 3. `PYTHONPATH=$VE .venv/bin/python -m packbuilder passages --lang sw --check .` lists every passage with its word count, coverage, out-of-pack and higher-level lemmas, and the errors.
 4. Fix until it reports 0 errors. The rules are 60-90 words at A1, 90-120 at A2 and 110-150 at B1, with coverage of at least 0.95/0.95/0.93. Each passage has 4-5 questions. Each question word must be linked in its sentence, and every out-of-pack lemma needs a reason.

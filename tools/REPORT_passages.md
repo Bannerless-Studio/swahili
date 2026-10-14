@@ -10,8 +10,8 @@ words = the builder's word count (the band rule); ws_words = whitespace-separate
 tokens of the passage text, the count the app shows (report only).
 
 - **A1**: 20 passages; words/passage 62-73 (median 65.0); ws_words 62-73; coverage min 1.000, median 1.000 (rule >= 0.95); linked min 1.000; questions mc 40, tf 60
-- **A2**: 20 passages; words/passage 92-117 (median 100.5); ws_words 92-117; coverage min 0.967, median 1.000 (rule >= 0.95); linked min 0.967; questions mc 40, tf 60
-- **B1**: 20 passages; words/passage 112-131 (median 122.5); ws_words 112-131; coverage min 0.973, median 1.000 (rule >= 0.93); linked min 0.973; questions mc 49, tf 45
+- **A2**: 30 passages; words/passage 91-119 (median 100.0); ws_words 91-119; coverage min 0.967, median 1.000 (rule >= 0.95); linked min 0.967; questions mc 60, tf 90
+- **B1**: 30 passages; words/passage 112-140 (median 124.0); ws_words 112-140; coverage min 0.973, median 1.000 (rule >= 0.93); linked min 0.973; questions mc 69, tf 75
 
 | id | lv | title | words | ws_words | coverage | linked | out-of-pack lemmas (reason) | higher-level lemmas |
 |---|---|---|---|---|---|---|---|---|
@@ -75,12 +75,33 @@ tokens of the passage text, the count the app shows (report only).
 | p0058 | B1 | Mkulima wa kahawa | 116 | 116 | 1.000 | 1.000 | - | - |
 | p0059 | B1 | Maisha mjini | 119 | 119 | 1.000 | 1.000 | - | - |
 | p0060 | B1 | Usafi wa mtaa | 117 | 117 | 1.000 | 1.000 | - | - |
+| p0061 | A2 | Mazoezi ya dharura | 91 | 91 | 1.000 | 1.000 | - | B1: shuka |
+| p0062 | A2 | Ombi la ruhusa | 98 | 98 | 1.000 | 1.000 | - | B1: cheo, pumzika, wikendi |
+| p0063 | A2 | Ziara ya makumbusho | 109 | 109 | 0.991 | 0.991 | makumbusho x1 (museum, the place visited, no pack word) | B1: mwongozo |
+| p0064 | A2 | Kambi ya shule | 107 | 107 | 1.000 | 1.000 | - | B1: hema, mbao, ziwa |
+| p0065 | A2 | Safari ya mashua | 99 | 99 | 1.000 | 1.000 | - | B1: utulivu, vua |
+| p0066 | A2 | Simu mpya | 100 | 100 | 1.000 | 1.000 | - | B1: ridhika, sanduku, vunjika |
+| p0067 | A2 | Mkutano wa mtaa | 96 | 96 | 1.000 | 1.000 | - | B1: malizika |
+| p0068 | A2 | Mbio za shule | 96 | 96 | 1.000 | 1.000 | - | B1: gonga |
+| p0069 | A2 | Mchoraji wa mtaani | 119 | 119 | 1.000 | 1.000 | - | B1: bandari, kipaji |
+| p0070 | A2 | Mahali papya pa kuishi | 111 | 111 | 1.000 | 1.000 | - | B1: ghorofa, pumzika |
+| p0071 | B1 | Bajeti ya familia | 134 | 134 | 1.000 | 1.000 | - | - |
+| p0072 | B1 | Mkulima na ukame | 119 | 119 | 1.000 | 1.000 | - | - |
+| p0073 | B1 | Safari ya kwenda Nairobi | 140 | 140 | 1.000 | 1.000 | - | - |
+| p0074 | B1 | Fainali ya mpira | 125 | 125 | 1.000 | 1.000 | - | - |
+| p0075 | B1 | Mama anapona | 122 | 122 | 1.000 | 1.000 | - | - |
+| p0076 | B1 | Siku ya kuhitimu | 113 | 113 | 1.000 | 1.000 | - | - |
+| p0077 | B1 | Safari porini | 118 | 118 | 1.000 | 1.000 | - | - |
+| p0078 | B1 | Treni ya mjini | 131 | 131 | 1.000 | 1.000 | - | - |
+| p0079 | B1 | Klabu ya vitabu | 128 | 128 | 1.000 | 1.000 | - | - |
+| p0080 | B1 | Chakula cha ghafla | 123 | 123 | 1.000 | 1.000 | - | - |
 
 Title words, and question/option words the budget does not count (a numeral-like
 pack word), that are out of the pack or above the passage's level (report only;
 the budget rule above is unchanged):
 
 - p0060: title 'usafi': out of pack
+- p0069: title 'mchoraji': mchoraji B1
 
 <!-- manual section: kept across runs -->
 ## Manual QA (2026-09-29, B1 round)
@@ -107,3 +128,11 @@ the budget rule above is unchanged):
   - Moshi (smoke), the town, in p0007 and p0039.
 - **Question English.** A question about an unnamed narrator says "the narrator" in its English, never he or she (p0012, p0015, p0019).
 - **Answer keys.** No B1 mc key repeats a run of 4 or more words from its passage; six keys in p0042, p0045, p0049, p0051 and p0058 were paraphrased in the 2026-09-29 fix wave.
+
+## Manual QA (2026-10-14, p0061-p0080)
+
+- **Source.** 10 A2 and 10 B1 passages in tools/passages/c_plus.txt, appended so p0001-p0060 keep their ids and parsed content (compared against HEAD). Chosen to cover A2/B1 words the first 60 never linked.
+- **Out-of-pack lemmas.** One declared: makumbusho (museum, p0063). Others were reworded into pack words (football, kitchen and boat terms among them).
+- **Tagger traps reworded.** majini read as jini, alipotoa as potoa, ilivunjika links vunjika (not vunja), muuzaji and mwenyeji out of pack, a multi-word name such as Dar es Salaam leaves "es" unlinked.
+- **Answer keys.** Unique-longest key in 3 of the 40 new mc items; answer positions 5/5/5/5 per level; no tf statement shares a 5-word run with its text; no key repeats a 4-word run.
+- **Content policy.** No music, dance, alcohol, romance, gambling or pork. Football and a hospital visit stay in line with p0030 and p0051.
