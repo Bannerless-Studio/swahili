@@ -30,7 +30,7 @@ S Daktari alisema kwamba uchunguzi huu ni muhimu sana kwa afya yake. | The docto
 S Najua kwamba wiki ijayo kuna wateja wengi, lakini nitaandaa kazi zote mapema. | I know that next week there are many customers, but I will prepare all the work early.
 S Ninashukuru kwa uelewa wako. | I thank you for your understanding.
 S Wako, Fatuma. | Yours, Fatuma.
-Q mc | 1 | omba,ruhusa | Fatuma anaomba nini? | What does Fatuma ask for? | Kupumzika siku mbili kazini ;; Kupandishwa cheo ;; Kupewa mshahara zaidi ;; Kuhamia ofisi nyingine mjini
+Q mc | 1 | omba,ruhusa | Fatuma anaomba nini? | What does Fatuma ask for? | Siku mbili za kutokuwepo kazini ;; Kupandishwa cheo ;; Kupewa mshahara zaidi ;; Kuhamia ofisi nyingine mjini
 Q tf | T | 2 | uchunguzi | Mama wa Fatuma anakwenda hospitali kwa ajili ya uchunguzi. | Fatuma's mother is going to the hospital for an examination.
 Q tf | F | 3 | dada,mbali | Dada ya Fatuma anaweza kumpeleka mama hospitali. | Fatuma's sister can take their mother to the hospital.
 Q mc | 5 | kubali,mteja | Salim atafanya nini wakati Fatuma hayupo? | What will Salim do while Fatuma is away? | Atawasaidia wateja wa Fatuma ;; Atamwandikia mama yake barua ndefu ;; Atakwenda hospitali ;; Atafunga ofisi
@@ -38,7 +38,7 @@ Q tf | T | 7 | hati,jaza | Fatuma yuko tayari kujaza hati ikihitajika. | Fatuma 
 
 @ A2 | Ziara ya makumbusho | oop: makumbusho=museum, the place visited, no pack word
 S Wiki iliyopita darasa letu lilifanya ziara ya makumbusho ya mji. | Last week our class made a visit to the town museum.
-S Mwongozo alitueleza historia ya nchi yetu tangu karne nyingi zilizopita. | The guide explained to us the history of our country from many centuries ago.
+S Kiongozi alitueleza historia ya nchi yetu tangu karne nyingi zilizopita. | The guide explained to us the history of our country from many centuries ago.
 S Katika chumba cha kwanza tuliona vyombo vya zamani vya kupikia na vazi la mfalme. | In the first room we saw old cooking pots and a king's garment.
 S Vazi hilo lilikuwa na rangi ya dhahabu na lilikuwa zito sana. | That garment was the colour of gold and was very heavy.
 S Chumba cha pili kilikuwa na ramani kubwa ya Afrika ukutani. | The second room had a big map of Africa on the wall.
@@ -47,11 +47,11 @@ S Mwalimu alituomba tuandike tuliyoyaona bila kugusa chochote. | The teacher ask
 S Mimi nilipenda sana picha za wasanii wa zamani, hasa picha ya mashua ndogo baharini. | I liked very much the pictures by artists of old, especially the picture of a small boat at sea.
 S Kabla ya kuondoka tulinunua vitabu vidogo vya kumbukumbu. | Before leaving we bought small books as souvenirs.
 S Ziara hiyo ilitufundisha mengi, na sasa ninataka kurudi pamoja na familia yangu. | The visit taught us a lot, and now I want to go back with my family.
-Q mc | 1 | mwongozo,historia | Mwongozo alieleza nini? | What did the guide explain? | Mambo ya zamani za nchi ;; Njia za kufika mjini ;; Bei za vitabu ;; Kazi za walimu
+Q mc | 1 | kiongozi,historia | Kiongozi alieleza nini? | What did the guide explain? | Mambo ya zamani ya nchi ;; Njia za kufika mjini ;; Bei za vitabu ;; Kazi za walimu
 Q tf | F | 2 | vazi,mfalme | Vazi la mfalme lilikuwa jepesi. | The king's garment was light.
 Q mc | 5 | ramani,mstari | Mstari mwekundu kwenye ramani ulionyesha nini? | What did the red line on the map show? | Njia ya kale ya biashara ;; Mpaka wa nchi ;; Mahali pa makumbusho ;; Barabara kuu ya mji wa sasa
-Q tf | T | 6 | gusa | Wanafunzi hawakuruhusiwa kugusa vitu. | The students were not allowed to touch things.
-Q tf | F | 7 | msanii,mashua | Mwandishi alipenda picha ya mkulima shambani. | The writer liked the picture of a farmer in the field.
+Q tf | T | 6 | gusa | Mwalimu alitaka wanafunzi wasiguse vitu. | The teacher wanted the students not to touch things.
+Q tf | F | 7 | msanii,mashua | Mwanafunzi alipenda picha ya mkulima shambani. | The student liked the picture of a farmer in the field.
 
 @ A2 | Kambi ya shule | names: Baraka
 S Mwezi uliopita Baraka alikwenda kambi ya shule kwa siku tatu. | Last month Baraka went to a school camp for three days.
@@ -72,9 +72,9 @@ Q tf | F | 7 | kikundi,nafasi | Kikundi cha Baraka kilimaliza mwisho. | Baraka's
 Q tf | T | 8 | tuzo,bendera | Washindi walipewa tuzo na bendera. | The winners were given a prize and a flag.
 
 @ A2 | Safari ya mashua | names: Pemba, Hamisi
-S Jumamosi iliyopita baba yangu alinipeleka Pemba kwa mashua pamoja na mjomba Hamisi. | Last Saturday my father took me to Pemba by boat with uncle Hamisi.
+S Jumamosi iliyopita baba yangu alinipeleka Pemba kwa mashua ili kumtembelea mjomba Hamisi. | Last Saturday my father took me to Pemba by boat to visit uncle Hamisi.
 S Asubuhi bahari ilikuwa na utulivu na jua lilikuwa kali. | In the morning the sea was calm and the sun was strong.
-S Umbali kutoka mji hadi kisiwani ni maili kumi tu. | The distance from the town to the island is only ten miles.
+S Umbali kutoka mji hadi kisiwani ni maili chache tu. | The distance from the town to the island is only a few miles.
 S Hata hivyo, upepo mkali ulikuja na mawimbi yakawa makubwa. | However, a strong wind came and the waves became big.
 S Mwenye mashua alituomba tukae chini na tusisimame. | The owner of the boat asked us to sit down and not stand.
 S Mimi niliogopa kidogo, lakini baba alinishika mkono na kunieleza kwamba mashua ni imara. | I was a little afraid, but my father held my hand and explained to me that the boat is strong.
@@ -82,7 +82,7 @@ S Baada ya saa moja dhoruba ilipita na anga likawa safi tena. | After an hour th
 S Nilichukua kamera ya baba na kupiga picha za samaki wakiruka juu ya maji. | I took my father's camera and took pictures of fish jumping above the water.
 S Tulipowasili kisiwani, mjomba alitupokea na kutupa chakula kizuri. | When we arrived on the island, my uncle received us and gave us good food.
 S Siku hiyo nilijifunza kwamba tahadhari ni muhimu baharini. | That day I learned that caution is important at sea.
-Q mc | 0 | mashua | Baba na mtoto walisafiri kwa nini? | How did the father and child travel? | Kwa mashua ya baharini ;; Kwa basi kubwa la abiria ;; Kwa ndege ndogo ;; Kwa gari la mjomba
+Q mc | 0 | mashua | Baba na mtoto walisafiri kwa usafiri gani? | By what transport did the father and child travel? | Kwa mashua ya baharini ;; Kwa basi kubwa la abiria ;; Kwa ndege ndogo ;; Kwa gari la mjomba
 Q tf | F | 2 | umbali,maili | Umbali wa kwenda kisiwani ni mrefu sana. | The distance to the island is very long.
 Q mc | 4 | kaa,omba | Mwenye mashua aliwaomba abiria wafanye nini? | What did the owner of the boat ask the passengers to do? | Kukaa chini ;; Kuvua samaki ;; Kula chakula ;; Kupiga kelele
 Q tf | T | 6 | dhoruba,anga | Hali ya hewa ilirudi kuwa nzuri baadaye. | The weather became good again later.
@@ -117,7 +117,7 @@ S Watoto wadogo hawaruhusiwi kuingia, kwa hiyo tafadhali waache nyumbani. | Smal
 S Mkutano utamalizika kabla ya saa sita mchana. | The meeting will end before twelve noon.
 S Kuhudhuria kwenu ni muhimu kwa maendeleo ya mtaa wetu. | Your attendance is important for the progress of our neighbourhood.
 Q mc | 2 | mada | Mkutano utazungumzia nini? | What will the meeting discuss? | Huduma za maji na barabara ;; Michezo ya vijana wa shule za mtaa ;; Bei za nyumba ;; Harusi za mtaani
-Q tf | F | 3 | familia | Kila familia inatakiwa kutuma watu watano. | Every family is required to send five people.
+Q tf | F | 3 | familia,tuma | Kila familia inatakiwa kutuma watu watano. | Every family is required to send five people.
 Q mc | 4 | lalamiko,orodha | Mtu mwenye malalamiko afanye nini? | What should a person with complaints do? | Ayaweke kwenye orodha ya ofisi ;; Ayaseme mtaani ;; Ayapeleke polisi wa kituo cha mtaa ;; Ayatume kwa simu
 Q tf | T | 7 | ruhusu | Watoto wadogo wataachwa nyumbani. | Small children will be left at home.
 Q tf | T | 8 | malizika | Mkutano hautaendelea hadi jioni. | The meeting will not continue until the evening.
@@ -127,15 +127,15 @@ S Zuhura ni msichana mwenye kasi sana shuleni kwao. | Zuhura is a girl who is ve
 S Kila asubuhi hukimbia kwa nusu saa kabla ya kwenda darasani. | Every morning she runs for half an hour before going to class.
 S Mwezi huu shule yao ilifanya mbio za mita mia mbili. | This month their school held a two-hundred-metre race.
 S Wasichana kumi walishiriki, na kila mmoja alitaka kuwa mshindi. | Ten girls took part, and each one wanted to be the winner.
-S Zuhura alianza vizuri, lakini nusu ya njia aligonga jiwe na kuanguka. | Zuhura started well, but halfway she hit a stone and fell.
-S Alipata jeraha dogo kwenye mguu, lakini hakulia. | She got a small injury on her leg, but she did not cry.
-S Hata hivyo, alisimama haraka na kuendelea kukimbia. | However, she stood up quickly and kept running.
-S Alimaliza mbio katika nafasi ya pili, nyuma ya msichana mwenye urefu mkubwa. | She finished the race in second place, behind a tall girl.
+S Zuhura alianza polepole, lakini nusu ya njia aliongeza kasi na kuwapita wasichana watatu. | Zuhura started slowly, but halfway she added speed and passed three girls.
+S Mwishoni alikuwa karibu na mshindi, lakini alichoka sana. | At the end she was close to the winner, but she was very tired.
+S Hata hivyo, aliendelea kukimbia hadi mwisho wa njia. | Even so, she kept running to the end of the course.
+S Alimaliza mbio katika nafasi ya pili, nyuma ya msichana mrefu. | She finished the race in second place, behind a tall girl.
 S Mwalimu wa michezo alisema kwamba ujasiri wake ni mkubwa na kumpa zawadi. | The sports teacher said that her courage is great and gave her a gift.
 S Zuhura anasema kwamba mwaka ujao atafanya mazoezi zaidi na kushinda. | Zuhura says that next year she will practise more and win.
 Q mc | 2 | mbio,mita | Mbio za shule zilikuwa za umbali gani? | How long was the school race? | Mita mia mbili ;; Mita elfu moja ;; Maili kumi ;; Mita ishirini
 Q tf | T | 3 | shiriki,mshindi | Wasichana kumi walishiriki kwenye mbio. | Ten girls took part in the race.
-Q mc | 5 | jeraha,mguu | Zuhura alipata shida gani njiani? | What problem did Zuhura have on the way? | Aliumia mguu alipoanguka ;; Alipoteza kiatu ;; Alichoka na kusimama ;; Alikosea njia na kupotea barabarani
+Q mc | 4 | kasi,njia | Zuhura alifanya nini nusu ya njia? | What did Zuhura do halfway? | Aliongeza kasi ;; Alisimama kupumzika ;; Alirudi nyuma kabisa ;; Aliacha mbio kwa muda
 Q tf | F | 7 | maliza,nafasi | Zuhura alishinda mbio. | Zuhura won the race.
 Q tf | T | 8 | ujasiri,mwalimu | Mwalimu alifurahia ujasiri wa Zuhura. | The teacher was pleased with Zuhura's courage.
 
@@ -167,7 +167,7 @@ S Mama alikuwa na wasiwasi kuhusu usalama, lakini mlinzi wa mtaa alimhakikishia 
 S Baada ya wiki mbili watoto walizoea shule mpya na kupata marafiki. | After two weeks the children got used to the new school and made friends.
 S Baba anasema kwamba nyumba ni kubwa, ila ni mbali kidogo na kazini. | Father says that the house is big, but it is a little far from work.
 S Hata hivyo, wote wana furaha kwa sababu wana nafasi zaidi ya kucheza na kupumzika. | Even so, everyone is happy because they have more room to play and rest.
-Q mc | 1 | nyumba,dogo | Kwa nini familia ilihamia nyumba mpya? | Why did the family move to a new house? | Ya zamani haikutosha watu wote ;; Baba alipata kazi mjini ;; Mtaa wa zamani ulikuwa na kelele ;; Walipenda jirani wapya
+Q mc | 1 | nyumba,dogo | Kwa nini familia ilihamia nyumba mpya? | Why did the family move to a new house? | Nyumba ya zamani haikutosha watu wote ;; Baba alipata kazi mjini ;; Mtaa wa zamani ulikuwa na kelele ;; Walipenda jirani wapya
 Q tf | T | 4 | ramani,duka | Yusufu alitumia simu yake kutafuta duka. | Yusufu used his phone to look for a shop.
 Q mc | 5 | jirani,njia | Nani alimwonyesha Yusufu njia ya sokoni? | Who showed Yusufu the way to the market? | Jirani mwema ;; Mwalimu wake ;; Mlinzi wa mtaa ;; Dereva wa basi
 Q tf | F | 7 | zoea | Watoto hawakupenda shule mpya. | The children did not like the new school.
@@ -185,7 +185,7 @@ S Mara ya kwanza ilikuwa vigumu kwa sababu watoto walitaka mavazi mapya, lakini 
 S Baada ya miezi sita walikuwa wamekusanya pesa za kutosha kwa dharura yoyote. | After six months they had collected enough money for any emergency.
 S Rukia anasema kwamba bajeti si adhabu bali ni ramani ya kufikia malengo. | Rukia says that a budget is not a punishment but a map for reaching goals.
 S Mwaka ujao wanapanga kutumia pesa hizo kufungua duka kubwa zaidi. | Next year they plan to use that money to open a bigger shop.
-Q tf | T | 0 | ishi | Rukia ana watoto watatu. | Rukia has three children.
+Q tf | T | 0 | mtoto,ishi | Rukia ana watoto watatu. | Rukia has three children.
 Q mc | 2 | kipato,mapato | Mapato ya duka la Rukia ni ya aina gani? | What kind of earnings does Rukia's shop have? | Si sawa kila wiki ;; Ni makubwa kila siku ;; Ni sawa kila mwezi ;; Hayapatikani kamwe
 Q mc | 5 | tenga,akaunti | Waliamua kufanya nini na sehemu ya mshahara? | What did they decide to do with part of the salary? | Kuiweka benki ;; Kununua nguo mpya ;; Kumpa jirani ;; Kujenga nyumba
 Q tf | F | 7 | vazi,mzazi | Watoto walikubali mpango huo mara moja. | The children accepted the plan immediately.
@@ -195,7 +195,7 @@ Q tf | T | 8 | dharura,kusanya | Baada ya miezi sita familia ilikuwa na pesa za 
 S Mzee Bakari ana shamba dogo karibu na Dodoma, ambako hupanda mahindi na mboga. | Old Bakari has a small farm near Dodoma, where he plants maize and vegetables.
 S Mwaka huu mvua zilichelewa kwa wiki nyingi, na ukame ulianza kuonekana. | This year the rains came late by many weeks, and a drought began to show.
 S Majani ya mimea yalianza kuwa makavu, na mbegu zilizopandwa mapema hazikuota vizuri. | The leaves of the plants began to be dry, and the seeds planted early did not sprout well.
-S Maji ya kijiji yalikuwa machache, na watu walipanga foleni ndefu kuyatafuta. | The village's water was little, and people formed long queues to look for it.
+S Maji ya kijiji yalikuwa machache, na watu walipanga foleni ndefu kuyatafuta. | The village's water was scarce, and people formed long queues to look for it.
 S Mzee Bakari hakukata tamaa, bali alijitahidi kutafuta suluhisho. | Old Bakari did not give up but tried hard to find a solution.
 S Alikwenda kwa afisa wa kilimo, ambaye alimshauri kuchimba bwawa dogo shambani. | He went to the agriculture officer, who advised him to dig a small pond on the farm.
 S Majirani walijitolea kumsaidia, na baada ya siku kumi bwawa lilikuwa tayari. | The neighbours volunteered to help him, and after ten days the pond was ready.
@@ -205,13 +205,13 @@ S Ingawa mimea ya mwaka huu haikuwa mingi, familia yake haikukosa chakula. | Alt
 S Sasa Mzee Bakari huwafundisha vijana wa kijiji jinsi ya kutunza maji. | Now Old Bakari teaches the young people of the village how to look after water.
 Q mc | 1 | mvua,chelewa | Tatizo kuu la mwaka huu lilikuwa nini? | What was the main problem this year? | Maji ya mvua yalikuja kuchelewa ;; Wadudu walikula mimea ;; Soko lilifungwa ;; Barabara ilikatika
 Q tf | F | 3 | maji,foleni | Kijijini kulikuwa na maji mengi. | There was plenty of water in the village.
-Q mc | 5 | afisa,bwawa | Afisa wa kilimo alimshauri Mzee Bakari nini? | What did the agriculture officer advise Old Bakari? | Achimbe bwawa dogo ;; Auze shamba lake na ahamie mjini ;; Ahamie mjini ;; Anunue ng'ombe
+Q mc | 5 | afisa,bwawa | Afisa wa kilimo alimshauri Mzee Bakari nini? | What did the agriculture officer advise Old Bakari? | Achimbe bwawa dogo ;; Auze shamba lake na ahamie mjini ;; Aombe msaada serikalini ;; Anunue ng'ombe
 Q tf | T | 6 | jirani,saidia | Majirani walimsaidia kuchimba bwawa. | The neighbours helped him dig the pond.
 Q tf | F | 9 | chakula | Familia ya Mzee Bakari ilikosa chakula. | Old Bakari's family lacked food.
 
 @ B1 | Safari ya kwenda Nairobi | names: Nairobi, Halima
 S Halima alipanga kusafiri kwenda Nairobi kuhudhuria mkutano wa kazi wa siku tatu. | Halima planned to travel to Nairobi to attend a three-day work meeting.
-S Siku moja kabla ya safari aliangalia pasipoti yake na kugundua kwamba muda wake umekwisha. | One day before the trip she looked at her passport and found that its time had expired.
+S Siku moja kabla ya safari aliangalia pasipoti yake na kugundua kwamba muda wake umekwisha. | One day before the trip she looked at her passport and found that it was no longer valid.
 S Alishangaa sana, lakini hakuogopa kwa sababu alikumbuka kwamba ofisi ya pasipoti inafunguliwa Jumamosi. | She was very surprised, but she did not panic because she remembered that the passport office opens on Saturday.
 S Asubuhi alifika mapema na kukuta foleni ndefu ya watu wengi. | In the morning she arrived early and found a long queue of many people.
 S Baada ya kujaza fomu, alilipa ada na kuambiwa kwamba atapata pasipoti mpya baada ya saa mbili. | After filling in a form, she paid a fee and was told that she would get a new passport after two hours.
@@ -231,18 +231,18 @@ Q tf | T | 10 | angalia,mapema | Halima sasa huangalia hati zake mapema. | Halim
 S Jumamosi iliyopita ilikuwa siku kubwa kwa kilabu cha mpira cha mtaa wetu. | Last Saturday was a big day for our neighbourhood football club.
 S Timu ya vijana ilifika fainali ya mashindano ya wilaya kwa mara ya kwanza. | The youth team reached the final of the district competition for the first time.
 S Kocha Mwinyi aliwaambia wachezaji wasiogope bali wacheze kwa utulivu. | Coach Mwinyi told the players not to be afraid but to play calmly.
-S Uwanja ulijaa mashabiki, na kila mpira ulipokaribia lango, kelele zilikuwa nyingi. | The field was full of fans, and each time the ball came near the gate there was a lot of noise.
+S Uwanja ulijaa mashabiki, na kila mchezaji alipopiga mpira, kelele zilikuwa nyingi. | The field was full of fans, and each time a player kicked the ball there was a lot of noise.
 S Katika dakika ya kumi timu nyingine ilitangulia kufunga. | In the tenth minute the other team scored first.
 S Hata hivyo, wachezaji wetu hawakukata tamaa na waliendelea kucheza kwa nguvu. | However, our players did not give up and kept playing hard.
 S Kipindi cha pili kilipoanza, kijana mmoja mwenye kipaji alipiga mpira mrefu na timu zikalingana. | When the second half began, a talented young man kicked a long ball and the teams were level.
-S Mchezo uliisha sare, kwa hiyo walicheza dakika zingine kumi na tano. | The game ended in a draw, so they played another fifteen minutes.
+S Mchezo uliisha bila mshindi, kwa hiyo walicheza dakika zingine kumi na tano. | The game ended with no winner, so they played another fifteen minutes.
 S Kijana mwingine wa timu yetu alifunga tena kwa mguu wa kushoto, na tukashinda. | Another young man of our team scored again with his left foot, and we won.
 S Baada ya mchezo mashabiki walimbeba kocha juu kwa furaha. | After the game the fans carried the coach up in joy.
 S Nahodha wa timu alipokea kikombe na kusema kwamba ushindi huo ni wa mtaa mzima. | The captain of the team received the cup and said that the victory belonged to the whole neighbourhood.
 Q tf | T | 1 | fainali | Kwa mara ya kwanza, vijana wa mtaa walifika fainali. | For the first time, the young people of the neighbourhood reached the final.
 Q mc | 2 | kocha,ogopa | Kocha aliwashauri wachezaji wafanye nini? | What did the coach advise the players to do? | Wasiwe na hofu uwanjani ;; Wakimbie haraka ;; Wapumzike kwanza ;; Wasicheze kwa nguvu wala kukimbia
 Q tf | F | 4 | timu,tangulia | Timu ya mtaa ilifunga kwanza. | The neighbourhood team scored first.
-Q mc | 7 | sare,dakika | Nini kilitokea baada ya mchezo kuisha sare? | What happened after the game ended in a draw? | Walicheza muda zaidi ;; Walirudia siku nyingine ;; Walimaliza mchezo ;; Kocha alibadilishwa
+Q mc | 7 | mshindi,dakika | Nini kilitokea baada ya mchezo kuisha bila mshindi? | What happened after the game ended with no winner? | Walicheza muda zaidi ;; Walirudia siku nyingine ;; Walimaliza mchezo ;; Kocha alibadilishwa
 Q tf | T | 10 | nahodha,kikombe | Nahodha alisema ushindi ni wa mtaa wote. | The captain said the victory belonged to the whole neighbourhood.
 
 @ B1 | Mama anapona | names: Tabu, Muhimbili
@@ -258,7 +258,7 @@ S Hatimaye daktari alitutangazia kwamba kila kitu kimeenda vizuri. | Finally the
 S Mama alikaa hospitalini kwa wiki mbili, na tulimtembelea kila siku. | Mother stayed in hospital for two weeks, and we visited her every day.
 S Sasa anaendelea na mazoezi mepesi, na maumivu yamekwisha karibu kabisa. | Now she is continuing with light exercises, and the pain has almost completely gone.
 Q tf | F | 0 | mgongo | Maumivu ya Tabu yalikuwa ya mguu. | Tabu's pain was in the leg.
-Q mc | 1 | dawa,kazi | Mwanzoni familia ilidhani tatizo ni nini? | What did the family think the problem was at first? | Alikuwa amefanya kazi sana ;; Ugonjwa wa moyo uliokuwa mkali ;; Chakula kibaya ;; Baridi kali
+Q mc | 1 | dawa,kazi | Mwanzoni familia ilidhani tatizo ni nini? | What did the family think the problem was at first? | Kazi nyingi mno ;; Ugonjwa wa moyo uliokuwa mkali ;; Chakula kibaya ;; Baridi kali
 Q mc | 4 | mfupa,upasuaji | Matokeo ya vipimo yalionyesha nini? | What did the test results show? | Mfupa ulikuwa umeumia ;; Alikuwa mzima kabisa na mwenye nguvu ;; Alihitaji dawa tu ;; Alihitaji kupumzika
 Q tf | T | 6 | pona,kawaida | Daktari alisema watu wengi hupona haraka. | The doctor said many people recover quickly.
 Q tf | T | 10 | zoezi,maumivu | Mama ameanza mazoezi mepesi. | Mother has begun light exercises.
@@ -281,8 +281,8 @@ Q mc | 3 | kofia,vaa | Wahitimu walivaa nini ukumbini? | What did the graduates 
 Q tf | T | 8 | ada,mchango | Bibi alichangia pesa za ada ya Anna. | The grandmother contributed money for Anna's fees.
 
 @ B1 | Safari porini | names: Tarangire, Kassim
-S Mwezi wa nane familia yetu ilikwenda kutembelea hifadhi ya Tarangire. | In August our family went to visit Tarangire national park.
-S Mwongozo wetu aliitwa Kassim, na alikuwa na uzoefu wa miaka kumi na tano. | Our guide was called Kassim, and he had fifteen years of experience.
+S Mwezi wa nane familia yetu ilikwenda kutembelea mbuga ya Tarangire. | In August our family went to visit Tarangire national park.
+S Kiongozi wetu aliitwa Kassim, na alikuwa na uzoefu wa miaka kumi na tano. | Our guide was called Kassim, and he had fifteen years of experience.
 S Alituambia mapema kwamba hatupaswi kushuka kwenye gari wala kupiga kelele. | He told us early that we must not get out of the car or make noise.
 S Tulipoingia tu porini, tuliwaona tembo kumi wakila majani chini ya mti mkubwa. | As soon as we entered the wilderness we saw ten elephants eating leaves under a big tree.
 S Mtoto wa tembo alicheza na maji kwenye bwawa dogo, na dada yangu alipiga picha nyingi. | A baby elephant played with water in a small pond, and my sister took many pictures.
@@ -292,7 +292,7 @@ S Saa sita mchana tulisimama chini ya mti kula chakula cha mchana, tukiwa makini
 S Jioni, tulipokuwa tunarudi, msafara wa magari ulisimama kwa sababu simba walikuwa wamepumzika barabarani. | In the evening, as we were returning, the line of cars stopped because lions were resting on the road.
 S Tulisubiri kimya hadi walipoondoka wenyewe. | We waited quietly until they left by themselves.
 S Safari hiyo ilinifundisha kuheshimu mazingira na wanyama wote. | That trip taught me to respect the environment and all animals.
-Q mc | 1 | mwongozo,uzoefu | Kassim alikuwa nani? | Who was Kassim? | Mwongozo wa wageni ;; Dereva wa basi ;; Mkulima wa kijiji cha jirani ;; Mwalimu wa shule
+Q mc | 1 | kiongozi,uzoefu | Kassim alikuwa nani? | Who was Kassim? | Kiongozi wa wageni ;; Dereva wa basi ;; Mkulima wa kijiji cha jirani ;; Mwalimu wa shule
 Q tf | F | 2 | shuka,kelele | Kassim aliruhusu abiria kushuka kwenye gari. | Kassim allowed the passengers to get out of the car.
 Q tf | T | 3 | tembo,majani | Walipoingia porini waliona tembo wengi. | When they entered the wilderness they saw many elephants.
 Q mc | 8 | simba,msafara | Kwa nini msafara wa magari ulisimama? | Why did the line of cars stop? | Simba walikuwa barabarani ;; Gari moja liliharibika njiani ;; Mvua ilianza ;; Njia ilifungwa

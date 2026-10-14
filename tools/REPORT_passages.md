@@ -76,19 +76,19 @@ tokens of the passage text, the count the app shows (report only).
 | p0059 | B1 | Maisha mjini | 119 | 119 | 1.000 | 1.000 | - | - |
 | p0060 | B1 | Usafi wa mtaa | 117 | 117 | 1.000 | 1.000 | - | - |
 | p0061 | A2 | Mazoezi ya dharura | 91 | 91 | 1.000 | 1.000 | - | B1: shuka |
-| p0062 | A2 | Ombi la ruhusa | 98 | 98 | 1.000 | 1.000 | - | B1: cheo, pumzika, wikendi |
-| p0063 | A2 | Ziara ya makumbusho | 109 | 109 | 0.991 | 0.991 | makumbusho x1 (museum, the place visited, no pack word) | B1: mwongozo |
+| p0062 | A2 | Ombi la ruhusa | 98 | 98 | 1.000 | 1.000 | - | B1: cheo, wikendi |
+| p0063 | A2 | Ziara ya makumbusho | 109 | 109 | 0.991 | 0.991 | makumbusho x1 (museum, the place visited, no pack word) | - |
 | p0064 | A2 | Kambi ya shule | 107 | 107 | 1.000 | 1.000 | - | B1: hema, mbao, ziwa |
 | p0065 | A2 | Safari ya mashua | 99 | 99 | 1.000 | 1.000 | - | B1: utulivu, vua |
 | p0066 | A2 | Simu mpya | 100 | 100 | 1.000 | 1.000 | - | B1: ridhika, sanduku, vunjika |
 | p0067 | A2 | Mkutano wa mtaa | 96 | 96 | 1.000 | 1.000 | - | B1: malizika |
-| p0068 | A2 | Mbio za shule | 96 | 96 | 1.000 | 1.000 | - | B1: gonga |
+| p0068 | A2 | Mbio za shule | 98 | 98 | 1.000 | 1.000 | - | B1: pumzika |
 | p0069 | A2 | Mchoraji wa mtaani | 119 | 119 | 1.000 | 1.000 | - | B1: bandari, kipaji |
 | p0070 | A2 | Mahali papya pa kuishi | 111 | 111 | 1.000 | 1.000 | - | B1: ghorofa, pumzika |
 | p0071 | B1 | Bajeti ya familia | 134 | 134 | 1.000 | 1.000 | - | - |
 | p0072 | B1 | Mkulima na ukame | 119 | 119 | 1.000 | 1.000 | - | - |
 | p0073 | B1 | Safari ya kwenda Nairobi | 140 | 140 | 1.000 | 1.000 | - | - |
-| p0074 | B1 | Fainali ya mpira | 125 | 125 | 1.000 | 1.000 | - | - |
+| p0074 | B1 | Fainali ya mpira | 126 | 126 | 1.000 | 1.000 | - | - |
 | p0075 | B1 | Mama anapona | 122 | 122 | 1.000 | 1.000 | - | - |
 | p0076 | B1 | Siku ya kuhitimu | 113 | 113 | 1.000 | 1.000 | - | - |
 | p0077 | B1 | Safari porini | 118 | 118 | 1.000 | 1.000 | - | - |

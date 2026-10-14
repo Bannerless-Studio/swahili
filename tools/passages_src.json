@@ -7920,7 +7920,7 @@
       "Kupandishwa cheo",
       "Kupewa mshahara zaidi",
       "Kuhamia ofisi nyingine mjini",
-      "Kupumzika siku mbili kazini"
+      "Siku mbili za kutokuwepo kazini"
      ],
      "answer": 3,
      "words": [
@@ -7997,7 +7997,7 @@
      "Last week our class made a visit to the town museum."
     ],
     [
-     "Mwongozo alitueleza historia ya nchi yetu tangu karne nyingi zilizopita.",
+     "Kiongozi alitueleza historia ya nchi yetu tangu karne nyingi zilizopita.",
      "The guide explained to us the history of our country from many centuries ago."
     ],
     [
@@ -8035,18 +8035,18 @@
    ],
    "questions": [
     {
-     "q": "Mwongozo alieleza nini?",
+     "q": "Kiongozi alieleza nini?",
      "en": "What did the guide explain?",
      "type": "mc",
      "options": [
       "Njia za kufika mjini",
-      "Mambo ya zamani za nchi",
+      "Mambo ya zamani ya nchi",
       "Bei za vitabu",
       "Kazi za walimu"
      ],
      "answer": 1,
      "words": [
-      "mwongozo",
+      "kiongozi",
       "historia"
      ],
      "sentence": 1
@@ -8081,8 +8081,8 @@
      "sentence": 5
     },
     {
-     "q": "Wanafunzi hawakuruhusiwa kugusa vitu.",
-     "en": "The students were not allowed to touch things.",
+     "q": "Mwalimu alitaka wanafunzi wasiguse vitu.",
+     "en": "The teacher wanted the students not to touch things.",
      "type": "tf",
      "options": null,
      "answer": true,
@@ -8092,8 +8092,8 @@
      "sentence": 6
     },
     {
-     "q": "Mwandishi alipenda picha ya mkulima shambani.",
-     "en": "The writer liked the picture of a farmer in the field.",
+     "q": "Mwanafunzi alipenda picha ya mkulima shambani.",
+     "en": "The student liked the picture of a farmer in the field.",
      "type": "tf",
      "options": null,
      "answer": false,
@@ -8242,16 +8242,16 @@
    ],
    "sentences": [
     [
-     "Jumamosi iliyopita baba yangu alinipeleka Pemba kwa mashua pamoja na mjomba Hamisi.",
-     "Last Saturday my father took me to Pemba by boat with uncle Hamisi."
+     "Jumamosi iliyopita baba yangu alinipeleka Pemba kwa mashua ili kumtembelea mjomba Hamisi.",
+     "Last Saturday my father took me to Pemba by boat to visit uncle Hamisi."
     ],
     [
      "Asubuhi bahari ilikuwa na utulivu na jua lilikuwa kali.",
      "In the morning the sea was calm and the sun was strong."
     ],
     [
-     "Umbali kutoka mji hadi kisiwani ni maili kumi tu.",
-     "The distance from the town to the island is only ten miles."
+     "Umbali kutoka mji hadi kisiwani ni maili chache tu.",
+     "The distance from the town to the island is only a few miles."
     ],
     [
      "Hata hivyo, upepo mkali ulikuja na mawimbi yakawa makubwa.",
@@ -8284,8 +8284,8 @@
    ],
    "questions": [
     {
-     "q": "Baba na mtoto walisafiri kwa nini?",
-     "en": "How did the father and child travel?",
+     "q": "Baba na mtoto walisafiri kwa usafiri gani?",
+     "en": "By what transport did the father and child travel?",
      "type": "mc",
      "options": [
       "Kwa basi kubwa la abiria",
@@ -8548,7 +8548,8 @@
      "options": null,
      "answer": false,
      "words": [
-      "familia"
+      "familia",
+      "tuma"
      ],
      "sentence": 3
     },
@@ -8619,19 +8620,19 @@
      "Ten girls took part, and each one wanted to be the winner."
     ],
     [
-     "Zuhura alianza vizuri, lakini nusu ya njia aligonga jiwe na kuanguka.",
-     "Zuhura started well, but halfway she hit a stone and fell."
+     "Zuhura alianza polepole, lakini nusu ya njia aliongeza kasi na kuwapita wasichana watatu.",
+     "Zuhura started slowly, but halfway she added speed and passed three girls."
     ],
     [
-     "Alipata jeraha dogo kwenye mguu, lakini hakulia.",
-     "She got a small injury on her leg, but she did not cry."
+     "Mwishoni alikuwa karibu na mshindi, lakini alichoka sana.",
+     "At the end she was close to the winner, but she was very tired."
     ],
     [
-     "Hata hivyo, alisimama haraka na kuendelea kukimbia.",
-     "However, she stood up quickly and kept running."
+     "Hata hivyo, aliendelea kukimbia hadi mwisho wa njia.",
+     "Even so, she kept running to the end of the course."
     ],
     [
-     "Alimaliza mbio katika nafasi ya pili, nyuma ya msichana mwenye urefu mkubwa.",
+     "Alimaliza mbio katika nafasi ya pili, nyuma ya msichana mrefu.",
      "She finished the race in second place, behind a tall girl."
     ],
     [
@@ -8674,21 +8675,21 @@
      "sentence": 3
     },
     {
-     "q": "Zuhura alipata shida gani njiani?",
-     "en": "What problem did Zuhura have on the way?",
+     "q": "Zuhura alifanya nini nusu ya njia?",
+     "en": "What did Zuhura do halfway?",
      "type": "mc",
      "options": [
-      "Aliumia mguu alipoanguka",
-      "Alipoteza kiatu",
-      "Alichoka na kusimama",
-      "Alikosea njia na kupotea barabarani"
+      "Aliongeza kasi",
+      "Alisimama kupumzika",
+      "Alirudi nyuma kabisa",
+      "Aliacha mbio kwa muda"
      ],
      "answer": 0,
      "words": [
-      "jeraha",
-      "mguu"
+      "kasi",
+      "njia"
      ],
-     "sentence": 5
+     "sentence": 4
     },
     {
      "q": "Zuhura alishinda mbio.",
@@ -8897,7 +8898,7 @@
       "Baba alipata kazi mjini",
       "Mtaa wa zamani ulikuwa na kelele",
       "Walipenda jirani wapya",
-      "Ya zamani haikutosha watu wote"
+      "Nyumba ya zamani haikutosha watu wote"
      ],
      "answer": 3,
      "words": [
@@ -9024,6 +9025,7 @@
      "options": null,
      "answer": true,
      "words": [
+      "mtoto",
       "ishi"
      ],
      "sentence": 0
@@ -9112,7 +9114,7 @@
     ],
     [
      "Maji ya kijiji yalikuwa machache, na watu walipanga foleni ndefu kuyatafuta.",
-     "The village's water was little, and people formed long queues to look for it."
+     "The village's water was scarce, and people formed long queues to look for it."
     ],
     [
      "Mzee Bakari hakukata tamaa, bali alijitahidi kutafuta suluhisho.",
@@ -9180,7 +9182,7 @@
      "options": [
       "Achimbe bwawa dogo",
       "Auze shamba lake na ahamie mjini",
-      "Ahamie mjini",
+      "Aombe msaada serikalini",
       "Anunue ng'ombe"
      ],
      "answer": 0,
@@ -9231,7 +9233,7 @@
     ],
     [
      "Siku moja kabla ya safari aliangalia pasipoti yake na kugundua kwamba muda wake umekwisha.",
-     "One day before the trip she looked at her passport and found that its time had expired."
+     "One day before the trip she looked at her passport and found that it was no longer valid."
     ],
     [
      "Alishangaa sana, lakini hakuogopa kwa sababu alikumbuka kwamba ofisi ya pasipoti inafunguliwa Jumamosi.",
@@ -9364,8 +9366,8 @@
      "Coach Mwinyi told the players not to be afraid but to play calmly."
     ],
     [
-     "Uwanja ulijaa mashabiki, na kila mpira ulipokaribia lango, kelele zilikuwa nyingi.",
-     "The field was full of fans, and each time the ball came near the gate there was a lot of noise."
+     "Uwanja ulijaa mashabiki, na kila mchezaji alipopiga mpira, kelele zilikuwa nyingi.",
+     "The field was full of fans, and each time a player kicked the ball there was a lot of noise."
     ],
     [
      "Katika dakika ya kumi timu nyingine ilitangulia kufunga.",
@@ -9380,8 +9382,8 @@
      "When the second half began, a talented young man kicked a long ball and the teams were level."
     ],
     [
-     "Mchezo uliisha sare, kwa hiyo walicheza dakika zingine kumi na tano.",
-     "The game ended in a draw, so they played another fifteen minutes."
+     "Mchezo uliisha bila mshindi, kwa hiyo walicheza dakika zingine kumi na tano.",
+     "The game ended with no winner, so they played another fifteen minutes."
     ],
     [
      "Kijana mwingine wa timu yetu alifunga tena kwa mguu wa kushoto, na tukashinda.",
@@ -9438,8 +9440,8 @@
      "sentence": 4
     },
     {
-     "q": "Nini kilitokea baada ya mchezo kuisha sare?",
-     "en": "What happened after the game ended in a draw?",
+     "q": "Nini kilitokea baada ya mchezo kuisha bila mshindi?",
+     "en": "What happened after the game ended with no winner?",
      "type": "mc",
      "options": [
       "Walicheza muda zaidi",
@@ -9449,7 +9451,7 @@
      ],
      "answer": 0,
      "words": [
-      "sare",
+      "mshindi",
       "dakika"
      ],
      "sentence": 7
@@ -9541,7 +9543,7 @@
      "type": "mc",
      "options": [
       "Ugonjwa wa moyo uliokuwa mkali",
-      "Alikuwa amefanya kazi sana",
+      "Kazi nyingi mno",
       "Chakula kibaya",
       "Baridi kali"
      ],
@@ -9730,11 +9732,11 @@
    ],
    "sentences": [
     [
-     "Mwezi wa nane familia yetu ilikwenda kutembelea hifadhi ya Tarangire.",
+     "Mwezi wa nane familia yetu ilikwenda kutembelea mbuga ya Tarangire.",
      "In August our family went to visit Tarangire national park."
     ],
     [
-     "Mwongozo wetu aliitwa Kassim, na alikuwa na uzoefu wa miaka kumi na tano.",
+     "Kiongozi wetu aliitwa Kassim, na alikuwa na uzoefu wa miaka kumi na tano.",
      "Our guide was called Kassim, and he had fifteen years of experience."
     ],
     [
@@ -9781,13 +9783,13 @@
      "type": "mc",
      "options": [
       "Dereva wa basi",
-      "Mwongozo wa wageni",
+      "Kiongozi wa wageni",
       "Mkulima wa kijiji cha jirani",
       "Mwalimu wa shule"
      ],
      "answer": 1,
      "words": [
-      "mwongozo",
+      "kiongozi",
       "uzoefu"
      ],
      "sentence": 1

@@ -59,6 +59,15 @@ def main():
     passages = []
     for p in sorted(HERE.glob("*.txt")):
         passages += parse(p)
+    out = HERE.parent / "passages_src.json"
+    if out.exists():
+        old = json.loads(out.read_text(encoding="utf-8"))["passages"]
+        if len(passages) < len(old):
+            sys.exit("id stability: fewer passages than the published source")
+        for o, n in zip(old, passages):
+            if (o["lv"], o["title"]) != (n["lv"], n["title"]):
+                sys.exit(f"id stability: {o['id']} was {o['lv']} {o['title']!r}, now {n['lv']} {n['title']!r}; "
+                         "a source file sorting before an existing one renumbers published ids")
     pos = 0
     longest = Counter()
     mc = Counter()
